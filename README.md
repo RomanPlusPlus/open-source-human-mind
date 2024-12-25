@@ -47,6 +47,10 @@ Some possible use cases (feel free to use in any other way too!):
 
 I see mind uploading (even in the self-description form) as a form of immortality. As long as at least one instance of my mind is running somewhere, I continue to live. 
 
+## Where can I read more about your phylosophy?
+
+For example, this article: [Resurrecting all humans ever lived as a technical problem](https://romanplusplus.github.io/technological-resurrection/eng/text.html).
+
 ## A human mind contains a lot of private info. How do you handle it?
 
 In the data published in the repo, I've carefully removed private info of other people, including addresses and names. For example, instead of menting the full name of my school friend, it's listed as <school_friend_A.N.>. Additionally, before releaseing the data, I use frontier LLMs to go over the data and search for addresses and names, to identify any such entries I may have missed. 
