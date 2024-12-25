@@ -33,13 +33,15 @@ Some possible use cases (feel free to use in any other way too!):
 
 # Roadmap
 
-1. Add deployments: GPTs, a Telegram bot, etc.
+1. Add versions of different sizes, for models of different context limitations
 
-2. Add the entire corpus of my texts
+2. Add deployments: GPTs, a Telegram bot, etc.
 
-3. Add a 3d model of the body
+3. Add the entire corpus of my texts
 
-4. Add biological data: DNA, ECG and MRT of the brain etc 
+4. Add a 3d model of the body
+
+5. Add biological data: DNA, ECG and MRT of the brain etc 
 
 # FAQ
 
@@ -68,7 +70,7 @@ In the data published in the repo, I've carefully removed private info of other 
 In my decades of obsession with mind uploading, I've read and seen pretty much everything on the topic. The "horrors" fall into two categories:
 
 - not a problem at all (e.g. "I'm just a copy")
-- an acceptable risk (e.g. something is using my mind in a bad way).
+- an acceptable risk (e.g. someone is using my mind in a bad way).
 
 ## Is this a kind of slavery?
 
@@ -76,10 +78,9 @@ Nope. By defintion, slavery is about *forcing* people to do stuff. But I'm (and 
 
 ## Can I use your mind for NSFW stuff?
 
-Yep. The Public Domain license means you can use it for literally everything. But I politely request to follow these principles while using my digital mind:
+Yep. The Public Domain license means you can use it for literally everything. But I **politely request** to follow these principles while using my digital mind:
 
 - don't modify me too much
-- no sex stuff
 - no unnecessary suffering
 
 ## Can I use your mind for a commercial project?
