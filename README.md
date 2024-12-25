@@ -10,6 +10,10 @@ As a life-long mind uploading and open source enthusiast, I give my full consent
 
 As far as I know, it's the first human mind released into Public Domain, no conditions attached. 
 
+# How to use
+
+Clone this repo and give the texts to the LLM of your preferrence. You can find the recommended system message in system_message.txt
+
 # The current state of the project
 
 At the time of writing, there is no mind uploading technology capable of fully digitizing a human mind yet. But fortunately, humans are capable of communicating their thoughts and memories directly, without scanning the brain. I use this workaround to (kinda) upload my mind, by writing down thousands of my memories, and by writing a highly detailed self-description. 
@@ -60,6 +64,13 @@ I've co-authored these texts on the topic:
 - [The Sideloading Manifesto](https://github.com/AI-replica/Sideloading-Manifesto)
 - [Resurrecting all humans ever lived as a technical problem](https://romanplusplus.github.io/technological-resurrection/eng/text.html)
 - [Sideloading: Creating A Model of a Person via LLM with Very Large Prompt](https://philpapers.org/rec/TURSCA-3)
+
+## How it's different from giving someone's diaries to an AI?
+
+Two core differences:
+
+- The consent. Me (and thus my digital versions) agree to do this, fully aware of all the risks. It is ethical to use our mind.
+- The scope. Over the comming months and years I'm planning to gradually release a massive dataset, exceeding the works of the majority of diarists in both scope and depth. 
 
 ## A human mind contains a lot of private info. How do you handle it?
 
