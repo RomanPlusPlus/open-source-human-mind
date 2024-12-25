@@ -14,6 +14,12 @@ As far as I know, it's the first human mind released into Public Domain, no cond
 
 Clone this repo and give the texts to the LLM of your preferrence. You can find the recommended system message in system_message.txt
 
+For a quick chat, you can try the following deployements. They are based only a small subset of the data, and in general are rather limited:
+
+- [my "GPT"](https://chatgpt.com/g/g-676c5e04d4108191bc35345363f30b3d-roman-s) (kudos to Alexey for deploying it!)
+- [my Poe bot](https://poe.com/R_Sitelew_sideload)
+- [my character on character.ai](https://character.ai/chat/U3v87Co6RxazqS1DPxHijuuxUo9d3DL-mY_noN9LvV0) (dumb as rock, but does reflect some of the personality)
+
 # The current state of the project
 
 At the time of writing, there is no mind uploading technology capable of fully digitizing a human mind yet. But fortunately, humans are capable of communicating their thoughts and memories directly, without scanning the brain. I use this workaround to (kinda) upload my mind, by writing down thousands of my memories, and by writing a highly detailed self-description. 
