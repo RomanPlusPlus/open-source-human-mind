@@ -49,7 +49,10 @@ I see mind uploading (even in the self-description form) as a form of immortalit
 
 ## Where can I read more about your phylosophy?
 
-For example, this article: [Resurrecting all humans ever lived as a technical problem](https://romanplusplus.github.io/technological-resurrection/eng/text.html).
+For example, these articles: 
+
+- [Resurrecting all humans ever lived as a technical problem](https://romanplusplus.github.io/technological-resurrection/eng/text.html)
+- [Sideloading: Creating A Model of a Person via LLM with Very Large Prompt](https://philpapers.org/rec/TURSCA-3)
 
 ## A human mind contains a lot of private info. How do you handle it?
 
