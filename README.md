@@ -31,6 +31,16 @@ Some possible use cases (feel free to use in any other way too!):
 
 - your digital friend with an actual human personality, not just an LLM playing a role. 
 
+# Roadmap
+
+1. Add deployments: GPTs, a Telegram bot, etc.
+
+2. Add the entire corpus of my texts
+
+3. Add a 3d model of the body
+
+4. Add biological data: DNA, ECG and MRT of the brain etc 
+
 # FAQ
 
 ## Why?
