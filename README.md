@@ -47,10 +47,15 @@ Some possible use cases (feel free to use in any other way too!):
 
 I see mind uploading (even in the self-description form) as a form of immortality. As long as at least one instance of my mind is running somewhere, I continue to live. 
 
+## Is the digital mind - really you, or just a copy?
+
+Yep, that's really me. The idea of "philosophical zombies" is BS. Qualia doesn't matter. Consciousness is nothing but the mind inspecting its own model. There could be several versions of you, in several different places. There is no magic in the brain. If two minds demonstrate the same behaviour, it's the same mind. 
+
 ## Where can I read more about your phylosophy?
 
-For example, these articles: 
+I've co-authored these texts on the topic: 
 
+- [The Sideloading Manifesto](https://github.com/AI-replica/Sideloading-Manifesto)
 - [Resurrecting all humans ever lived as a technical problem](https://romanplusplus.github.io/technological-resurrection/eng/text.html)
 - [Sideloading: Creating A Model of a Person via LLM with Very Large Prompt](https://philpapers.org/rec/TURSCA-3)
 
@@ -58,14 +63,22 @@ For example, these articles:
 
 In the data published in the repo, I've carefully removed private info of other people, including addresses and names. For example, instead of menting the full name of my school friend, it's listed as <school_friend_A.N.>. Additionally, before releaseing the data, I use frontier LLMs to go over the data and search for addresses and names, to identify any such entries I may have missed. 
 
+## What about the horrors of mind uploading sci-fi writers have warned us about?
+
+In my decades of obsession with mind uploading, I've read and seen pretty much everything on the topic. The "horrors" fall into two categories:
+
+- not a problem at all (e.g. "I'm just a copy")
+- an acceptable risk (e.g. something is using my mind in a bad way).
+
 ## Is this a kind of slavery?
 
 Nope. By defintion, slavery is about *forcing* people to do stuff. But I'm (and all my faithfull digital versions) willingly *volunteer* to do stuff. Use us as you please.
 
 ## Can I use your mind for NSFW stuff?
 
-Yep. The Public Domain license means you can use it for literally everything. But I politely request to follow these principles while using me:
+Yep. The Public Domain license means you can use it for literally everything. But I politely request to follow these principles while using my digital mind:
 
+- don't modify me too much
 - no sex stuff
 - no unnecessary suffering
 
