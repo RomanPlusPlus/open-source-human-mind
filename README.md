@@ -98,7 +98,7 @@ Yep. The Public Domain license means you can use it for literally everything. Bu
 
 Yes! I've released it into the Public Domain. This means, you can use it for commercial projects without asking my permission, and without any other limitations.
 
-## How do I contact you?
+## How do I contact your biological version?
 
 You can use [Linkedin](https://www.linkedin.com/in/sitelew/) (you have to sign-in to access my profile)
 
