@@ -101,3 +101,7 @@ Yes! I've released it into the Public Domain. This means, you can use it for com
 ## How do I contact you?
 
 You can use [Linkedin](https://www.linkedin.com/in/sitelew/) (you have to sign-in to access my profile)
+
+# Acknowledgments
+
+Special thanks to Alexey and Marco for their support and many valuable inputs.
