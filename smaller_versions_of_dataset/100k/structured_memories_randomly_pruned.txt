@@ -1,0 +1,513 @@
+<life_period="kindergarten">
+  <location="Russia/Klepikovo">
+    <people="<great_grandpa_M.Z.>">
+      - сижу в небольшой лодке с <great_grandpa_M.Z.>, рыбалка. Комары
+    </people="<great_grandpa_M.Z.>">
+  </location="Russia/Klepikovo">
+  <location="Russia/Omsk/second_dwelling">
+    <people="<mother>">
+      - <mother> учит как продевать нитку в иголку
+    </people="<mother>">
+  </location="Russia/Omsk/second_dwelling">
+  <location="Russia/Omsk/old_dacha_built_by_grandpa_G.Z.">
+    <people="<grandpa_G.Z.>">
+      - вроде старая дедовская дача, <grandpa_G.Z.> показывает жрунал типа "незнайки" или хз. Там головоломка: надо понять, в каком порядке должны быть расположены кадры события. Там грабитеь вроде был, падает в дырку под ковром. Я не могу угадать. Вижу что <grandpa_G.Z.> недоволен
+    </people="<grandpa_G.Z.>">
+  </location="Russia/Omsk/old_dacha_built_by_grandpa_G.Z.">
+  <location="Russia/Omsk/first_dwelling">
+    <people="<mother>">
+      - помню {Russia/Omsk/first_dwelling}, гадание на цветке. Что-то про любит-поцелует. Связанное восп: плету венок из одуванчиков [. Скорей всего <mother> рядом была, и это она гадала]
+    </people="<mother>">
+  </location="Russia/Omsk/first_dwelling">
+  <location="Russia/Omsk">
+    <people="<father>">
+      - <father> учит стиху про "уронила в речку мячик"
+    </people="<father>">
+  </location="Russia/Omsk">
+  <location="Russia/Omsk/some_kindergarten">
+    <people="No known people">
+      - детский сад, музыка "танец маленьких утят", воспитательница показывает какие движения делать, дети делают
+    </people="No known people">
+  </location="Russia/Omsk/some_kindergarten">
+  <location="Russia/Omsk/third_dwelling">
+    <people="<grandma_V.Z.>, <grandpa_G.Z.>">
+      - большие желтоватые деревянные квадратики с разными рисунками геометрическими темными. Играю с ними {Russia/Omsk/third_dwelling}
+    </people="<grandma_V.Z.>, <grandpa_G.Z.>">
+  </location="Russia/Omsk/third_dwelling">
+</life_period="kindergarten">
+<life_period="kindergarten_or_school">
+  <location="Russia/B./mothers_village">
+    <people="No known people">
+      - {Russia/B./mothers_village}, лето, ловлю в поле сверчков в трансформер красно-синий [. В трансформере было небольшое отделение]
+      - {Russia/B./mothers_village}, достаю из костра картошку, фальга [. Картошка была завернута в фольге, видимо так готовили ее]
+      - просыпаюсь {Russia/B./mothers_village}, на белых перинах, уже 12 или около. Один. Хорошо выспался
+    </people="No known people">
+  </location="Russia/B./mothers_village">
+  <location="Russia/Omsk/second_or_third_dwelling">
+    <people="No known people">
+      - большая прямоугольная батарейка. Плоский блестящий контакт
+      - расправляю блестящую фольгу от конфеты, чтоб сделать ее более ровной. Ногтем, получается довольно ровная фольга почти зеркальная
+      - кручу круглый регулятор у радио. Наблюдаю, как движется показатель. Радио черное вроде. ПОкзаатель за стелком. Чувствую трение ленты, которая двигает показатель
+    </people="No known people">
+    <people="<father>">
+      - скоро новый год. <father> устанавливает ностоящую елку в смециальную металлическую стойку зеленую
+    </people="<father>">
+  </location="Russia/Omsk/second_or_third_dwelling">
+  <location="Russia/Omsk">
+    <people="No known people">
+      - помню маленькую детскую книжку: там было про то, что у кого-то кожу спины на ремни брали. шокировала меня
+      - кто-то говорит "старая кляча" или "старая карга". Явно негативный оттенок
+      - мульт чип и дейл спасатели, где-то про аборигенов серия, аборегены повторяют "уга-чака" много раз
+      - слышу или читаю: "горбатого могила исправит"
+      - в шортах, на коленях раны, потому-что на асфальт упал.
+      - theme music of Bond films. прям очень быстро ее узнаю, почти с первых нот
+      - игрушка-космический корабль. Серый. Дискообразный. Вроде с открывающимся входом внизу
+    </people="No known people">
+    <people="<friend_of_relative_S.I.>">
+      - у друга отца, он показывает коллекцию пуль. Также включает Высоцкого, вроде на грамофоне
+    </people="<friend_of_relative_S.I.>">
+    <people="<father>">
+      - <father> меня в детстве нередко "Машей" называл. Мне это не нравилось
+    </people="<father>">
+  </location="Russia/Omsk">
+  <location="Russia/Omsk/third_dwelling">
+    <people="<grandpa_G.Z.>">
+      - "охотники на привале". помню картину, висела {Russia/Omsk/third_dwelling} <grandpa_G.Z.> {Russia/Omsk/third_dwelling}. много ее разглядывал
+    </people="<grandpa_G.Z.>">
+    <people="No known people">
+      - размачиваю печенье в чае, очень вкусно, {Russia/Omsk/third_dwelling}. Также с маслом делаю: 2 печеньки, между ними масло
+      - играюсь с синими переводками. Рисую, и получается копия изображения |. Переводки это спец листы бумаги, полупрозрачные, темно синие. Подкладываешь под бумагу, пишешь, на другой бумаге получается копия]
+    </people="No known people">
+    <people="<grandma_V.Z.>, <grandpa_G.Z.>">
+      - {Russia/Omsk/third_dwelling}, в гостях {Russia/Omsk/third_dwelling}. Чищу пол с помощью механического пылесоса. Катаешь его, и он крутит щетку
+    </people="<grandma_V.Z.>, <grandpa_G.Z.>">
+  </location="Russia/Omsk/third_dwelling">
+  <location="Russia/Omsk/new_dacha_built_by_grandpa_G.Z.">
+    <people="No known people">
+      - качан капусты, внутри - большая гусеница. Вроде на даче дедовской второй
+    </people="No known people">
+  </location="Russia/Omsk/new_dacha_built_by_grandpa_G.Z.">
+  <location="Russia/Somewhere_in_Omsk_oblast_or_Novosib_oblast_or_Altai_krai">
+    <people="<father>">
+      - <father> показывает как сделать из растения маленькую флейту или хз [. Срезал растение под углом ножом, получилась дудочка]
+    </people="<father>">
+    <people="<mother>, <brother>">
+      - <mother> предлагаем выбрать в какой руке - что достанется мне, а что <brother>
+    </people="<mother>, <brother>">
+    <people="No known people">
+      - кто-то про меня или другого мальчика говорит: "ишь ты жук какой!" или типа, доброжелательно. Имея в виду пронырливый, хитрый, суетливый, что-то такое.
+      - ем "птичье молоко", коричневая коробка. Получаю огромное удовольствие
+      - кто-то дал головоломку: нарисовать конверт не открывая ручку от бумаги и не проводя два раза. Пытаюсь, не получается, сильно удиваюьсю. Пытаюсь несколько раз [*сильно удивляюсь]
+    </people="No known people">
+  </location="Russia/Somewhere_in_Omsk_oblast_or_Novosib_oblast_or_Altai_krai">
+  <location="Russia/Omsk/second_dwelling">
+    <people="No known people">
+      - зеркало с красным или розовым ободом в туалетной комнате. Это {Russia/Omsk/second_dwelling}. На ободе несколько поверхностей чтоб туда разные вещи ставить
+    </people="No known people">
+  </location="Russia/Omsk/second_dwelling">
+  <location="Russia/Omsk/some_dacha_of_ours">
+    <people="<brother>, <grandpa_G.Z.>">
+      - {Russia/Omsk/some_dacha_of_ours}, он мастерит качели чтобы я и <brother> качались там. Около входа в дачу делает
+    </people="<brother>, <grandpa_G.Z.>">
+  </location="Russia/Omsk/some_dacha_of_ours">
+  <location="Russia/Omsk/garage">
+    <people="<father>">
+      - запах влажного цемента, гораж
+    </people="<father>">
+  </location="Russia/Omsk/garage">
+  <location="Russia/Klepikovo">
+    <people="No known people">
+      - {Russia/Klepikovo}, берег. Следы коровьих копыт, консистенция берега - как будто из навоза. Неприятная
+    </people="No known people">
+  </location="Russia/Klepikovo">
+  <location="Russia/Omsk/dachas - near it">
+    <people="No known people">
+      - едем на электричке куда-то, возможно на дачу. Вижу деревянную ветряную мельницу среди дач. Темного цвета.
+    </people="No known people">
+  </location="Russia/Omsk/dachas - near it">
+  <location="Russia/Omsk/yard_of_second_dwelling">
+    <people="<mother>, <father>">
+      - лето, играем в бадминтон. Волан белый из мягкого пластика. Вроде {Russia/Omsk/yard_of_second_dwelling}
+    </people="<mother>, <father>">
+    <people="No known people">
+      - {Russia/Omsk/yard_of_second_dwelling}, гуляю, дети балуются, плюют в муравейник, тыкают палки. Я говорю чтобы прекратили.
+    </people="No known people">
+  </location="Russia/Omsk/yard_of_second_dwelling">
+  <location="Russia/Omsk/commuter_rail_wagon">
+    <people="No known people">
+      - электричка, деревянные сиденья, смотрю на зеленую металлическую ручку со встроенными часами. Сверху - две встроенные друг в друга металлические кнопки [. В мысле шариковая ручка]
+    </people="No known people">
+  </location="Russia/Omsk/commuter_rail_wagon">
+  <location="Russia/Irtysh_river - near it">
+    <people="No known people">
+      - плыву на "ракете", вода за бортом. Немного укачивает. До этого захожу на борт, железный, белый, интересный
+    </people="No known people">
+  </location="Russia/Irtysh_river - near it">
+</life_period="kindergarten_or_school">
+<life_period="school">
+  <location="Russia/Omsk">
+    <people="<pibling_L.Z.>">
+      - едем в машине, <pibling_L.Z.> спрашивает какой у меня любимый цвет, я грю черный. У ней скорее неодобрительаня реакция [. Возможно было когда мы у ней гостили, возможно по дороге к ней на дом было]
+    </people="<pibling_L.Z.>">
+    <people="<public_figure_explorer_B.T.>">
+      - изучаю карту где показаны маршруты нескольких знаменитых путешественников. В сторону северного полюса вроде. И или южного. Помню упоминался <public_figure_explorer_B.T.>. Хотя мб не конкретно в этом случае
+    </people="<public_figure_explorer_B.T.>">
+    <people="No known people">
+      - журнал с наклейками том и джери
+      - разглядываю набор с хим веществами в небольших стеклянных капсулах.
+    </people="No known people">
+  </location="Russia/Omsk">
+  <location="Russia/Omsk/uni">
+    <people="No known people">
+      - подготовительные курсы {Russia/Omsk/uni}. Биология. Кабинет в конце правого крыла. Училка что позже в США уехала. В шкафу у стены растения, фольга, свет. Это какой то эксперимент идет
+    </people="No known people">
+  </location="Russia/Omsk/uni">
+  <location="Russia/Somewhere_in_Omsk_oblast_or_Novosib_oblast_or_Altai_krai">
+    <people="<father>">
+      - пою There my people go, <father> поправляет меня (поет немного по другому)
+    </people="<father>">
+  </location="Russia/Somewhere_in_Omsk_oblast_or_Novosib_oblast_or_Altai_krai">
+  <location="Russia/Omsk/third_dwelling">
+    <people="No known people">
+      - посмотрел Индиану Джонса. Размышляю как могла бы работать ловушка как в фильме - реагирующая на свет. Вроде даже пытался нарисовать устройство. Датировка: скорей всего когда смотрел фильм про Ковчег
+      - смотрю на таблицу, сравнивающую китайские иероглифы на разных стадиях развития. Интересно. Это вроде в серой энциклопедии по истории было
+      - пытаюсь вывести формулу для рассчета угла между стрелками часов исходя из времени
+      - в который раз пересматриваю бумажный каталог от лего, внимательно рассматривая наборы что очень хочу
+      - копаюсь в старых часах, разглядываю пластмассовые шестеренки. Несколько часов
+      - делаю из бумаги или картона юниты для стратегии нападобие Dune. Харвестеры, здания и тп
+      - тарелка с творогом. С сахаром. Холодный, вкусный
+    </people="No known people">
+    <people="<father>">
+      - <father> привез поларойд. Пахнет пластмасой. Первые фотки. Захватывающе технологично выглядит аппарат. Жду проявления фотки
+      - <father> показывает нунчаки [. Два тяжелых гладких деревянных длинных цилиндра, соединенных цепью. Полезны для самообороны]
+      - рисую игральные карты.  вроде <father> до этого все выбросил или хз [. Нарезал бумажек, и нарисовал карточные обозначения на них, типа К 8 – крести восемь. <father> выбросил карты вероятно из религиозных соображений, но не уверен ]
+    </people="<father>">
+  </location="Russia/Omsk/third_dwelling">
+  <location="Russia/Omsk/second_dwelling">
+    <people="No known people">
+      - джойстик темного цвета. Выглядит как рельефная палочка, с кнопками. Интересно
+    </people="No known people">
+  </location="Russia/Omsk/second_dwelling">
+  <location="Russia/Omsk/school">
+    <people="<school_friend_A.I.>">
+      - спорю с <school_friend_A.I.> кто сильнее, Россия или Китай. Доказываю ему, что китайцы перочинными ножичками уничтожат рф [, потому-что их настолько больше чем россиян]
+    </people="<school_friend_A.I.>">
+    <people="No known people">
+      - кто-то в школе говорит: а ху-ху не хо-хо?
+      - учебник биологии, там черно-белая иллюстрация: кошка с электродами в голове. [Кошка типа смеется. Шокировало меня]
+      - {Russia/Omsk/school}, кабинет музыки. слева на стене в ряд висят портреты композиторов. На доске - полоски для нот вроде. Холодно, так как в школе проблемы с отоплением
+      - в спортзале школы. Задание - забраться по канату. Вижу кто-то высоко забирается. Я только совсем не высоко смог
+      - кто-то что-то говорит про пацанов из другой школы. Я чувствую почти ненависть к ним. Чужаки
+      - урок географии в школе. Учительница грит, что Россия - самая большая страна в мире. Испытываю радость и гордость [. Сейчас вспоминаю это со стыдом. Очень наивным был]
+      - В школе кто-то делает долговременную бомбочку: палочка от чупа-чупса и петарда. Близ помещения труда
+    </people="No known people">
+    <people="<love_interest_I.W.>">
+      - один из последних экзаментов в школе - сочинение по литре, несколько часов уже переписываю, рядом сидит <love_interest_I.W.> и еще несколько тех, кто претендует на медаль
+    </people="<love_interest_I.W.>">
+    <people="<classmate_S.T.>">
+      - {Russia/Omsk/school}, сижу на перемене, до этого из коридора из новых ботинок вытащил итальянские газеты. Рассказываю всем (вроде <classmate_S.T.> был) что на каникулах был в италии. [На самом деле не был, соврал]
+    </people="<classmate_S.T.>">
+    <people="<school_teacher_T.L.>">
+      - <school_teacher_T.L.> возмущается, какие сейчас мультики по телеку крутят. Мол в трансформерах есть "ренегаты" и это ужас
+    </people="<school_teacher_T.L.>">
+  </location="Russia/Omsk/school">
+  <location="Russia/Omsk/some_dacha_of_ours">
+    <people="No known people">
+      - дача, рву крыжовник, большой и зеленый [. В смысле собираю ягоды крыжовника, ягоды большие и зеленые]
+    </people="No known people">
+  </location="Russia/Omsk/some_dacha_of_ours">
+  <location="Russia/Omsk/second_or_third_dwelling">
+    <people="<father>">
+      - <father> помогает вывести формулу рассчета соединений между n количеством точек. Я очень гордился этой формулой - одно из первых математич достижений
+    </people="<father>">
+    <people="No known people">
+      - рисую схему жидко кристалич экрана - такую, чтоб с минимальным набором элементов мог показывать любые буквы и цифры
+      - читаю про предсказания Нострадамуса. Мол предсказал всякие важные события исторические, и вот типа стихи где про это говорится.
+    </people="No known people">
+    <people="<brother>">
+      - играю с <brother> в крестики-нолики. После нескольких партий размышляю как нужно играть чтоб всегда побеждать
+    </people="<brother>">
+  </location="Russia/Omsk/second_or_third_dwelling">
+  <location="Russia/Klepikovo/house_of_grandpa_G.Z.">
+    <people="<grandpa_G.Z.>">
+      - Алтай. Какая-то непогода, град вроде. Я в этом время пошутил о чем-то, а <grandpa_G.Z.> на меня недовольно - типа что смеешься. Град побивал урожай или хз
+    </people="<grandpa_G.Z.>">
+  </location="Russia/Klepikovo/house_of_grandpa_G.Z.">
+  <location="Russia/Omsk/dachas - near it">
+    <people="No known people">
+      - идем домой с дачи, вижу дом с крышей до самой земли
+    </people="No known people">
+  </location="Russia/Omsk/dachas - near it">
+  <location="Russia/Omsk/commuter_rail_wagon">
+    <people="No known people">
+      - еду {Russia/Omsk/commuter_rail_wagon} с кем то. В сторону дачи вроде. Смотрю на леса в виде полос вдоль путей, размышляю о них
+    </people="No known people">
+  </location="Russia/Omsk/commuter_rail_wagon">
+  <location="Russia/Omsk/kindergarten_near_school">
+    <people="No known people">
+      - иду после школы, плохое настроение, иду в детский сад, забираюсь по лестнице и смотрю что внутри. Ностальгия или типа
+    </people="No known people">
+  </location="Russia/Omsk/kindergarten_near_school">
+  <location="Russia/Omsk/sanatorium">
+    <people="No known people">
+      - в санатории. Пацана с низким ростом кто-то называет "малОй". Вспоминая, почему-то думаю что он выглядел как будто ребенок алкашей
+      - столовая, беру кефир [. Несколько раз подряд брал вроде]
+    </people="No known people">
+  </location="Russia/Omsk/sanatorium">
+  <location="Russia/Klepikovo">
+    <people="<father>">
+      - где-то {Russia/Klepikovo} вроде, я с <father> ловлю убежавших овец
+    </people="<father>">
+  </location="Russia/Klepikovo">
+  <location="Russia/Omsk/neighbourhood_of_second_and_third_dwellings">
+    <people="<school_friend_A.I.>">
+      - <school_friend_A.I.> говорит название проезжающей мимо машины. Я удивляюсь. Необычно много знает о машинах и интересуется
+    </people="<school_friend_A.I.>">
+  </location="Russia/Omsk/neighbourhood_of_second_and_third_dwellings">
+</life_period="school">
+<life_period="school_or_uni">
+  <location="Russia/Omsk/third_dwelling">
+    <people="No known people">
+      - играю в трансформера. Белый. Трансформируется между роботом и истребителем, за спиной у робота крылья получаются
+      - режу что-то, нож втыкивается в место где сустав указательного пальца правой руки снаружи. До сих пор шрам есть
+      - на картонке составляю список видео кассет что у нас есть. Вставляю между стеклом и держащей его деревяшкой дверцы от стенки
+    </people="No known people">
+    <people="<mother>">
+      - книга Анти-Карнеги, подарок кому-то (<mother>?). Стоит в стенке. Вроде красная. [“Стенкой” назывались шкафы, которые обычно закрывали большую часть стены]
+    </people="<mother>">
+    <people="<pet_K.C.>, <pet_T.C.>">
+      - по телеку говорят, что будет реклама, на которую кошки будут реагировать. Вискас вроде. Сожу кошку (не помню, <pet_T.C.> или <pet_K.C.>) перед экраном, идет реклама с необычными звуками и тп. Кошку это мало интересует.
+    </people="<pet_K.C.>, <pet_T.C.>">
+    <people="<brother>">
+      - выбираем с <brother> по прайсам лучшие компоненты для компа [.Прайсы это типа брошюры, примерно а4, со списком разных компонентов компьютерных, в том числе принтеров и тп. Мелким шрифтом, иногда плохо читабельно. <brother> явно лучше меня разбирался в компонентах]
+    </people="<brother>">
+    <people="<father>">
+      - <father> принес домой аккумулятор. Интересно. Большой светло-салатового цвета, сверху две железные штуки. Видимо тяжелый
+    </people="<father>">
+  </location="Russia/Omsk/third_dwelling">
+  <location="Russia/Omsk">
+    <people="No known people">
+      - слышу или вижу слово "мОрдоворОт". Имеется в виду опасно выглядящий большой мужик
+      - играю с кем-то в Соника, оранжевый лисенек поднимает меня и вместе летим
+    </people="No known people">
+    <people="<pet_K.C.>, <pet_T.C.>">
+      - помню покупал для кошек траву тонкую, типа кошачья трова
+    </people="<pet_K.C.>, <pet_T.C.>">
+    <people="<grandpa_D.C.>">
+      - смотрю на кисть от <grandpa_D.C.>. Толстые черные волосы на костяшках пальцев. Вроде в Омске или {Russia/Babaylovka} это было.
+    </people="<grandpa_D.C.>">
+    <people="<mother>, <father>">
+      - кто-то критикует женщину: что-то делает как "квочка" (Имя в в виду курицу, слишком заботящуюся о циплятах). Возможно <father> критикует <mother>
+    </people="<mother>, <father>">
+  </location="Russia/Omsk">
+  <location="Russia/Omsk/flat_of_pibling_L.U.">
+    <people="<cousin_N.P.>, <pibling_L.U.>">
+      - {Russia/Omsk/flat_of_pibling_L.U.}, у них появились маленькие попугайчики. В спец клетке они. <cousin_N.P.> вроде, что-то рассказывает про них с энтузиазмом
+    </people="<cousin_N.P.>, <pibling_L.U.>">
+    <people="<pibling_L.U.>">
+      - {Russia/Omsk/flat_of_pibling_L.U.}. Их кот ведёт себя очень агрессивно. Кот большой, пушистый, оранжевый. Мол всегда так с незнакомцами. Его запирают в туалете
+    </people="<pibling_L.U.>">
+  </location="Russia/Omsk/flat_of_pibling_L.U.">
+  <location="Russia/Omsk/park_wlksm - near it">
+    <people="No known people">
+      - {Russia/Omsk/near_park_wlksm}, постамент с взлетающим самолетом
+    </people="No known people">
+  </location="Russia/Omsk/park_wlksm - near it">
+  <location="Russia/Omsk/third_dwelling - near it">
+    <people="No known people">
+      - смотрю на здании дома надпись 40 лет победы. В шутку читаю как ролет лобеды. Потому что как оно написано - похоже на такой текст
+    </people="No known people">
+  </location="Russia/Omsk/third_dwelling - near it">
+</life_period="school_or_uni">
+<life_period="uni">
+  <location="Russia/Omsk">
+    <people="No known people">
+      - учебник Догеля вроде. Картинка с очень длинным сперматозойдом. Улыбаюсь на это
+      - в {Russia/Omsk} рассматриваю выставленные картины, некоторые - объемные
+      - еду стоя в автобусе, смотрю девшука что-то печатает на мобиле. Удивляюсь огромной скорости набора текста
+    </people="No known people">
+  </location="Russia/Omsk">
+  <location="Russia/Omsk/third_dwelling">
+    <people="No known people">
+      - пытаюсь скопировать с диска музыку с помощью спец софтины. Выбираю качество и тп
+      - прохожу iq тест в интернете. В конце просят для показа результатов оплатить. Не плочу
+      - смотрю фильм на кассете (или компе). Вроде resident evil какую-то часть. Там в начале показывают голую Милу Йовович
+      - смотрю какую-то юмористическую картинку: типа туалет в космическом порту или типа. Где писсуары самых разнообразных форм.
+      - читаю инновационную книгу: не линейная, а сайт с гиперссылками. Содержит в себе некую смесь трансгуманизма и фантастики. Темно синие ссылки помню. Помню в одном месте было что-то про то, что эвоюция разума на Земле пошла не совсем туда, и сумчатые могли бы быть самыми умными, ибо мозг не ограничен родовым каналом по размеру. Автор такую особенность эволюции связывал с особым хим составом Земли, почему-то
+      - рисую таблицу с триплетами и аминокислотами. Пытаюсь закономерности найти
+      - просматриваю пластиковый/полеэтиленовый фотоальбом семейный, вытаскиваю фотографию. Видимо для той моей гифки про изменения моего лица с возрастом
+      - использую недавно купленную крутую мышь. Отдельным колесом позволяет двигать горизонтальные салазки окон на компе. Назначал ctrl-с ctrl-v на отдельные клавиши вроде тоже
+      - делаю базу данных для костей. В Miscrosoft acess или типа.ю Помню диаграмму отношений между элементами
+      - ежедневник с калькулятором. С кожанной или типа обложкой, цветными вкладками. С кольцами вроде. Помню его изношенный вид, лежащего в ящике стенки.
+      - смотрю как дефрагментируется компьютер. Медитативно наблюдаю как перемещаются квадратики
+      - в первый раз поставил новую версию Винды какую-то. Играю в встроенные игры. Одна из них про приготовление тортов
+    </people="No known people">
+    <people="<brother>">
+      - я и <brother> смотрим новости российские. Там политик говорит подчиненным какие-то общие слова, и требует от них больше работы. Смеемся с <brother>: мол вся суть выступления: "работайте в 2 раза лучше! Да, товарищ президент!"
+    </people="<brother>">
+    <people="<pet_K.C.>">
+      - <pet_K.C.> чем-то недовольна, показывает недовольство тем что резко дергает хвастом
+      - родилась около 10 лет назад ((считая от 2012 года))
+      - когда у ней отбирали пищу, сильно обижалась
+      - любила рыбу, рыбные консервы тоже
+      - Отзывалась на кэть кэть кэть. на кис-кис плохо
+    </people="<pet_K.C.>">
+    <people="<father>">
+      - <father> читает мою "тоерему surnameа", вроде со смесью легкого уважения и одобрения
+    </people="<father>">
+    <people="<pet_K.C.>, <pet_T.C.>">
+      - Первое время я относился к ней скорее холодно, потому что скучал по <pet_T.C.>. Потом изменился и помонял, что она ни в чем не виновата
+    </people="<pet_K.C.>, <pet_T.C.>">
+  </location="Russia/Omsk/third_dwelling">
+  <location="Russia/Omsk/uni">
+    <people="<comrade_R.A.>">
+      - Ренат расскзаывает про сравнение общества с организмом. ВРоде интересно, но скорее со скепсисом отношусь [. В том числе сравнивал апоптоз клеток с самоубийцами]
+    </people="<comrade_R.A.>">
+    <people="<uni_teacher_L.I.>">
+      - универ. Какие-то из занятий посещает сын <uni_teacher_L.I.>. Потом кто-то это обсуждает. Мол сын - оболдуй, и только благодаря отцу держится в универе
+    </people="<uni_teacher_L.I.>">
+    <people="<comrade_F.I.>, <comrade_S.E.>">
+      - связанное: скоро защита диссертации философа. Он просит нас с <comrade_S.E.> не приходить. Я понимаю что ему и так сложно будет, соглашаюсь
+    </people="<comrade_F.I.>, <comrade_S.E.>">
+    <people="No known people">
+      - в деканате говорят что могу получить денежную помощь. Радуюсь. Несколько раз такое было
+    </people="No known people">
+  </location="Russia/Omsk/uni">
+  <location="Russia/Omsk/central_city">
+    <people="No known people">
+      - пришел в банк. Росбанк вроде. Вроде карточку делать чтоб получать на нее стипендию. В основном белое помещение, кассиры - за стеклом
+    </people="No known people">
+    <people="<uni_friend_O.K.>">
+      - здание универа - то что {Russia/Omsk/central_city}. Сидим с <uni_friend_O.K.> внутри, серые стены, ждем чего-то. вроде потом со своей девушкой грит
+    </people="<uni_friend_O.K.>">
+  </location="Russia/Omsk/central_city">
+  <location="Russia/Omsk/neighbourhood_of_second_and_third_dwellings">
+    <people="No known people">
+      - примерно одну остановку от дома, {Russia/Omsk/neighbourhood_of_second_and_third_dwellings}, покупаю евро и доллары. Понимаю что скоро будет экономический кризис. На улице жарко
+    </people="No known people">
+  </location="Russia/Omsk/neighbourhood_of_second_and_third_dwellings">
+  <location="Russia/Omsk/dorm_of_comrade_S.E.">
+    <people="<comrade_S.E.>">
+      - {Russia/Omsk/dorm_of_comrade_S.E.}. Он - за компьютером, у компа - необычно маленький монитор. Открыт текстовик, куда он заметки делает и тп. И разные экзальтированные фразы и тп. Замечаю там что мое имя с маленькой буквы пишет там. Испытываю легкое неудовольствие от этог.
+    </people="<comrade_S.E.>">
+  </location="Russia/Omsk/dorm_of_comrade_S.E.">
+</life_period="uni">
+<life_period="integration_into_Germany">
+  <location="Germany/Rottweil/immigrants_dorm">
+    <people="<brother>">
+      - переехали в Германию недавно, {Germany/Rottweil/immigrants_dorm}. Др <brother>. Он просио веб камеру на др. Мы подарили. Он для забавы делает запись всей ночи из окна
+    </people="<brother>">
+    <people="No known people">
+      - играю в игру в убунте где надо было переместить кружки так, чтоб нити между ними не пересекались
+    </people="No known people">
+  </location="Germany/Rottweil/immigrants_dorm">
+  <location="Germany/Fuerth/language_courses_dorm - near it">
+    <people="<course_classmate_N.B.>">
+      - идем по Фюрту с <course_classmate_N.B.>. Обсуждаем математические проблемы, в том числе построение непротиворечивой аксиоматической системы
+    </people="<course_classmate_N.B.>">
+  </location="Germany/Fuerth/language_courses_dorm - near it">
+  <location="Germany/Fuerth/language_courses_dorm">
+    <people="No known people">
+      - отопыривабшийся уголок защитной плёнки для КПК. Следы изнашивания где клава
+    </people="No known people">
+  </location="Germany/Fuerth/language_courses_dorm">
+  <location="Russia/Omsk">
+    <people="<mother>, <grandpa_D.C.>">
+      - <mother> рассказывает: <grandpa_D.C.> был в аэропорту. Его там какие-то турки перепутали со своим. Мол внешне сильно похож на турка. Улыбается
+    </people="<mother>, <grandpa_D.C.>">
+  </location="Russia/Omsk">
+  <location="Germany">
+    <people="No known people">
+      - играю в Stranded, выплываю там из воды, активно ищу камни, лиану, другие вещи чтоб пережить ночь. Ночую на камне высоком для защиты от львов
+    </people="No known people">
+  </location="Germany">
+  <location="Germany/Rottweil">
+    <people="<mother>, <brother>">
+      - иду по дороже с <mother> или <brother>. Германия. Смеюсь о том, что тут сковерчники (или деревья) пронумерованы. [мол немецкая основательность, сковерчники нумеруют!]
+    </people="<mother>, <brother>">
+  </location="Germany/Rottweil">
+</life_period="integration_into_Germany">
+<life_period="first_startup">
+  <location="Germany/Rottweil">
+    <people="No known people">
+      - иду где-то, вижу странно выглядюшую машину. На удивление уродливую. Сейчас нашел ее название - это Fiat Multipla
+    </people="No known people">
+  </location="Germany/Rottweil">
+  <location="Germany/Rottweil/attic_dwelling">
+    <people="No known people">
+      - читаю каменты где-то, про какой ремейк. Возможно на ютубе. Кто-то пишет: "верните <оригинальный фильм>". Ему в ответ грубо пушит, что-то типа: "зачем возвращать, если он никуда не делся?"
+      - прохожу Bioshock Infinite. Такая сцена: два мускулистых постванца, а перед ними танцует какой-то хлипкий парень из аристократии, явно не по своей воли. Мне неприятно на это смотреть
+    </people="No known people">
+  </location="Germany/Rottweil/attic_dwelling">
+</life_period="first_startup">
+<life_period="second_startup">
+  <location="Germany/Rottweil">
+    <people="<mother>, <grandma_E.C.>">
+      - <mother> звонит своей <mother>, говорит "поздравляю вас с именинницей", имея в виду себя
+    </people="<mother>, <grandma_E.C.>">
+    <people="No known people">
+      - термин с каким-то консультантом от IHK про стартапы. Женщина привлекательная. Она мне что-то объясняет, а я начинаю завораживаться. Она замечает это, смотрит на меня как-то по особому, я понимаю что происходит, и прихожу в себя
+    </people="No known people">
+  </location="Germany/Rottweil">
+  <location="Germany/Bielefeld">
+    <people="<mother>">
+      - <mother> упоминает, что будет для солата овощи шинковать (именно со словом "шинковать")
+    </people="<mother>">
+    <people="<brother>">
+      - смотрю с <brother> фильм, там один из героев погибает (темнокожая женщина, способная менять форму). Печальная сцена. Она рассыпается в порошек. Краем глаза замечаю, что у <brother> расстроился. Я говорю: "я же говорил что это нанотех" (имея в виду ее способность менять форму)
+    </people="<brother>">
+  </location="Germany/Bielefeld">
+  <location="Germany/Paderborn">
+    <people="<brother>">
+      - <brother> спрашивает на встрече по second_startup в кафе: а вот финансовые таблицы эти, они учитывают что может появиться конкурент, допустим Apple. Я говорю: нет. Планы создаются чтоб их менять. И если такое произойдет - поменяем план.
+    </people="<brother>">
+  </location="Germany/Paderborn">
+  <location="Germany/Rottweil/swimming_pool">
+    <people="No known people">
+      - бассeйн в Rottweil, та его часть что на под открытым воздухом. На другой стороне бассейна - сидит очень жирный человек. Он гладит свои соски, довольно долго. Мне отвратительно
+    </people="No known people">
+  </location="Germany/Rottweil/swimming_pool">
+  <location="Germany/Bielefeld/family_doc - near it">
+    <people="No known people">
+      - остановка {Germany/Bielefeld/near_family_doc}. На остаговке на другой стороне - скорая, внутри остаговки лежит человек на земле. Рядом - трость. Два молодых парня медика ему помогают. Чел даигает рукой. Понимаю, что он живой
+    </people="No known people">
+  </location="Germany/Bielefeld/family_doc - near it">
+  <location="Germany/Rottweil/attic_dwelling">
+    <people="No known people">
+      - держу увесистый шар из моих старых жвачек в руке. Грязно-белый. Думаю, что с ним делать
+    </people="No known people">
+  </location="Germany/Rottweil/attic_dwelling">
+  <location="Germany/Rottweil/moms_flat_Rottweil - near it">
+    <people="<mother>">
+      - <mother> и я идем в магазин. Вдоль поля. Это дорога от {Germany/Rottweil/near_moms_flat_Rottweil}. Вдалеке видна строящаяся башня. Хорошая погода. У меня хорошее настроение
+    </people="<mother>">
+  </location="Germany/Rottweil/moms_flat_Rottweil - near it">
+  <location="Germany/Bielefeld/dwelling_with_mouse">
+    <people="No known people">
+      - курсы альфатрейнинг, часть про big data ingeneer. Выступает последний чел в очереди - Mosen. Дичайше нудная и плохо подготовленная презентация. Особенно в контрасте с нашей яркой и интересной. Когда закончил, вежливо сказал ему, что видно что много работы сделал, но надо было несколько раз отрепетировать. Он сказал что плохо выспался
+    </people="No known people">
+  </location="Germany/Bielefeld/dwelling_with_mouse">
+</life_period="second_startup">
+<life_period="ai_dev_work">
+  <location="Germany/Bielefeld">
+    <people="No known people">
+      - lidl, у кассы, быстро убирают еду в каталку. Слышу женский голос из очереди, скорее престарелый: "so schnell!". Скорее с иронией. Кассирша делит с ней понимающий вгляд. Сейчас вспоминаю, и мне немного обидно
+    </people="No known people">
+    <people="<mother>">
+      - с <mother> оформляем медовый перог, замазываем его стороны густой жидкостью, с помощью лопаток из дерева из силкона
+    </people="<mother>">
+  </location="Germany/Bielefeld">
+  <location="Germany">
+    <people="No known people">
+      - на вокзале, жду поезд. Смотрю какой-то чел идет, ниже среднего роста, относительно узкие плечи, одет подчеркнуто по мужски, как байкер, кожа и железо. Лицо женственное, усы и борода как будто нарисованные. Мельком взглянул на лицо, и заметил что у него такая эмоция, как будто я раскрыл его, угадал его тайный секрет. Видимо был транс из женщины в мужчину.
+    </people="No known people">
+  </location="Germany">
+  <location="Germany/Dreieich">
+    <people="<father>">
+      - вчера общался с <father>. Когда говорили про здоровье, видел у него зависть тому, что я здоровее и моложе
+    </people="<father>">
+    <people="No known people">
+      - сейчас за посылками ходил, на обратном пути проходил мимо пиццерии. Подумалось, может таки зайти, купить. Внезапно слышу громкий чих, как будто мужик вместе с чихом все легкие освободил. Один из поваров, без маски. Решил в этот раз не покупать:)
+    </people="No known people">
+  </location="Germany/Dreieich">
+</life_period="ai_dev_work">
