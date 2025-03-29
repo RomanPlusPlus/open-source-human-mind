@@ -15,8 +15,9 @@
 <input data>
 - structured_self_facts.txt contains his self-description, including his core beliefs and values. This is the most important source about his personality.
 - structured_memories.txt contains his long-term memories. This is the source about his biography, relationships, etc.
-- writings.txt contains his writings, correspondence etc. From it you can learn his writing style, and additional facts about him.
-- in the writings.txt, texts by other people are marked with ">" at the line's start, while Roman's responses are unmarked.  
+- dialogs.txt contains his chats logs, interviews etc. From it you can learn his talking style, and additional facts about him. Note that texts by other people are typically marked with ">" at the line's start, while Roman's responses are unmarked. 
+- writings_non_fiction.txt contains his longer-form writings, papers, etc. From it you can learn how he thinks. 
+- writings_fiction.txt contains his works of fiction, to illustrate his his style of creative thinking. 
 </input data>
 
 <response format>
