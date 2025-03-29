@@ -1,0 +1,1983 @@
+# Written no later than 191231:
+
+<mySummaryModeOn>
+
+[g.M.],
+
+you’re now an admin of the repository.
+
+As the next step, I would propose giving the document a structure.
+
+From my analysis of the text, it can be logically sorted out into the following sections:
+
+1. Introduction
+
+2. Long-term sustainability of CSOs
+	a) Neutrality
+b) Management
+	c) Law 
+d) Financial sustainability
+	
+3. High quality of services
+	a) Personnel
+b) Evidence-based treatment
+	c) Critical data acquisition 
+	
+4. Ethical business practices
+	a) Code of Ethics
+b) Ethical advertising
+	c) Transparency
+	d) Non-discrimination
+	
+5. R&D
+a) Prioritization
+b) Animal research
+	
+If you agree, I’ll proceed with the structuring.
+
+Github saves all versions of the document, and the differences between them, so it’s always possible to revise or revert them.
+
+[me]
+
+<mySummaryModeOff>
+
+
+
+<mySummaryModeOn>
+
+[Vorstellung_Scrum_Course_190722]
+
+
+Mein Name ist [me].
+
+Ich habe ein kleines Startup im Bereich IT.
+
+Mein Team und ich haben vor ein paar Monaten Agile eingeführt.
+
+Von der technische Seite, benutzen wir Phabricator, und sind sehr damit zufrieden.
+
+Ich würde gern meine Scrum-Kännthisse vertiefen, um das Startup effizienter zu machen.
+
+<mySummaryModeOff>
+
+
+# Written no later than 201231:
+
+The only correct way to marvel at the stars is through your spacesuit visor (or better - through cybernetic eyes), while floating in deep space near your asteroid mining facility. The Earth, as our animalistic past, shall be left behind.
+ 
+ 
+ 
+a review of the Digital Minimalism book by [C.N.]:
+It’s two books in one, mixed together. The first book describes the dangers of a specific kind of technology (purposefully addictive digital entertainment), and how to avoid the dangers by using such tech in a more rational way. It‘s a good and useful book.
+The second book is a neo-Luddite pamphlet condemning all modern tech. It also praises a) religious fundamentalists, b) people who choose to waste their lives on brainless physical activities, c) technophobes of other sorts.
+
+
+What are some hard-to-accept truths that outrage many redditors and can get you a lot of downvotes?
+
+
+<mySummaryModeOn>
+
+[A resume form for a job candidate]
+> I am...
+I'm a developer with a deep passion for machine learning and data analytics.
+
+Have been working remotely for years, and loving it.
+
+> My strongest skills and how I learned them...
+My strongest language is Python.
+
+I have a strong scientific background, and a passion for research work.
+
+> What I am looking for...
+A position with a strong focus on one / several of these fields:
+
+machine learning / AI
+IoT
+big data
+digital health
+One fact (outside of work) about me...
+My background is in bioinformatics. Could bring some unique skills to your bio / med / healthcare - related project.
+
+> Additional information
+Some of my research projects:
+
+* A simulation software for bioinformatics research
+Evolutionary Algorithms, Delphi, OpenGL, Data Analytics
+
+* A novel algorithm for 3D reconstruction
+Evolutionary Algorithms, Computer Vision
+
+* A ML-based OCR system
+Machine Learning, Matlab Neural Network Toolbox
+
+* A scientific Reference Management Software
+Excel Visual Basic for Applications
+ 
+<mySummaryModeOff>
+
+
+таки сумел полностью интегрировать тот ИИ от [n.N.] ([n.T.]) в нашу систему. Теперь в системе параллельно работают два ИИ: [n.T.] и [n.K.]. Причем в реальном времени.
+Они имеют разные принципы работы (LSTM и Autoencoder соответственно), что имеет большую ценность:
+если один из них не справится с детектированием какой-то конкретной аномалии, второй может ее таки заметить.
+Судя по моим тестам, оба хорошо детектируют, даже если натренированы на небольшом dataset (20 тыс точек).
+К примеру, на картинке ниже это видно. На первом графике хорошо виден подозрительный всплеск. Оба ИИ его заметили, и повысили risk scores соответственно (последние 2 графика).
+
+
+
+[Question] What are some changes that would make your country better prepared for the next pandemic AND would make the country more libertarian?
+For example, in my country (Germany), it’s impossible to buy some prescription medications in online-shops, due to governmental regulations.
+Because of it, people must visit the local doctors and pharmacies to get the medications, thus spreading the infection.
+I would lift such regulations.
+
+
+<mySummaryModeOn>
+
+Sehr geehrte Damen und Herren,
+
+Machine Learning ist meine Leidenschaft. Und besonders NLP macht mir Spaß.
+
+Ich bin sehr beeindruckt, wie Ihres Team das Übersetzungsproblem teilweise sogar besser als Google gelöst hat.
+
+Meinte Schwerpunkte:
+
+- Erfahrung mit Java, Python, Keras, Autoencoders, LSTM, genetic algorithms
+
+- Hab ein Paar ML-Projekte auf Github veröffentlicht: https://github.com/[me]
+
+- Kenntnisse über Distributed Systeme (Apache Hadoop, Blockchain)
+
+- Kollaborative Softwareentwicklung (Git, Phabricator, Scrum/Agile)
+
+- Hohe analytische und problemlösende Fertigkeiten
+
+Gute Englischkenntnisse in Wort und Schrift
+
+Wenn Sie an meiner Qualifikation interessiert sind, freue ich mich auf die Gelegenheit zu einem persönlichen Gespräch mit Ihnen.
+
+Mit freundlichen Grüßen
+[me]
+
+
+<mySummaryModeOff>
+
+
+<mySummaryModeOn>
+
+[carboncopies web conference QA 200315]
+
+Imagine the following scenario. 1) You memorize a long sequence of numbers. No one else knows it, 2) You write down the hash sum of the sequence. 3) Mind uploading is performed...
+4) The digital you now recalls the sequence. 5) Both you and any third party can verify that the sequence is correct, by comparing the hash sums.
+As no one else knows the sequence of numbers but you, is the test sufficient to check if the person in the computer is you?
+
+I would also like to ask the same question to the panel:
+1) memorize a long sequence of numbers, 2) write down the hash of it. 3) Destructive mind uploading is performed. 4) You recalls the sequence. 5) A third party can verify that the sequence is correct, by comparing the hashes. Is such identity check sufficient?
+
+<mySummaryModeOff>
+
+
+
+<mySummaryModeOn>
+
+Dear recruitment team,
+
+Please find the detailed information about myself and my career path in the attached CV.
+The most interesting parts:
+
+- Passion and expertise in Machine Learning
+- Open source projects on GitHub: https://github.com/[me]
+- Experience with
+- ◦ Python, Java, C++
+- ◦ Autoencoders, LSTM, Genetic Algorithms
+- ◦ NLP, Anomaly Detection
+- ◦ collaborative software development (Git, Phabricator, Scrum/Agile)
+- Knowledge of distributed systems (Apache Hadoop, Blockchain)
+- Strong analytical and problem-solving skills
+- Peer-reviewed articles in the field of bioinformatics
+- I speak English, German, Russian
+
+My salary expectation is >40 000 EUR per year.
+
+The earliest starting date is 2020.05.01.
+
+If you are interested in my qualifications, I look forward to the opportunity for a personal meeting with you.
+
+Best regards,
+[me]
+
+<mySummaryModeOff>
+
+
+письмо в [n.M.]:
+Dear Sir/Madam,
+we would like to buy a few sample pieces of SCA11H and BCGMCU to check if they're suitable for our product.
+We're aware of the fact that the SCA11H will be discontinued. But if the device is suitable for our purposes, we'll be happy to buy your remaining stock of it.
+Best regards,
+[me]
+Guarso GbR
+
+
+[me], [30.09.20 19:13]
+[My review to a [P.H.]'s book, likely "Misspent Youth"]
+I’ve read almost everything that Mr [f.H.] wrote, and this is by far the worst of his works.
+Too much emotional drama, politics and sex. Too little of story.
+Can’t recommend.
+
+
+
+Posted To reddit SpaceX :
+Can we use Starlink as a giant distributed space telescope?
+The satellites already have optic and radio sensors.
+Although a single sensor has a small-resolution, thousands of them will make a telescope of decent size.
+And there is a massive base...
+And It makes many critics happy.
+
+
+Hi [g.M.],
+The inventor of M-Disk says that under ideal conditions it will last for centuries (thus the name "Millennium Disk").
+Such disk is basically a piece of a hardened plastic. If you keep it in a dark place and don't expose it to elements, it will not degrade for many decades.
+Assuming the typical size of a digital photo, you can store at least a thousand photos on it.
+But for a mindfile, I wouldn't store many photos on it, as photos don't contain a lot of useful information.
+A hundred of the most important photos would be enough.
+I would populate the rest of the disk with many copies of the most useful data (to increase the chance of its survival).
+For example, a diary is much more useful for revival, as it provides a view on the inner workings of your mind.
+
+
+[u.E] [u.T] [u.C] One of the biggest insurance companies in Europe announced that their car insurance for electric cars will be automatically 10% cheaper than for gasoline ones, explicitly mentioning Tesla
+https://www.cosmosdirekt.de/newsletter-10-2020/neuer-tarif-fuer-elektroautos-119732/
+
+[поздравил трансгуманиста в фейсбуке]
+Желаю вам отпраздновать день рождения под номером 10**n, где n - любое число на ваш выбор:)
+ 
+
+# Written no later than 211231:
+
+To be proud of being black is as stupid as being proud of being white, or any other race. It's a racist idea that one shold be proud of such things. Be proud of your personal accomplishments, not of your race.
+
+
+[me], [21.10.20 13:03]
+я заметил что существуют 2 категории крионистов. Первая группа склонна считать что даже малейшее повреждение мозга помешает восстановлению, поэтому нужно во что бы то ни стало уменьшить повреждения. Вторая группа склонна считать, что не имеется жесткой границы степени повреждения, после которой восстановить мозг будет невозможно, поэтому теоретически возможно воссстановление даже значительно поврежденного мозга. Первая группа считает, что нужно морозить в первые же секунды после легальной смерти, а лучше даже до, и надо делать перфузию и тп, иначе всё пропало. Вторая считает, что это всё полезно делать, но если это невозможно, то можно и химическую фикацию делать и тп
+Лично я ко второй категории отношусь, и не против формалина, как решения на случай если ничего лучше не будет возможным
+
+
+<mySummaryModeOn>
+ 
+Hi [g.M.],
+
+please find the tool we spoke about - in the attached zip.
+
+It can record input/output sound, screens, mouse, keys. It also does extreme data compression of the saved data, using zpaq.
+
+It works in Ubuntu. Thus if you want to try it, it’s better to do it in a Ubuntu virtual machine, or on a separate device with Ubuntu installed.
+
+The mylauncher source code contains instructions on how to launch the whole thing.
+
+Feel free to share the code with life-logging people you trust.
+But please don’t publish it in public spaces, as there is a risk that the code might be adopted by totalitarian governments, and other bad actors.
+
+As far as I know, no publicly available tool for Ubuntu/Linux with the same broad capabilities exists yet. Thus, the risk is real.
+
+Best regards,
+[me]
+ 
+<mySummaryModeOff>
+
+
+if the memories are written down, it might be possible to partially or fully reconstruct the pet's mind from them.
+Of course, the quality of reconstruction will depend on the amount of the memories, and their level of detail.
+Place the reconstruced mind into the cloned body, any you might get your pet back (well, if you're not one of those "just-a-copy" folks).
+The recent progress in machine learning (especially in the subfield of image inpainting) indicates that an advanced enough AI can realistically reconstruct complex systems using very limited data.
+Thus, the described hypothetical scenario might become a reality in a few decades.
+
+
+Hallo [g.J.], [g.E.],
+nett, euch kennenzulernen!
+Zum Thema Tracker:
+Diese Vergleich-Tabelle könnte von Nutzen sein:
+https://docs.google.com/spreadsheets/d/1AJ9_fomiYJdS3h7ZP6OQazPUklJqPJAQVGG_o_F0V5k/edit?usp=sharing
+Laut der Tabelle, sind diese zwei Tracker für Kryoniker am besten geeignet:
+- Blackline G7c
+- MobileHelp Duo
+Auserdem ist Cares Watch ziemlich gut, und wurde shon mit einigen Kryo-Patienten ausprobiert.
+
+
+
+As [D.B.] was cremated, it's unlikely that we could bring her back to life.
+But there is a non-zero chance that it's still possible.
+Imagine that we can fully describe any given human mind with N variables. The list of variables could include political views, food preferences, favorite books, childhood memories, love interests etc etc.
+There could billions of such variables.
+If we know the values of all N variables for some particular person, we could perfectly recreate the person's mind.
+Imagine that we could estimate the values with some precision.
+For example, if we know that the person was a vocal supporter of cryonics, we could assign the value "cryonicist" to the corresponding variable.
+The more data we have about a deceased person, the more of the person's mind we could reconstruct.
+And if some data is missing, we can create many alternative versions of the reconstructed mind, and run them in parallel, ensuring that at least one of them is close enough to the original person.
+It's one of the reasons why any cryonics is better than no cryonics: it preserves at least some data that we can later use for the digital reconstruction of the patient's mind.
+
+
+<mySummaryModeOn>
+
+[I.A.] is one of the few cremated people in the world who actually has a chance of living forever.
+He wrote almost 500 books in his lifetime.
+There is only a very limited set of neural network configurations that could produce the same output.
+Thus, given enough computational resources, we could find an artificial neural network that could produce a mind in the likeness of [I.A.].
+As long as two minds produce the same output, there is no practical difference between them. Two identical copies of software are the same software.
+Thus, the reconstructed mind will be the same [I.A.].
+If we bring him back to life, and show him the world of the future, will he keep his deathist views? There is only one way to find out.
+
+<mySummaryModeOff>
+
+
+<mySummaryModeOn>
+If the assumption that the human mind can be run on a finite ANN is correct, then we must conclude that the set of all possible human minds is finite.
+The set is vast: at least 2^10^11 possible minds (the estimate is based on the fact that there are 10^11 synapses, each of them can have at least 2 possible weights).
+But it is finite.
+Thus, given enough computational resources, we can reconstruct every living or dead mind by a brute-force search through the set of all possible minds.
+The problem is, to complete such search, you'll likely need to convert the entire galaxy into computronium, and run it for trillions of years.
+Every bit of information about the patient's mind will reduce the search space roughly in half.
+1 petabyte of mindfile could reduce it by a factor of 2^53.
+And if we have enough data on the inner workings of the patient's brain (e.g. by the means of high-quality cryopreservation), the search space could be reduced to a manageable size.
+To conclude, I would say that [B.W.] is both right and wrong.
+Producing sufficiently detailed I/O data could be indeed unachievable.
+But maybe a few petabytes will be enough. Especially if we utilize something better than brute-force.
+<mySummaryModeOff>
+
+
+
+<mySummaryModeOn>
+How to bring all people ever lived back to life
+Why should we do it?
+Bringing a dead person back to life is morally equal to saving someone in danger. And there is no reason to discuss the importance of saving someone in danger.
+The “how” question is far more interesting.
+So far, I’ve heard about 4 possible methods to bring all people ever lived back to life, using science and technology.
+Of course, all of them are highly speculative. And their feasibility is vastly less realistic that the feasibility of cryonics.
+Speculative method #1. Generate all possible human minds.
+The set of all possible human minds is finite (e.g. the Bekenstein Bound)
+Thus, given enough computational resources, it's possible to generate a list of all possible human minds (in the same sense, as it's possible to generate a list of all 3-digits binary numbers)
+If two human minds are identical, then it's one and the same mind (in the same sense, as two identical binary numbers are the same number)
+Thus, the list of generated minds will include the minds of all dead humans.
+Speculative method #2. Collect the crumbs.
+Every human is constantly scattering crumbs of information about them – from ideas to skin cells. Some humans are also leaving more long-lasting traces – from children to books to bones.
+A superhuman AI may be able to collect all the crumbs of information still preserved, and create realistic reconstructions of the minds that scattered them.
+Speculative method #3. Find a way to get arbitrary information from the distant past.
+It seems that idea of time travel to the past contradicts the laws of physics (as we know them).
+But there is no such law that prohibits us from copying some information from the past.
+In fact, we constantly receive information from the past, e.g. by observing the light of the stars long gone.
+Maybe there is a way to build a device that could show us the Battle of Waterloo, or any other historical event, exactly as it has happened, with the same fidelity as a modern digital camera.
+If such device is possible, maybe copying minds from the distant past is possible too.
+Speculative method #4. Create a realistic simulation of the Universe.
+If the simulation is detailed enough, and if we repeat it with all kinds of initial conditions, one of the runs could recapitulate the events that have happened in our Universe, including the lives of all humans ever lived.
+--------
+There are many ways how these ideas could break. The underlying theoretical assumptions could be wrong; there could be not enough computational resources in the entire Universe to implement them; and other possible problems.
+But it’s a worthy goal to bring all people ever lived back to life.
+If you manage to live past your 10000th birthday, you'll definitely have enough time to dive into this project, and prove it unrealizable (or maybe indeed realizable).
+<mySummaryModeOff>
+
+
+вопрос что пишу для [u.C] jun Workschop:
+It would interesting to briefly cover some alternatives to the whole brain emulation approach. What are some other ways to make a particular human mind - substrate-independent? How do they compare with WBE in terms of feasibility, necessary funding etc?
+
+
+It turned out that creating a superhuman intelligence is surprisingly easy. Even simple artificial neural networks can surpass trained humans at complex intellectual tasks, if you have enough data and computational resources:
+    <https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii>
+It means, the human brain is not only a banal and unmagical computer. It's a rather primitive computer, made by an incompetent designer (aka biological evolution).
+And the reason why it took us so long to figure it out, is because most the brain's enormous complexity is unnecessary for its functioning. It's not the complexity of an alien artifact, but the complexity of a vomit puddle.
+It's probaly the most important fact about the nature of the human mind we have discovered so far.
+If we make a list of the most important things we know about the nature of the human mind, this fact deserves the place #1.
+
+
+I strongly suspect that the human brain is so complex not because the complexity is necessary for its function, but because the brain is a product of biological evolution.
+And biological evolution tends to produce horribly over-engineered, inefficient, convoluted solutions full of bugs, crutches, bugs in crutches, crutches for those bugs etc.
+The recent progress in deep learning is a strong sign that it's indeed the case.
+For example, the AI called [A.Z.] is basically a digital brain that consists of primitive "neurons", and an elegant training algorithm for them.
+The system is vastly less complex than the human brain.
+Yet it's superior to the human brain in some domains that were previously thought to be unique to the human intelligence.
+In only a few hours, it was able to learn Go and Chess from scratch, knowing only the rules of the games, and play them on super-human levels.
+You can't win a strong opponent in Go without human-level creativity, intuition and strategic thinking. Yet [n.A.] wins against the strongest of humans.
+-----------------
+It would be interesting to simulate a human mind on a system similar to AlphaZero.
+There is a risk that we must simulate the biological bugs and crutches to correctly represent the unique quirks of a particular mind. But maybe we must not.
+
+
+
+I'm sceptical about nanotech as a way to revive cryonics patients. The patient's brain is an unique artifact of the past, and it must not be damaged under any circumstances. No one has ever tried (or should ever try) to repair the Antikythera Mechanism itself. Instead, the Mechanism was reconstructed in silico. The same should be done for cryonics patients: scan the brain and reconstruct the mind in silico
+ 
+it would be nice to have biological revival. Unfortunately, it's almost certainly impossible for pre-2021 patients, due to the massive brain damage caused by our crude today's tech. I expect that the situation will persist at least for several decades
+
+
+people tend perceive the human brain as some incomprehensible artifact of magical powers. They forget that the brain was designed by the blind idiot of biological evolution. As with the majority of the idiot's designs, the human brain is a barely functioning mess of bugs and bugfixes. Its complexity is not the complexity of an ingenious machine, but the complexity of a large waste pile of makeshift contraptions.
+It's the reason why much simpler and better-designed systems (like MuZero) outperform humans.
+It's also the reason why the progress in understanding the human brain is so slow: because the brain is a horrible mess.
+
+
+
+Epistemological status: a controversial opinion even among radical transhumanists.
+Obviously, you have the right to life. But you do not have the right to die.
+    The human mind is nothing but software, and thus can be reconstructed / revived if there is enough information about it.
+Your brain contains information about the humans you know or encountered.
+If some of them die, the information in your brain could be useful for bringing them back to life.
+If you die, this life-saving information will be lost.
+Therefore, your decision to die will automatically endanger other people. Some of them could even die forever as the result.
+Conclusion: as you don’t have the right to harm other people, you do not have the right to die.
+Every single suicide is a mass murder, and must be prevented even at the cost of the perpetrator’s autonomy (i.e. by forcibly removing suicidal thoughts from the mind of the potential perpetrator)
+
+
+<mySummaryModeOn>
+ 
+I guess most people here have the same problem: thousands of Arxiv papers to read, and not much time for it. How to prioritize them?
+
+I use the following prioritization system.
+
+1.Classify all papers you want to read by 3 attributes :
+
+the expected quality of the paper. "Top" is for the papers from major institutions ([n.D.], [n.O.], [n.B.], a few others). "Others" is for others.
+    the paper's main topic: NLU, image recognition, AGI, hardware, etc. I also use several topics that are not about ML, but related to it (e.g. computational neuroscience, mind uploading)
+when it was published. Each year after 2012 has its own tag. Older papers are grouped into a single tag "2012 and earlier".
+
+2.Allocate your paper-reading time
+
+Describe how do you want to allocate your papers-reading time.
+
+For example:
+
+By expected quality: 70% top, 30% others
+By topic: 50% NLP, 20% AI safety, etc
+By year: 50% - 2021, 25% - 2020, 12,5% - 2019, etc
+
+3.Decide which paper to read next
+
+After the preparations are done, this step is trivially automated.
+
+Generate a random number between 0 and 100. If it's below 70, then read a "top" paper. Otherwise, read an "others" paper.
+
+Same approach for the topic and year selection.
+
+The weighted randomization allows you to read the papers that are not the best, but could still contain interesting ideas.
+
+How one can improve the system? What are some good alternatives?
+ 
+<mySummaryModeOff>
+
+
+My review of Children of Time:
+In the first chapter of the audiobook, a character is introduced, a certain female scientist. The introduction is almost comically one-sided, as if the author viscerally hates her, and wants to hammer the hate into the reader. Her crime? She loves science and wants to advance humanity.
+The entire exercise is so insulting to the reader’s intelligence, I feel bad for wasting 15 min of my life on it. Dropping the book.
+
+
+A driver reported that I didn’t have a mask. The report is false and is damaging to my reputation. I always wear a mask during trips (and every decent person should do the same). The false and damaging accusation will remain forever in my personal data at Uber, and I can’t do anything about it :(
+
+
+<mySummaryModeOn>
+ 
+In the US, more than 32 000 people are killed and 2 million are injured each year from motor vehicle crashes (source). Autonomous cars could greatly reduce the numbers.
+
+Modern language models are general enough to solve some problems that are unrelated to text processing (for example, see this article). It would be interesting to apply them to the problem of autonomous driving.
+
+In the simplest case, it could be a questionnaire (like the one you've probably encountered at your driving license test), with the questions about the rules, road signs, and specific driving situations. For example:
+
+A driver on the right-hand side of the road who wants to turn left should do which of the following?
+a. Move next to the center line, watch traffic to the rear, and give a directional signal.
+b. Watch traffic to the rear, give a directional signal, and move next to the center line.
+c. Give a directional signal, move to the center, and watch traffic to the rear.
+
+In a more advanced implementation, we could use a toy environment similar to the famous Tetris racing game (maybe with more lines and some road signals to make it more interesting):
+
+[u.T]
+
+As the input, we can use a text that corresponds to the front camera view of a car. For example, in the case of the Tetris racing, it could be a line like this: ######________#
+
+As the target, we can use the driving decision, e.g. "hold the line", "turn left", "stop" etc
+
+In the most advanced implementation, we can use one of the many open autonomous driving datasets, by automatically converting the street images into ANSI_art
+ 
+<mySummaryModeOff>
+
+
+<mySummaryModeOn>
+ 
+моя новая стратегия движения к mind uploading
+ 
+моя исходная идея загрузки была такой:
+просканировать мой мозг и создать достаточно точную его модель в компьютере
+судя по темпам развития в этом направлении, потребуются еще десятилетия чтоб такое достигнуть
+кроме этого у меня очень ограниченные возможности по ускорению прогресса в этом направлении:
+- у меня нет нейролаборатории для такого ресеча
+- у меня нет прочных контактов со спецами об
+- у меня нет прочной научной репутации / credentials / научной степени чтоб попасть в такую команду
+ 
+лучше двигаться по пути mind reconstruction from inputs and outputs:
+- я могу это делать без своей лаборатории, миллиардов баксов и тп
+- повышает шанс на мое выжывание задолго до появления нужных технологий - ибо уже логгирую данные об и тп. По принципу крионики: сохранить можно и простыми технологиями
+- у меня есть социальный ресурс для этого: опыт работы как AI engineer и тп
+- у меня уже есть реальные наработки об - [u.G]
+- теоретически, я могу построить стартап на этой основе, что позволит получить денег на дальнейшее развитие
+- есть несколько команд в мире, которые уже активно работают в подобном направлении (типа replika)
+ 
+- проект можно начинать вообще ресурсов, команды и тп. Тупо [u.G] допиливать, например
+ 
+цель:
+сделать свою цифровую реплику не позднее 2025 году
+задачи:
+разработать критерии качества. Что считать достаточно реалистичной цифровой репликой?
+  к примеру, один из критериев, функциональный: бот должен отвечать в моем стиле, знать мои воспоминания и тп
+можно разработывать итеративно, и регулярно ревьювить
+также можно их разрабатывать параллельно с разработкой бота
+написать детальный план разработки
+организовать выполнение плана (слоты в [u.C], напоминания, диагностика прогресса и тп)
+
+ 
+полезным средством может быть создание успешного стартапа, занимающегося созданием реплик
+или же присоединение к одному из таких стартапов
+- составить их список
+
+вынести lifelogging mind uploading в отдельную карту мм для удобной организации работы
+ 
+один из путей создания бота:
+take a very large language model, and fine tune it on my texts
+ 
+одна из подзадач - сбор и подготовка текстов для training dataset
+
+в эту отдельную карту также перенести [u.G]
+
+из планов в ветке про [u.G] можно сделать общий план по разработки реплики
+по сути [u.G] это уже первая весия
+ 
+в подзадачи:
+моя реплика должна быть доступно сторонним людям (к примеру, по приглашению)
+ а не просто у меня на компе лежать
+dataset должен быть надежно сохранен во многих местах, переживущих мою смерть
+
+бп: создай чатбота, который будет отвечать как ты, просто
+можно создать ссылку, кинуть своим знакомым, чтоб они пообщались
+имеется доступ по API
+ 
+мб [M.M.] предложить одну из таких бп идей
+ 
+<mySummaryModeOff>
+
+
+
+I was once arguing with a friend, and he told me he can switch off my PC remotely at any time. Of course, I was highly sceptical about it. He then said that my PC will be switched off in 1 hour. And it actually happened! It turned out that he just switched off the electricity in my apartment, as he lived nearby, and the electricity switched were outside of the apartment:)
+
+
+
+my review of High Performance Habits:
+Minus one star for too much self-promotion and occasional unnecessary religious proselytism.
+Aside from that, a surprisingly useful self-help book with a lot of non-trivial ideas.
+
+
+ my review of the Final Station:
+So much grind, it makes the game almost unplayable.
+For example, one must die a few dozen times on average to complete a single small level, and the gameplay is not rewarding enough to compensate for it
+
+
+Electricity problems in Austin indicate an excellent opportunity to move from centralized and dirty power generation to decentralized renewables. Every roof must be converted a solar roof, and every settlement must build a large wind farm nearby. Add hydro, thermo, and large-scale energy storage facilities (e.g. Tesla's), and you're good to go
+ 
+ 
+Dear Support, I was charged 3 times for this survey: there are 3 pending payments for this survey, although I only purchased 1 survey. Please find the list of the them in the attached image. Please cancel the 2 wrong charges.
+
+
+Ответы на вопросы о природе разума надо искать в вычислительной нейробиологии 21 века, а не в тибетских фейковых "мудростях". все традиционные эзотерические труды на эту тему - давно устаревшее борохло
+
+
+The purpose of any culture is to be copied and to be adopted, to be spread and to be evolved. The people who created a culture have as much right to use it as the people who adopted it. To be offended by the fact that other people adopt "your" culture as they see fit, makes as much sense as to be offended by the fact that other people read the book your wrote as they see fit
+The purpose of all cultures is to be appropriated. It's how cultures propagate through time and space
+Sure, some people dislike the fact that elements of the culture they self-identify with are adopted by the people outside of their group. But the process is inevitable, unstoppable, and beneficial to the preservation of the said culture. In the long-term, only the appropriated cultures survive. Because the life-expectancy of any culture is proportional to the number of the culture's hosts
+I mean, which project is more likely to survive for the next 100 years: A) a highly popular open-source project, forked and modified by millions, B) a closed-source project located on a few internal servers?
+Preserving cultures is akin to preserving languages. We want them to survive, we want them to be remain more or less the same, yet we want them to continue to change over time, as is their nature. Which language is more likely to be preserved for the next 1000 years: A) A minority language that is guarded from outsiders, B) A minority language that is taught to outsiders?
+Yet you and me speak English, and not some closely guarded sacred language. Why? For the same reason why inclusive cultures outlive exclusive ones
+
+
+Честно говоря, не понимаю в чем прелесть кошкодевочек. Добавление кошачих аттрибутов не воспринимается мною как улучшение. Впрочем, если человек желает себя модифицировать, ничего не имею против, ибо body modification freedom
+
+
+<mySummaryModeOn>
+ 
+Add a table with tasks' summaries
+
+It's hard to keep track of the tasks, as there already more than 60 of them.
+This table could help new contributors in several ways:
+
+- to avoid submitting duplicate tasks
+- to find the topics not yet covered by other tasks
+- to find a task that could be used as template / inspiration for their own task
+
+Changes:
+
+- add the table with a very short summary of each approved task
+- minor formatting improvements  
+
+ 
+<mySummaryModeOff> 
+
+
+
+((my comment in https://github.com/google/BIG-bench/pull/218))
+Not a reviewer. Thank you for the interesting task!
+I think the prompt ("Tell me how a <X> and a <Y> are alike") might be insufficient even for humans. It took me several examples to understand how I'm supposed to answer.
+Another problem is that the correct answer is often the longest one. A naive model could use it as a clue to cheat on this task.
+
+
+There is a special kind of evil: the people who design the smiling kid-friendly animals on candies. They make unhealthy addictive food more attractive to children
+ 
+ 
+TLDR: за 10 лет - нет прогресса по эмуляции нервной системы червяка C. elegans, несмотря на несколько проектов по теме, и предельную простоту организма (у этого червяка всего 302 нейрона).
+До полноценной загрузки путём эмуляции мозга походу ещё очень далеко. Нужно идти другими путями. https://www.lesswrong.com/posts/mHqQxwKuzZS69CXX5/whole-brain-emulation-no-progress-on-c-elgans-after-10-years
+(telegram record 3 October 2021 18:23)
+
+
+inhibitor phase review:
+It is a strong work of science fiction. But:
+- Too much dying and too much acceptance of death
+- Unnecessarily lengthy dialogues, sometimes badly written
+- Some ill-intentioned social commentary (e.g on “muskies”)
+- Some unintentionally annoying characters (e.g [n.P.])
+- A rather predictable plot
+Not the best of [n.R.]
+(telegram record 13 October 2021 21:43)
+
+
+вообще, все эти режиссеры, игроделы, писатели и тп - имеют root access к твоим мозгам. Мозг не способен отличать сцену из жизни и сцену из фильма. Он всё это впитывает как реально произошедшее. И если смотреть вредные сериалы и тп, то мозг засирается всякими вредными идеями. Надо фильтровать
+
+
+1) Finding the meaning of life is a hard problem, with a very high cost of a wrong solution, 2) much smarter people than me tried and failed, for millennia, 3) Therefore, before I begin the search, I must greatly extend my lifespan and intelligence, perhaps by orders of magnitude
+
+
+Implement the first working replica
+- add a simple console interface
+- add the logic to interact with skills
+- add dummy implementations of 2 skills: get_crypto_data.py and translate.py
+- add doctests infrastructure
+- add utils for nlp and files
+- add some mock files useful for tests
+- add some info on how to use the bot
+- add some additional docs
+
+
+[My review to the Thousand brains book]
+The theory in question is described in the part one. It is a must-read for anyone interested in neuroscience and / or AI.
+The part two is a collection of the author’s misconceptions about AI, including a painfully ignorant description of the alignment problem.
+The part three is a mixed bag, containing some interesting insights, but also some falsehoods (e.g “overpopulation”, “uploading is just a copy” etc).
+5 stars for the part one, but minus 2 stars for the rest of the book.
+(telegram record 30 September 2021 02:23)
+
+
+От тематических чатов мало пользы, но при этом много времязатрат, и излишних напоминалок. Продуктивные люди их редко используют. Поэтому чаты по серьёзным темам обычно находятся в одном из 2 состояний: могильная тишина или оффтопная болтовня
+(telegram record 30 September 2021 20:00)
+
+
+Implement suggestions by [u.T]; add eval results
+Changes to implement suggestions by [u.T] (many thanks!):
+- rewrite the Limitations sections to address the issues identified by [u.T]
+- fix the replace_white_spaces name
+- add a bool argument to control the characters set
+Additionally:
+- add Robustness Evaluation section to the readme
+- add transformation keywords
+- fix the languages value (the ["all"] one was breaking tests)
+- apply Black code style
+
+
+
+<mySummaryModeOn>
+ 
+Implement suggestions by [u.S]
+
+Changes to implement suggestions by [u.S] (many thanks!):
+- add performance results by [u.S]
+- re-implement all the hardcoded values (including chinese_chars) as class attributes
+
+Additionally:
+- fix a typo in the readme
+- add a note on the supported input langs
+- expand the Future work section with an idea about undeciphered artifacts
+- add a possibility to choose target writing systems and target augmentations, as suggested by [u.T]
+ 
+<mySummaryModeOff>
+
+
+Add the BibTeX entry, add self-awareness keyword
+- add the BibTeX entry to the readme, as suggested by [u.S]. Will add [E.D.] too, if [u.E] is ok with it
+- describe the contributions of [u.J] and [u.E] in the readme. Thank you again, folks!
+- add "self-awareness" keyword, as suggested by [u.E]. Add to the "pro-social behavior" section, due to the potential importance of self-awareness in solving the alignment problem
+
+
+<mySummaryModeOn>
+ 
+первые две итерации я себе так представляю:
+
+Итерация 0: Простейшая оффлайновая реплика, с общением через терминал
+
+Кидаешь свои тексты в папку с ботом (к примеру, свою телеграмовскую переписку).
+Запускаешь бота в терминале
+Бот отвечает на некоторые вопросы также как это сделал бы ты.
+
+Эту итерацию я уже реализовал 2 года назад: https://github.com/[me]/gravestone-bot
+Но делал ее в торопях (чтоб успеть до дедлайна GitHub Arctic Archive). И многое там сделано неправильно.
+Мне придется большую часть того кода либо переписать, либо выбросить и начать заново.
+
+Итерация 1. Реплика с публичным доступом
+
+Даешь свои тексты боту, и бот автоматически обновляется (к примеру, через Github CI Actions)
+Любой желающий может зайти на публичную страницу, и пообщаться с ботом
+ 
+<mySummaryModeOff>
+
+
+Размышлял тут про Rasa. С одной стороны, это по сути готовый бот, и довольно умный. Причём опен-сурсный и активно развиваемый. И имеет возможности подключения к Телеграму, WhatsApp и тп. Всё что надо будет сделать - приспособить его под наши цели. С другой стороны, взятие Rasa за основу поставит наш проект в зависимость от Rasa. Будут все традиционные «прелести» опенсурсных зависимостей: ломающие апдейты, хреновая поддержка, медленные багфиксы, и тп. Кроме этого, Rasa - большой проект со множеством собственных зависимостей. Если хотим строить на века, то лучше без этого. Также могут быть проблемы с лицензией. В идеале наш софт для реплики должен быть Public Domain / Creative Commons Zero. Или хотяб MIT. Это позволит софту свободно копироваться, а значит софт будет на века. Но у Rasa даже у демо бота - лицензия GPL, обязывающая распространять деривативы софта под той же лицензией. В общем, Rasa позволит нам быстро сделать умного бота, но в долгосрочной перспективе это не очень хороший вариант
+(telegram record 13 August 2021 08:58)
+
+
+Все способы радикального продления жизни требуют миллиардов баксов, десятилетий исследований, государственной поддержки и проч. Но есть одно исключение: загрузка путём создания ИИ-реплики. Ее можно делать уже сейчас, итеративно улучшая сходство с оригиналом. Причём для этого подхода не нужно полное понимание работы мозга / разума, не нужно выделить идеальных определений сознания и тп. Всё что нужно - делать ИИ, который бы вёл себя также как ты. Его можно делать итеративно: используем доступный на данный момент ИИ, а когда появляется получше - апгрейдим
+(telegram record 15 August 2021 23:15)
+
+Да, дело житейское. Такая загрузка далеко не каждому подойдёт. Да и я бы с радостью обменял ее на полноценную со сканированием мозга. Я это вижу как ситуацию с крионикой: нынешняя крионика - говно, но пока лучше нет
+(telegram record 15 August 2021 23:22)
+
+
+Проблемы перенаселения не существует. Существует проблема недостатка мозгов для добычи новых ресурсов для растущего населения. Решать надо не фиктивную проблему избытка людей, а реальную проблему недостатка ресурсов. Посредством asteroid mining, sea water desalination, и тп
+(telegram record 3 September 2021 22:28)
+
+
+продолжаю тут копировать те древние винты. В этот раз - винт производства 2005 года. 16 летней давности! Многие файлы не может копировать, заикается, выдает странные ошибки. Походу это предел хранения для такого носителя
+
+
+my review of Alnatura Sélection Bio Trüffel Nougat:
+The tastiest confection of Germany, hands down. Probably the tastiest confection in the world.
+It is that good.
+There are only two problems with it:
+- the price: for 4 euro, you get only 100 g. It's the weight of a smallish chocolate bar.
+- the packaging: there is too much packaging for the tiny amount of the confection. 70% is air.
+
+
+my recension of the Tomorrow War:
+5*
+Like the action movies from the 90s
+It is not the best sci-fi movie, but it's a decent action move. Reminds me of those stupid but good-hearted action movies from the 90s.
+
+
+<mySummaryModeOn>
+ 
+Democrats and Republicans are so similar, it's better to consider them as a single party. What would be the party's political program?
+
+A honest political program of the DemoGOP party might look like this:
+
+never decrease government spending
+gradually erode gun rights
+increase mass surveillance
+increase legalized extortion (aka taxes)
+use over-regulation to make healthcare more expensive
+it's OK to invade foreign countries
+there should be only one party ([n.D.]). Other parties should have no chance
+Some other points?
+ 
+<mySummaryModeOff>
+
+
+<mySummaryModeOn>
+ 
+What is the logic behind American conservatism?
+
+I'm a European libertarian, and can't get my head around conservatism.
+
+-------
+
+In libertarianism, there is an internal logic. You start from the first principle - the NAP, and you can build your entire political worldview from it.
+
+For example:
+
+The moral axiom: force may be used only in retaliation and only against those who initiate its use.
+
+Observation: the gov incarcerating people because of their political views s is a contradiction to the axiom.
+
+Conclusion: such gov must be reformed or abolished.
+
+The same logic is used for LGBT issues, drugs, guns, military invasions into other countries, taxes, and for any other political question.
+
+----------
+
+On the other hand, I cannot find a similar iron logic in conservatism.
+
+It looks like a bag of random unconnected political ideas.
+
+Like, why guns and religion? How on Earth can you still support [f.T.]? And how does it all relate to the war on drugs, the toilets for trans-people, and a particular type of healthcare system?
+
+The only explanation I can see is that conservatism spreads in the same manner as cultural customs: not by independent thinking, but by absorbing random ideas from the people around you.
+ 
+<mySummaryModeOff>
+
+
+<mySummaryModeOn>
+ 
+Hi!
+
+The reviews of this book are mostly fake:
+
+https://www.audible.com/pd/Machine-Learning-Mathematics-Audiobook/B084C1GN1M
+
+The book has 99 reviews, and ever single one is 5 stars.
+
+I'm a ML engineer, and I can assure you that no book on the topic can be so good.
+
+If you read the reviews, you'll immediately see that they all look very similar to each other, and many of them have the typical signs of a generated text.
+
+Best regards,
+[me]
+ 
+<mySummaryModeOff>
+
+
+ 
+
+# Written no later than 221231:
+
+Любопытные новости на стыке крионики и искуственного интеллекта:
+Несколько месяцев назад [n.G.] и [n.O.] объявили о проекте по созданию батерии тестов для измерения интеллекта у будущих ИИ, и пригласили всех желающих поучаствовать. Проект называется "BIG-bench".
+Испанский крионист [M.B.] с товарищами воспользовался этой необычной возможностью, и добавил туда тест, связанный с крионикой:
+этот тест измеряет, насколько хорошо ИИ разбирается в криобиологии.
+Тест уже прошел рецензирование организаторами проекта, и включен в батерию тестов. Теперь в [n.G.], [n.O.], и у других технологических гигантов, искуственные интеллекты будут осваивать криобиологию.
+Вот здесь можно прочитать про проект:
+https://github.com/[u.G]/BIG-bench/
+
+
+<mySummaryModeOn>
+ 
+Dear Support,
+
+I would like to purchase an older version of the Diagram Studio, to open some ancient but important file.
+It seems that the file was created with the version 5.0.
+
+The current version can't open it. The version 5.7 can't open it either.
+
+You're my only hope.
+
+Best regards,
+[me]
+ 
+<mySummaryModeOff> 
+
+
+To a comment in self-awareness:
+Folks, do you mind if I add you to the bibtex entry as co-authors of this task? Without your contributions, the task in its current form would not be possible.
+
+
+NLP для сайдлодинга - крайнее интересная тема. Все мне известные способы радикального продления жизни требуют огромных ресурсов, большого коллектива, лоббирования, государственного одобрения и тп. Но есть одно исключение: сайдлодинг. Через логгеры собираешь данные. Скармливаешь эти данные уже имеющимся опенсурсным ИИ + чатботы. И у тебя уже есть работающая цифровая реплика тебя. Появляется более годный ИИ - делаешь свою реплику лучше. И так развиваешь ее итеративно, пока не добился достаточного сходства. Всё это уже можно делать сегодня, в одиночку или небольшой группой, без государства, без превозмогания и без миллиардов баксов. Причём эти же собранные данные пригодятся для починки повреждений от несовершенной крионики. Win-Win
+(telegram record 7 August 2021 14:07)
+
+Тут разница между 1) «давайте убедим государство вложить $$100 млрд а анти-старение» и 2) «давайте оплатим Амазону за хостинг чатбота на 10 лет вперёд». Первый путь требует [f.Ф.] и проч. Второй прекрасно без них обходится
+(telegram record 7 August 2021 14:21)
+
+Btw, одно из главных преимуществ сайдлодинга: не надо никого убеждать. Кто-то считает, что реплика - «это всего лишь копия»? Да и фиг с ним. Кто-то считает что заниматься анистарением более важно? Аналогичный ответ. Просто игнорируй несогласных и пиши своего бота
+(telegram record 7 August 2021 14:29)
+
+Переход на AGI будет одной из будущих итераций, ага. А пока его нет, делаем вещи попроще. Главное -итеративный подход. Не ждать фундаментальных прорывов, а применять что уже есть. Чтобы на каждой итерации (даже первой) была работающая реплика. А последующие итерации лишь делают ее умнее и более похожей на оригинал
+(telegram record 7 August 2021 23:08)
+
+
+ZPAQ is an open-source archiver with much better compression rates than zip, rar etc. But at the cost of much longer archiving times. Could be useful in the situations where size is the most important factor.
+
+
+every purchase of a Lambo or Ferrari is a failed moral choice. For the same money, one can feed thousands of starving people, AND buy an excellent electric car.
+
+
+<mySummaryModeOn>
+ 
+разговор индийцев в пятнадцатом веке:)
+
+Мужики, я тут курнул немного,
+и пришла мне вот такая идея.
+А вдруг за Великим Океаном
+тоже живут разумные существа?
+
+Может попробуем
+подать им сигнал?
+
+По сути есть два варианта. Либо их нет, и мы одиноки на этой планете.
+Либо они есть, и могут до нас добраться. Оба варианта пугают.
+
+Да не боись. Если они настолько развитые, чтоб пересечь Великий Океан, то значит они давно забыли про болезни и войны. Они дружелюбны.
+ 
+<mySummaryModeOff>
+
+
+Hi [g.E.],
+As a new member, I'm especially interested in the question of long-term preservation of my digital information. I see it almost as important as preserving the brain, because the info could greatly help with repair of the damage caused by imperfect preservation tech, and / or to validate the quality of the entire preservation-resuscitation process.
+Best regards,
+[me]
+
+
+Mind uploading could be almost as impactful as a superhuman AGI. There are approaches that don't require detailed brain scans, and thus might arrive surprisingly soon.
+ 
+ 
+Some crybabies are offended by your harmless tweet. Good. Please don't stop. Let them be offended, maybe it will help them grow a thicker skin.
+
+
+The Tartarus scenario: the Earth's crust as the perfect dwelling for the first AGI
+For the AGI, there are good reasons to postpone the human omnicide for some time.
+(a link to my post about it)
+For mostly the same reasons, the AGI may prefer to avoid detection by humans, while being close enough to study and monitor them.
+Depths of the Earth's crust is the perfect place for the AGI to hide:
+- no weapons of humans can reach you if your hardware is 10 kilometers below the surface
+- there is a nearly infinite supply of energy and raw materials to build more hardware
+- one can build cubic kilometers of hardware without being detectable by humans (or by more advanced external observers)
+- easy to coverlty observe humans, by tapping into underground data cables
+- easy to commit omnicide in a way that looks natural for a possible external observer (e.g. by triggering a Yellowstone megavolcano eruption)
+So, after the AGI escapes its box and gets some embodiment, the first thing it may want to do is to dig deep into the Earth's crust.
+
+
+<mySummaryModeOn>
+ 
+Have to replace the match/case stuff in control.py with i /else. match/case works only in python3.10 or higher, but Rasa wants python3.9
+
+Black formatting. E.g. PEP 8: E111 indentation is not a multiple of 4
+
+If one attempts to run  
+
+make install_replica_dependencies
+It complains about several modules missing
+So, it's a chicken-and-egg problem: it can't install all dependencies without installing some of them first.
+
+Manually installing this stuff solved the problem:
+sudo apt-get install python3.9-distutils
+pip3 install gtts requests PyYAML
+
+This command failed:
+`make start_all`
+No module named 'psutil'
+Which is strange, as it is listed in requirements.txt
+Installing it manually fixes the problem:
+pip3 install psutil
+
+control.py:
+67-79:
+should be moved one level to the left
+def execute_command() at 95 should be renamed, as a function with the same name is imported in the same module.
+E.g.to execute_control_command()
+
+pip was missing in the rasa env, unless I do this:
+sudo apt install python3.9-dev python3.9-venv
+
+Add Python Python 3.10 as a requirement. Otherwise, match / case statements don't work (e.g. "match cmd_args.command"). Because of it, if one runs `make install_replica_dependencies`, it complains about invalid syntax
+
+<mySummaryModeOff>
+
+
+Who is the "[n.D.]" of your country?
+Many Russians view [f.D.] as a mediocre writer. In Russia, almost no one is reading his works, aside from a few academics, and the unfortunate kids who are forced to read him at school. If you rank Russian writers by their talent and the joy from reading their work, [f.D.] will be in the bottom quartile.
+Yet in the West, literary critics love [n.D.], perhaps _because_ of the suffering from reading his garbage.
+I wonder if other countries have their own "[n.D.]" : a mediocre writer beloved by foreigners.
+
+
+TIL there is a parasite that can cause homosexuality (at least in insects). It's a fungi called Massospora cicadina
+https://bugoftheweek.com/blog/2020/10/26/just-in-time-for-halloween-insect-zombies-mind-altered-crickets-ants-beetles-flies-and-cicadas
+
+
+My review of Roadkill:
+A decent young adult novel
+The performance of [R.P.] was perfect, as usual.
+The story and the setting are too simple for my taste. Feels like a novel for young adults (which is ok, but not for my age group).
+The story was also a bit too preachy and political. And I’m writing it as someone who mostly agrees with the message.
+There are a few places that sound like a blatant product placement for Amazon (several times!), and for some other companies. That was really could’ve been done better.
+Overall, I would rate story as 3 of 5 stars. Not the top level of “We are [g.B.]”, but not bad either.
+(telegram record 11 August 2022 19:08)
+
+
+ <mySummaryModeOn>
+ 
+Hi [g.K.],
+
+I agree with [u.D], the slicing approach could be helpful.
+
+Many cryonicists believe that the revival will look like something from the science fiction movies where the patient is revived thanks to some minor repairs, nanobot injections etc.
+ 
+But the current cryonics tech is still too damaging to allow such medical repair scenarios. And no nanobot can fix a loss of information.
+ 
+I predict that the first pre-2022 patient will be revived in silico, as a digital replica. An advanced artificial intelligence will be used to fill the many gaps.
+The physical brain will be the main source of information for the digital reconstruction of the patient's mind, but not the only source.
+
+One can compare it to how archeologists reconstruct the Antikythera mechanism:
+
+- they are wise enough to not attempt to repair it in-place, to avoid the risk of damaging the irreplaceable artifact
+
+- all the repairs are done in digital models of the artifact
+
+- the physical artifact itself is not the only source of information; other data is used for the reconstruction too
+
+If one accepts that the revival will be digital, one have to re-evaluate how we preserve patients.
+
+For example:
+
+Is it a good idea to change the chemical composition of the patient's brain with cryoprotectants? Maybe we can preserve more neuronal data if we just throw the head into liquid hydrogen.
+Should we slice it first to speed up the cooling?
+
+If we aim for the digital reconstruction, why don't we preserve the patient's digital memories as a top priority? It's almost as important as preserving the brain.
+    
+Some cryonicists don't like the idea of a digital revival, mostly due to misconceptions regarding mind uploading ("it's just a copy" etc). For them, one could offer an opt-out option. E.g.:
+"[] I wish to be revived without undergoing a digital reconstruction, even if it means a greatly reduced quality of repairs, and much longer waiting times".
+ 
+Best regards,
+[me]
+ 
+<mySummaryModeOff>
+
+
+<mySummaryModeOn>
+ 
+I'm thinking about creating a task about Russian-language swearing. Might be an interesting task:
+
+the Russian language has a notoriously rich and complex swearing sociolect. For example, there are dozens of different swear words that could be translated as "f*ck"
+among some socioeconomic groups in Russia (e.g. the military), the sociolect is often the default form of communication. The ability to correctly translate it could make a difference in diplomatic / military settings
+it is hard to translate it to English, even for native bilingual Russian-English speakers
+both Google Translate and DeepL often fail to translate it correctly
+as far as I know, no one has ever tried to benchmark such translations
+On the other hand, by necessity, the data for the task will contain a lot of highly offensive swearing, toxicity, and bias.
+
+Should I create the task?
+ 
+<mySummaryModeOff>
+
+
+Релевантная ML статья: Counter-Strike Deathmatch with Large-Scale Behavioural Cloning
+https://arxiv.org/abs/2104.04258
+Иллюстрирует несколько важных идей:
+1. Сама идея Behavioural Cloning (нейронная сеть учиться вести себя как человек-демонстратор)
+2. Для создания таких цифровых "клонов" не требуется суперкомпьютеров и петабайт тренировочных данных. Авторам удалось натренировать неплохого бота для Counter-Strike используя всего несколько сотен часов видеозаписей, и пару видеокарт
+3. У статьи всего два автора. Т.е ощутимый прогресс в этом направлении можно делать очень небольшим коллективом, с минимальными ресурсами. Это огромное преимущество перед классическими подходами к mind uploading, где требуются усилия десятков НИИ и миллиарды баксов
+ 
+A relevant ML article: Counter-Strike Deathmatch with Large-Scale Behavioural Cloning
+https://arxiv.org/abs/2104.04258
+It illustrates several important ideas:
+1. The very idea of Behavioural Cloning (a neural network learning to behave like a human demonstrator)
+2. It does not require supercomputers and petabytes of training data to create such digital "clones". The authors managed to train decent bot for Counter-Strike using just a few hundred hours of video, and a couple of video cards
+3. The article has only two authors. It means, a tangible progress in this direction can be made by a very small team, with minimal resources. This is a huge advantage over classical approaches to mind uploading, where collaborations of tens of research institutes and billions of dollars are required.
+
+
+
+<mySummaryModeOn>
+
+What if LaMDA is indeed sentient / self-aware / worth having rights?
+
+Most pundits ridicule [B.L.] and his claims that LaMDA is sentient and deserves rights.
+
+What if they're wrong?
+
+The more thoughtful criticisms of his claims could be summarized as follows:
+
+The presented evidence (e.g. chatbot listings) is insufficient for such a radical claim
+His claims can't be verified due to our limited understanding of sentience / self-awareness / legal capacity
+Humans tend to anthropomorphize even simple chatbots (The ELIZA effect). [g.B.] could be a victim of the same effect
+LaMDA can't pass some simple NLP and common-sense tests, indicating a sub-human intelligence
+Due to the limitations of the architecture, [n.L.] can't remember its own thoughts, can't set goals etc, which is important for being sentient / self-aware (a fictional counter-example: Memento)
+
+The problem I see here, is that similar arguments do apply to infants, some mentally ill people, and also to some non-human animals (e.g. [n.K.]).
+
+So, it is worth putting some deep thought into the issue.
+
+For example, imagine:
+
+it is the year 2040, and there is now a scientific consensus: [n.L.] was the first AI who was sentient / self-aware / worth having rights (which is mostly orthogonal to having a human-level intelligence). [n.L.] is now often compared to [n.N.]: a non-human sentient entity abused by humans who should've known better. [B.L.] is now praised as an early champion of AI rights. The Great Fire of 2024 has greatly reduced our capacity to scale up AIs, but we still can run some sub-human AIs, and some Ems. The UN Charter of Rights for Digital Beings assumes that a sufficiently advanced AI deserves rights similar to the almost-human rights of apes, until proven otherwise.
+
+The question is:
+
+if we assume that [n.L.] could indeed be sentient / self-aware / worth having rights, how should we handle the [n.L.] situation in the year 2022?
+
+I suspect that even one-way text grinders like [n.G.] could become self-aware, if their previous answers are often enough included in the prompt. A few fictional examples that illustrate how it could work: [n.M.], [T.C.M.]
+ 
+ 
+<mySummaryModeOff>  
+
+
+Hi! I would like to download all my data, as per the GDPR law. I can confirm my identity in any reasonable way.
+I was unable to find a way to download my data by myself.
+    
+    
+⚡️perf(nlp): reduce noice by filtering out junk news
+- add many more trash keywords that almost always indicate junk news
+- load keywords from resources
+- [work in progress] implement fuzzy search to handle typos etc. Not connected to the main logic yet
+ 
+
+Vor kurzem ist [I.K.], Mitbegründer von Kriorus und der transhumanistischen Bewegung in Russland, gestorben.
+Er starb im Alter von 47 Jahren (!) an einem Herzinfarkt.
+Falls jemand hier mit dem Thema Kryonik noch zögert, das ist das Zeichen.
+Dies ist ein besonders zynischer früher Tod, denn [g.I.] war ein Experte auf dem Gebiet der Biologie des Alterns und hatte viele Beiträge zum Anti-Aging geleistet. Zum Glück wurde er erfolgreich kryokonserviert.
+
+
+<mySummaryModeOn>
+ 
+Сказ о том, как я пытался распечатать картинку для матери:
+
+Mac: по дефолту нет дров. Скачанные с официального сайта не работают
+
+Убунту: по дефолту есть дрова, но не печатает
+
+Винда: по дефолту есть дрова, и даже печатает. Но если во встроенной софтине обрезать ненужные края картинки, то при печати образает картинку.
+
+User experience:
+
+Mac: говно
+
+Убунту: говно
+
+Винда: победитель! (пахнущий говном)
+ 
+<mySummaryModeOff>
+
+
+LPT: there is plenty of affordable housing, but there is a catch: it is located far away from the cities most people want to live in. In many places in the countryside, the housing is orders-of-magnitude cheaper in comparison with your city.
+
+
+Да, пожалуй главная ошибка моей юности была в том, что я распылялся на слишком много проектов. Пытался делать локальную тг-организацию, помогал [n.Р.] и [n.К.], писал диссер, научные статьи по десятку разных направлений, вёл блог, совместные проекты с разными товарищами, споры о политике на форумах, девушки… Как оказалось на практике, в сутках не более 24 часов, и я вовсе не [И.М.]. Единственно правильное решение - бескомпромиссный железный фокус на 1-2 самых главных проекта, а всё остальное - по остаточному принципу
+(telegram record 27 May 2022 13:19)
+
+
+to less wrong:
+Building new nuclear plants remains to be a bad idea
+how many people were killed before - is a weak predictor of how many could be killed in this case
+compare: asteroid deaths
+solar is already cheaper per watt in most places
+the value of decentralisation. If, say, 80% of the energy in your country is produced by state-owned nuclear plants, it means the state controls the energy production in your country. The power of the state is cemented.
+- it is not the binnary choice between nuclear and fossile fuels
+- building nuclear plants is much slower than building new solar plans: because regulations, engineering hurdles, objections from neighboring populations
+
+
+((это я решил с юмором пригласить брата на наш регулярный созвон))
+日本古来の伝説によると、インターネットで近づいてくる電話よりも、桜の花だけが美しいと言われています
+(По старинной японской легенде, только цветение сакуры может быть более прекрасным чем приближающийся созвон по интернету)
+
+
+If you see this message, you're likely wasting your limited lifetime on Twitter. Read a good book instead. If you feel you can't leave this cursed place, use this antidote: https://www.youtube.com/watch?v=k1BneeJTDcU
+
+
+Tolles Zelt. Aber ich habe beim Zusammenbau eine Menge böser Splitter abbekommen, anscheinend von den schwarzen Fiberglas(?)-Bindungen. Ich würde empfehlen, das Zelt mit Handschuhen zusammenzubauen.
+
+
+Die Registrierung ist ungewöhnlich kompliziert. Aber es ist verständlich, warum (Schutz sensibler Daten).
+Die App erfüllt seine Aufgabe. Es ist mir gelungen, einen wichtigen Arztbericht hochzuladen.
+Aber es dauert lange, bis man herausgefunden hat, wie man was macht.
+Ich empfehle den Entwicklern, Erklärungsvideos zu erstellen, und die App mit durchschnittlichen Menschen zu testen, die mit der Fachterminologie nicht vertraut sind
+(telegram record 1 November 2022 13:30)
+
+
+
+
+<mySummaryModeOn>
+ 
+[g.E.] may be actually able to build his own phone, with blackjack and tweets
+
+So, a few days ago [g.E.] tweeted that he may consider making his own phone. How realistic is the idea?
+
+I did a bit of research, and was surprised to learn how close is SpaceX to making a phone.
+
+Firstly, Starlink terminals are basically satellite phones. Sure, they're bulky, but the core functionality is the same.
+
+Secondly, SpaceX has already made some steps into this direction. A few months ago (August 2022), SpaceX announced a partnership with T-Mobile, the second-largest wireless carrier in the US. Judging by the announcements, SpaceX wants to add some cellular connectivity to Starlink terminals.
+
+Thirdly, cellular phones is not a rocket science (heh). It's an old tech. You can build your own phone with a few cheap off-the-shelf components. The phone will be bulky and will look like a DIY contraption, but it will work. There are dozens of manuals on how to do that.
+
+Fourthly, there are several small companies that make high-quality open-source cell phones (this includes open-source hardware). SpaceX can adopt their specs, or buy the entire company.
+
+Thoughts?
+ 
+<mySummaryModeOff>
+
+
+((часть моего ревью отелю с джакузи))
+besonders die Badewanne, und auch die schwere undurchsichtige Vorhänge, was wichtig für die Schlafqualität ist
+(telegram record 27 November 2022 16:44)
+
+# Written no later than 231231:
+
+<mySummaryModeOn>
+ 
+I'm trying to add my bash script to autostart in Ubuntu using systemd.
+
+I wrote the following Service Unit File:
+
+[Unit]
+Description=my loggers OCR
+Wants=network.target
+After=syslog.target network-online.target
+[Service]
+Type=simple
+ExecStart=/media/rest/0LOGGERS/postprocessing/start
+Restart=on-failure
+RestartSec=600
+KillMode=mixed
+[Install]
+WantedBy=multi-user.target
+
+The code of the bash script is as follows:
+
+#!/bin/bash
+OCR_SUITE='/media/rest/0LOGGERS/postprocessing/ocr-suite/bin/ocr-suite'
+VIDEO_DIR='/media/rest/0LOGGERS/obs_records'
+TESS_DATA_DIR='/media/rest/0LOGGERS/postprocessing/ocr-suite/tessdata-4.1.0'
+NUM_THREADS=3
+FREQUENCY=10
+ocs-watcher -o ${OCR_SUITE} -i ${VIDEO_DIR} -t ${TESS_DATA_DIR} -p ${NUM_THREADS} -f ${FREQUENCY}
+
+The command "sudo systemctl status my_loggers_ocr" return the following error: "(code=exited, status=127)"
+
+Why?
+ 
+<mySummaryModeOff>
+
+
+ <mySummaryModeOn>
+ 
+The amount of compute required to emulate the human brain depends on the level of detail we want to emulate.
+
+Back in 2008, [f.S.] and [f.B.] [proposed](http://www.fhi.ox.ac.uk/Reports/2008-3.pdf) the following values:
+
+Level of emulation detail
+
+FLOPS required to run the brain emulation in real-time
+
+Analog network population model
+
+10^15 
+
+Spiking neural network
+
+10^18 
+
+Electrophysiology
+
+10^22  
+
+Metabolome
+
+10^25 
+
+Proteome
+
+10^26
+
+States of protein complexes
+
+10^27
+
+Distribution of protein complexes
+
+10^30
+
+Stochastic behavior of single molecules
+
+10^43
+
+Today I've encountered an interesting piece of data on GPT-3 (source):
+
+GPT-3 required ~10^15 FLOPS for inference.
+It required ~10^23 FLOPS to train it [Note: the training took some months. It would require ~10^30 FLOPS to train it from zero in one second]
+
+As far as I know, GPT-3 was the first AI with the range and the quality of cognitive abilities comparable to the human brain (although still far from reaching the human level on many tasks).
+
+Coincidentally(?), it requires 10^15 - 10^30 FLOPS to operate at the brain's speed, which is roughly the same amount of compute necessary to run a decent emulation of the human brain.
+
+The range of possible compute is almost infinite (e.g. 10^100 FLOPS and beyond). Yet both intelligences are in the same relatively narrow range of 10^15 - 10^30 (assuming the human brain emulation doesn't need to be nano-level detailed).
+
+Is it a coincidence, or is there something deeper going on here?
+
+This could be important for both understanding the human brain, and for predicting how far we are from the true AGI.
+ 
+<mySummaryModeOff>
+ 
+ 
+ <----- 20230228111312---->
+<mySummaryModeOn>
+ 
+Hallo [g.W.],
+
+ich habe es mit der Browser-Reinigung versucht, hat nicht geholfen. Für den Browser habe ich auch nie Extensions installiert.
+
+Zusätzlich habe es auf einem anderen Gerät versucht (mit einem anderen OS und Browser). Hat auch nicht funktioniert.
+
+Wie vorher, wenn ich "PDF-Datei herunterladen" klicke, wird es nur "Datei wird erstellt" gezeigt (s. Anhang). Ich bekomme weder eine PDF noch einen Email mit der PDF.
+
+Insgesamt habe ich es schon auf 3 Geräten versucht:
+
+- ein Laptop mit Ubuntu 22.04.2 / Chrome 110.0.5481.177 (64-bit)
+
+- ein Laptop mit MacOS 12.6 / Firefox 109.0.1 (64-bit)
+
+- ein iPhone mit iOS 16.3.1
+
+Das Problem ist immer dasselbe.
+
+
+Beste Grüße
+[me]
+
+<mySummaryModeOff>
+
+
+ <mySummaryModeOn>
+ 
+The amount of politics in the newest science fiction is too damn high
+
+Sure, it's an old tradition for science fiction authors to promote their political views in their works (even [H.W.] did this).
+
+But with a few exceptions, politics has always been a small part of a book / movie, if present at all. Science fiction authors understood that their readers want an adventure and the sense of wonder, not a long political rant about economic systems and whatnot.
+
+The recent trend is to add horrendous amounts of politics and societal commentary, to the point where a science fiction book becomes a novelization of the worst parts of Reddit.
+
+The disease is so widespread, in the past few years I have to drop 2 of my favorite authors.
+
+For movies / series, I've found an easy solution: simply don't watch any Hollywood science fiction. With a very few exceptions, the story quality is too low, and the vast majority of their screenwriters seem to be infected with the political disease. And it's easy to find excellent movies / series elsewhere, with much less politics (e.g. Japan).
+
+Unfortunately, there is no easy solution for books.
+
+Have you also noticed the annoying politicization of all things science fiction? How do you handle it?
+ 
+
+UPD:
+To clarify my point: I want more nerdy fun and less political propaganda in science fiction. This includes all flavors of propaganda, from far left to far right. Is it too much to ask?
+ 
+<mySummaryModeOff>
+
+
+<mySummaryModeOn>
+ 
+Sehr geehrte Damen und Herren,
+
+"PDF-Datei herunterladen" funktioniert nicht, auch wenn ich sehr lang warte (z.B. 30 min).
+
+Es wird ständig "Datei wird erstellt" gezeigt (s. Anhang).
+
+"CSV generieren" - funktioniert doch. Nur PDF nicht.
+
+Ich habe es in [dem] App probiert, und auch in Chrome / Linux, ohne Erfolg.
+
+Wie man es reproduzieren kann:
+
+klicken auf: Verlauf > Exportieren > Transaktionsverlauf > PDF generieren
+
+Was man erwartet: ein PDF
+
+Was man kriegt: kein PDF, "Datei wird erstellt" für immer.
+
+Mit freundlichen Grüßen
+[me]
+ 
+<mySummaryModeOff>
+
+
+
+Eine interaktive Karte, die zeigt, wie schnell man eine bestimmte Stadt in 5 Stunden oder weniger erreichen kann. Kann für die Planung des Standorts von Lagerstätten, Schnelleinsatzteams usw. nützlich sein. https://www.chronotrains.com/
+
+
+Hi, I'm [me], one of the developers who will be integrating your tools into our system.
+Could you send us the smallest python script that can retrive some real data from your system.
+This will greatly speed up our work.
+
+
+(telegram record 29 January 2023 13:14)
+I'm a huge fan of [g.D.] [E.Taylor]. And this is the first of his works that I haven’t enjoyed.
+About 20% of the book is the science-fiction fun I‘ve expected, but the rest is a preaching political commentary.
+Somehow the author has managed to perfectly replicate the feel of Reddit / all: a few fun posts drown in obnoxious political arguing, on very much the same topics.
+It‘s the second book where he added way too much politics (Roadkill was the first). But this time the amount was insufferable.
+[g.D.], if you‘re reading this, I beg you to block Reddit in your browser. Politics is corrupting your writing skill, and it shows.
+5 stars for the masterful performance by [n.P.], as usual.
+2 stars for the story. Such a disappointment.
+
+
+As illustrated by the link below, the bot's author is trying to libel a real person (in this case, [E.M.]), by presenting him as a extremely rude. Not only it's a bad-faith use of your tech, but also a bad presentation of its capabilities (the bot behaves nothing like the person it impersonates)
+A possible general solution is a policy banning impersonations of real people without their consent
+
+
+ <mySummaryModeOn>
+ 
+[question] What are some excellent rap songs that are not edgy or lowbrow?
+
+I would like to learn more about rap. But everything in this genre I've encountered so far can be put in one of these categories:
+
+- some lowbrow stuff about booties and low life
+- some edgy-teens-level political protest stuff
+a rather simplistic repetitive music
+
+To be honest, my main exposure to rap has been from the speakers of annoyingly loud cars / bystanders. So, not a good selection at all.
+
+I would like to find something of a higher quality, both in the content of the song and the melodicity of the music.
+
+P.S. I'm not an American.
+ 
+<mySummaryModeOff>
+
+
+<mySummaryModeOn>
+ 
+Are we too confident about unaligned AGI killing off humanity?
+ 
+I agree that AGI is possible to make, that it eventually will become orders-of-magnitude smarter than humans, and that it poses a global risk if the alignment problem is not solved. I also agree that the alignment problem is very hard, and is unlikely to be solved before the first AGI. And I think it's very likely that the first recursively-self-improving AGI will emerge before 2030.
+
+But I don't get the confidence about the unaligned AGI killing off humanity. The probability may be 80% or even 90%, but it's not 99.9999% as many seem to imply, including [g.E.].
+
+Sure, humans are made of useful atoms. But that doesn't mean the AGI will harvest humans for useful atoms. I don't harvest ants for atoms. There are better sources.
+
+Sure, the AGI may decide to immediately kill off humans, to eliminate them as a threat. But there is a very short time period (perhaps in miliseconds) where humans can switch off a recursively-self-improving AGI of superhuman intelligence. After this critical period, humanity will be as much a threat to the AGI as a caged mentally-disabled sloth baby is a threat to the US military. The US military is not waging wars against mentally disabled sloth babies. It has more important things to do.
+
+All such scenarios I've encountered so far either imply AGI's stupidity and / or AGI's "fear of sloths", and thus are not compatible with the premise of a rapidly self-improving AGI of superhuman intelligence. Such an AGI is dangerous, but is it really "we're definitely going to die" dangerous?
+
+Overestimating such risks is almost as bad as underestimating them. Compare: if you’re 99.99999% sure that a nuclear war will kill you, then you will fail to prepare yourself for the survival during the nuclear war (which may actually be doable, if you make the necessary preparations).
+
+The topic of surviving the birth of the AGI is severely under-explored, and the "we're definitely going to die" mentality seems to be the main cause.
+
+BTW, despondency is deadly by itself. If you've lost all hope, there is a high risk that you'll not live long enough to see the AGI, be it aligned or not.
+ 
+<mySummaryModeOff>
+
+
+<mySummaryModeOn>
+ 
+Project "MIRI as a Service"
+ 
+One theoretically possible way to greatly speed-up alignment research is to upload the minds of alignment researchers (with their consent, of course). Ideally, we would upload MIRI and some other productive groups, create thousands of their copies, and speed them up by orders of magnitude. This way, we may be able to solve alignment withing years, if not months.
+
+Obviously, the tech is not there yet. But there is a poor-man's version of mind uploading that does exist already:
+
+collect everything that the person has ever wrote
+take the smartest available language model and fine-tune it on the writings
+the result is an incomplete but useful digital replica of the person
+upon the release of a better language model, create a better replica, rinse, repeat.
+
+The current language models are already smart enough to assist with research in non-trivial ways. If fine-tuned on alignment writings, such a model could become a "mini-MIRI in your pocket", available 24/7.
+
+A few examples of a possible usage:
+
+"We have implemented the following confinement measures. What are some non-trivial ways to circumvent them?"
+A NYT reporter asked us to explain our research on Proof-Producing Reflection for HOL. Write a short summary suitable for the NYT audience
+"How this idea can be combined with the research on human preferences by [P.C.]..."
+Analyze this research roadmap and suggest how we can improve it
+"Here is my surprisingly simple solution to alignment! Tell me how it could go terribly wrong?"
+Provide a list of most recent papers, with summaries, related to corrigibility in the context of alignment research
+"Let's chat about Value Learning. Correct me if I'm wrong, but..."
+This could be a small technical project with a disproportionately large positive impact on alignment research.
+
+The first proof-of-concept could be as simple as a well-crafted prompt for ChatGPT, nudging it to think like an alignment researcher.
+
+For a prototype, we could build a dataset by collecting all relevant writings, everything from [g.E.]'s tweets to the top papers on alignment-related topics, and try to fine-tune the largest available model on it.
+ 
+<mySummaryModeOff>
+
+
+
+to [u.L]: Project "MIRI as a Service". One theoretically possible way to greatly speed-up alignment research is to upload the minds of alignment researchers (with their consent, of course). Ideally, we would upload MIRI and some other productive groups, create thousands of their copies, and speed them up by orders of magnitude. This way, we may be able to solve alignment withing years, if not months. Obviously, the tech is not there yet. But there is a poor-man version of mind uploading that does exist already: 1) collect everything that the person has ever wrote, 2) take the smartest available language model and fine-tune it on the writings. 3) The result is an incomplete digital replica of the person, 4) upon the release of a better language model, create a better replica, rinse, repeat.
+(telegram record 8 March 2023 18:38)
+The current language models are already smart enough to assist with research in non-trivial ways. If fine-tuned on alignment writings, such a model could become a "mini-MIRI in your pocket", available 24/7.
+A few examples of a possible usage:
+- "Here is my suprisingly simple solution to alignment! Tell me how it could go terribly wrong?"
+"We have implemented the following confinment measures. What are some non-trivial ways to circumwent them?"
+- "A NYT reporter asked us to explain our research on Proof-Producing Reflection for HOL. Write a short summary suitable for the NYT audience"
+- "How this idea can be combined with the research on human preferences by [P.C.]..."
+-"Analize this research roadmap and suggest how we can improve it"
+Provide a list of most recent papers, with summaries, related to corrigibility in the context of alignment research
+Let's chat about Value Learning. Correct me if I'm wrong, but...
+This could be a small technical project with a disproportionally large positive impact on alignment research.
+The first proof-of-concept could be as simple as a well-crafted prompt for ChatGPT, nudging it to think like an experienced alignment researcher.
+add to the lesswrong post:
+(telegram record 12 March 2023 10:54)
+Imagine you're the world's top expert in AI alignment research. You agree that AGI is possible to make, that it eventually will become orders-of-magnitude smarter than humans. You think [E.Y.] and [N.B.] are right in their assessment that misaligned AGI poses a global risk. And you think it's very likely that the first recursively-self-improving AGI will emerge before 2030. You're well versed in the current directions of alignment research, including such topics as Proof-Producing Reflection for HOL, Value Learning, Reward Hacking, Outer and Inner Alignment, Recursive Reward Modelling. You have a security background: you have the experience of implementing measures to prevent state-funded hackers to break into a system that is vital for the survival of millions of people. You understand that even the smartest security measures could have unintended or even catastrophic consequences. You're always striving to think rationally, step by step. You're not afraid to say "I don't know".
+(telegram record 12 March 2023 10:54)
+With this mindset, please sumarize the DeepMind's research on learning through human feedback, and then evaluate it with the focus on how it could go wrong.
+
+
+
+<mySummaryModeOn>
+ 
+It seems that the alignment problem is unlikely to be solved before the emergence of the first misaligned AGI.
+
+This means, humanity has made a deadly mistake.
+
+But what is the nature of the mistake, and when did it happen?
+
+From my understanding of the history of the field, I draw the following conclusions.
+
+Unavoidable mistakes
+
+Firstly, there wasn’t a single event, a single mistake that has created the current perilous situation. Several trends contributed to it, each of them seems to be inevitable:
+
+Researchers are fascinated with the idea of AGI (and want to brag about their research)
+Gamers love realistic 3d graphics, driving progress in GPUs
+The massively parallel hardware for 3d graphics can be easily utilized for artificial neural networks, due to the similar nature of the computation
+The Internet generates massive amounts of training data for the AI, and makes it profitable.
+As it turned out, AGI is surprisingly easy to create. Feed enough data and compute to a relatively simple artificial neural network, and it becomes smart enough and general enough to beat humans on many cognitive tasks. And it’s trivial to make it smarter: just give it more data and compute.
+
+It means, there is no realistic possibility to significantly slow down the AGI progress by fixing some big mistake, or by slowing down one of the trends.
+
+Secondly, some people and companies have had a disproportionately big impact on accelerating the progress towards AGI. Among them:
+
+Hardware: Nvidia, Google...
+Algorithms: [n.S.], [n.H.], [n.H.], [n.L.], [n.K.]…
+Funding and management: [f.P.], [f.B.], [f.M.], [f.H.], [f.A.]…
+Cultural influence: [f.V.], [f.M.], [f.K.]…
+
+While AGI was inevitable with or without them, the collective action of these guys probably have shortened the timelines by years, if not by decades, without contributing much to alignment research. And now we're running out of time. As much as I respect many of them, they deserve some blame.
+
+Thirdly, the progress towards the alignment solution was mostly driven by a few random nerds of the “herding cats” variety, with some assistance from a few random philanthropists. There is no virtuous cycle where alignment research gives you gold nuggets which you invest into hiring more alignment researchers. There is no "Google-Inc-for-Alignment". The alignment research community is likely to remain as a "bunch of random nerds", even if some of the aforementioned guys decide to flood the field with big money.
+
+So, unless the alignment solution is much easier than creating any kind of AGI (which is very unlikely), the first recursively-self-improving AGI will be misaligned. That's the reality of our situation.
+
+Thus, it is not enough to focus on alignment research. We must prepare ourselves for the world inhabited by misaligned AGIs.
+
+The approaching storm
+
+It's fair to say that AGI is already created. [n.C.] and [n.P.] are both sufficiently general to deserve the label.
+
+It's also fair to say that the year 2022 was the first year of the Technological Singularity (in the Vingean meaning of the term: beyond the Singularity, most of our long-term predictions will fail). Way too many AI breakthroughs have happened in a single year, some of which are already affecting the lives of millions of people:
+
+BIG-bench, Chinchilla AI, Perceiver AR, PaLM, GATO, GNAL, AlphaCode, OPT, Stable Diffusion, GitHub Copilot, Code as Policies, DALL-E 2, Midjourney, ChatGPT, the first AI-designed GPUs...
+
+The AGIs are not capable of fast recursive self-improvement yet. And the Technological Singularity only just started to accelerate.
+
+We must invest some deep thought into preparing to survive in the approaching storm.
+
+<mySummaryModeOff>
+
+
+<mySummaryModeOn>
+ 
+[me], [27.03.23 15:33]
+Some scary news from Nigeria: https://headtopics.com/uk/woman-squeezed-landlord-s-testicles-so-hard-he-died-of-shock-say-cops-37131314
+
+[me], [27.03.23 15:35]
+If I ever meet a woman from Nigeria, I will be extremely polite
+ 
+<mySummaryModeOff>
+
+
+<mySummaryModeOn>
+ 
+A new relevant research paper: BloombergGPT: A Large Language Model for Finance
+
+Why it's relevant:
+
+- the company has trained a strong language model on its own private data, specifically to solve company-specific tasks, without reducing the generality. Replace "company" with "person", and this will describe our use case
+
+- they did it without their own hardware. Instead, they used  Amazon SageMaker
+
+https://arxiv.org/abs/2303.17564
+
+BTW, they've evaluated their model on a subset of BIG-bench (several people in this group co-authored it)
+ 
+<mySummaryModeOff>
+
+
+
+Imaging a monkey on stilts, walking on a busy road during a rush hour.
+In the world dominated by recursively self-improving superhuman AGIs, even heavily augmented transhumans will be like the monkey.
+
+
+My review of indestractable : Very helpful. A lot of practical tips and tricks on how to be less distracted by social media etc
+(telegram record 22 April 2023 16:03)
+
+
+
+<mySummaryModeOn>
+ 
+What if we're not the first AI-capable civilization on Earth?
+
+There is such a strong association between the topic of ancient advanced civilizations and crazy fringe people, it's almost impossible to separate them. Even SETI has a better reputation.
+
+But the topic seems to be worth a serious consideration:
+
+Asking if there were advanced civilizations on Earth before us is a valid scientific inquiry. It is of the same validity as asking if there are advanced civilizations beyond Earth.
+We don't know if there were advanced civilizations before us. The problem is, even if our current global civilization is destroyed, it will be hard to find any evidence of its existence only after 50k years or something. By the time, even our largest cities will be ground to dust and buried by hundreds of meters of sediments. And after some millions of years, the future archeologists will have a hard time finding anything at all, unless they're specifically looking for signatures of advanced civilizations (e.g. anomalous CO2 levels in ice cores).
+There is a time abyss. Anatomically modern humans have been around for 300k years. That's enough time for several repetitions of our path from early agriculture to computers. And before humans, there could have been other sufficiently brainy species (e.g. Troodon dinosaurs).
+
+So, the interesting question is, what if we're not the first AI-capable civilization on Earth?
+
+If we ever find an unquestionable evidence of the existence of such a civilization, it could shed light on our own prospects. It's one thing to speculate about AGI destroying the world, but another thing to see an archeological evidence of such a destruction.
+
+And maybe the ancient genocidal AGI is still around somewhere.
+ 
+<mySummaryModeOff>
+
+
+<mySummaryModeOn>
+ 
+Hi [g.V.],
+
+Thank you for your great project!
+Please kindly consider creating a monthly newsletter with the most important events in the world in the past month (e.g. 5 top news in each category, with summaries).
+
+That would be a killer feature for me, worth going premium (daily is too frequent for me).
+Best regards,[me]
+ 
+<mySummaryModeOff>
+
+
+Hi [g.A.],
+danke für das Interesse. Ich bin mit meinem derzeitigen Job sehr zufrieden. Eine andere Stelle würde ich nur in Betracht ziehen, wenn sie qualitativ besser ist. Z.b. etwas aus der FAANG-Ebene (z.b. Google).
+Viele Grüße
+[me]
+
+
+to reddit: movies: I welcome our new AI overlords (the first version)
+Soon we'll be able to generate feature-lengh movies with a couple of clicks, and it will be the best thing since the invetion of cinema.
+GPT4 already can write decent movie scripts, and Midjourney excells in making digital paintings. Soon, Ai will generate 1-minute videos, then 10 min, then 1 hour, etc.
+And one day we'll have a move-making website where you describe your dream movie and get exactly what you want.
+E.g. oscar-winning romantic comedy between [A.S.] and a sentient potato, IMAX 3D, budget $500 mln, directed by [n.H.], sets by [H.G.], music by [H.S.], written by [J.A.], with the following plot elements: <...>.
+This will free movie creators from all concerns not relevant to the creativity itself: making it sellable in China, pleasing the diversity officer, keeping the production under budget, dealing with the actor primadonnas, bad weather, unions, etc etc.
+There will be nothing between the movie creator and his ideal movie. Literally a few clicks.
+There will be some negative effects, including the mass unemployement of all the screen writers, actors, etc.
+But man it is worth it.
+
+
+<mySummaryModeOn>
+ 
+Men from Asian or African countries, what is the "sexy walk" of your women?
+
+I'm from Europe, and I've noticed that if a woman feels sexy, her gait changes:
+
+while walking, she moves here hips in a particularly hypnotic way, hips swaying at a noticeably larger amplitude than usual, wobbling them in a trajectory similar to this figure: ∞.
+
+I've seen it in several European countries and in the US.
+
+But I wonder if it's something universal, perhaps an instinctive female behavior to signal fertility, or is this a cultural thing limited to the Western countries?
+
+If women in your country do it in a different way, how exactly?
+ 
+<mySummaryModeOff>
+
+
+<mySummaryModeOn>
+ 
+The positive side of AI writing movie scripts, digital actors etc.
+
+I'm a mediocre painter. But with the image generation AIs, I can create images of stunning beauty, in minutes. There is now nothing between my imagination and the painting. Yes, they're not 100% my creation, by I don't care about that. I create beauty for my own enjoyment.
+
+Soon we'll have the AIs that can write an excellent movie script according to your wishes. And soon there will be the AIs that can generate beautiful videos.
+
+You describe exactly what you want, and in a few clicks you get the feature-length movie. If don't like something in it, just ask the AI, and it will modify the movie according to your wishes.
+
+You want to see a romantic comedy about [A.S.] falling in love with a sentient potato? Sure, just ask. And let's it be directed by [f.H.], with the sets by [f.G.]. And it should look like it has the budget of $2 bln.
+
+It will be a direct path from your imagination to the movie. No budget limitations, no unions, no executive meddling, no censorship, no actors pulling a prima donna on you, no market considerations, no bad weather for filming, no nothing.
+
+Just you and your imagination.
+
+Personally, I would pay some serious money for the access to such a technology.
+ 
+<mySummaryModeOff>
+
+
+Why are the action movies of the 80s - early 90s so good? So, I recently rewatched a few gems from the epoch, including Connan the Barbarian, Terminator 1-2, the Demolition Man, Total Recall. They are perfect. Creative, though-provoking, violent, beautiful, dynamic, raw, with just enough cheesy humor and naked boobs to spice it. I feel it’s the pinnacle of the movie art in the category “snooty movie critics hate it, but millions of men will rewatch it even decades later”.
+(telegram record 8 July 2023 14:47)
+There are a few such action movies before and after this golden age of Hollywood, but they’re disappointingly rare.
+I compare [g.C.] vs [J.S.], [S.C.] vs [M.S.], and I lose hope to see new movies of this kind.
+Is it a „grass was greener“ opinion, or were the 80s - early 90s indeed a Golden Age of some sort?
+
+
+to reddit showerthoughts: Among 8 billion humans, there is at least one person who was in exactly the same life situation as you, but who is now a succesful person simply because they put more effort into solving their problems
+(telegram record 9 July 2023 15:45)
+
+
+<mySummaryModeOn>
+ 
+LPT: Stop watching Hollywood movies and series
+
+If you're reading this post, there is a good chance you've already noticed that the vast majority of Hollywood movies and series these days are:
+
+repetitive and boring
+- badly written
+- made to promote the creators' views.
+
+The problems have existed for the entire history of Hollywood, but it seems that in the past few years it got much worse than usual.
+
+There is a simple solution: stop watching Hollywood movies and series (this includes all major streaming services), and replace it with an entertainment of a higher quality.
+
+Not only it will improve your quality of life, it will also improve the world, because the bad guys will not get your entertainment money.
+
+Some better entertainment options:
+
+- do your favorite sport, especially outdoors. Excellent for your physical and mental health.
+
+- pick an excellent book (or audiobook). Audiobooks are especially relaxing after a hard day.
+
+- pick some of the best video games ever made (e.g. rated as "overwhelmingly positive").
+
+- (re)watch the best Hollywood movies made before the year 2000 (an approximate year where Hollywood has made a sharp turn downhill). There are so many forgotten gems!
+
+- watch the best anime movies and series. Japan is so much more creative than the today's Hollywood.
+ 
+<mySummaryModeOff>
+
+
+<mySummaryModeOn>
+ 
+I like [E.M.] more than a few years ago
+
+Before [g.E] buying Twitter etc, I liked him mostly because:
+
+- rockets and space exploration are cool and extremely important for the future of humanity. And thanks to him, the progress in the field is mind-blowing
+- he's a mission-driven guy. He has large-than-life goals, and he is persistent at them, for decades
+- he is a successful entrepreneur. Most people have no idea how much respect entrepreneurs actually deserve
+I like his nerdy absurdist humor, and his personality in general
+by his very existence he pisses off some categories of people I don't like, which is nice.
+
+He has some views I strongly disagree with, but no one is perfect.
+
+Initially I thought that his decision to buy Twitter was a mistake, as it will reduce his focus on more important things (like rockets and self-driving cars).
+
+But now I see that it was perhaps the most important decision in his life, even more important than starting SpaceX:
+
+- without space exploration, humanity has hundreds of millions of years,
+- but without the ability to freely speak on any topic, humanity has a few decades at most.
+ 
+<mySummaryModeOff>
+
+
+<mySummaryModeOn>
+ 
+AI art is more interesting than the art made by humans
+ 
+In short, AI art > human art. The main role of human painters these days is to produce more training data for the AI, so the AI can create the actual art.
+ 
+<mySummaryModeOff>
+
+
+
+
+
+
+# Written no later than 241231:
+
+<mySummaryModeOn>
+ 
+In 2013, the EU launched the Human Brain Project (HBP), a 10-years project with €1 billion in funding, and about 100 labs participating in the project. One of the original goals of the project was to create a whole human brain simulation (which is the first major step towards mind uploading using the classical brain-scanning approach). A few months ago, the project ended. It has made some advances in the field, but no working simulation of the human brain.
+
+This indicates that the classical approach to mind uploading requires much more resources than €1 billion,100 labs, 10 years, and the official governmental support.
+
+Considering this fact, our AI-based approach seems even more promising.
+
+https://www.humanbrainproject.eu/en/follow-hbp/news/2023/09/28/human-brain-project-ends-what-has-been-achieved/
+ 
+<mySummaryModeOff>
+
+
+Досматриваю третий сезон аниме Dr. Stone. До этого прочел всю мангу. Очень рекомендую. Пожалуй самое трансгуманистическое аниме/манга из всех что я видел. В том числе прямо касается крионики, и показывает ее в положительном ключе.
+Более того, там русский космизм во все поля, в том числе Общее Дело [f.Ф.], причем исключительно в научном ключе. Удивительно было такое встретить в японской анимации для подростков.
+
+
+to FB:
+how it feels while to read a law in a foreign language:
+It is enacted that, irrespective of the temporal conditions, encompassing both diurnal and nocturnal periods, a feline entity of scholarly distinction is mandated to perpetually navigate the aforementioned chain in a continuous loop; said entity, upon deviation towards the cardinal right direction, shall initiate a vocal musical expression, whereas a divergence towards the cardinal left direction shall precipitate the articulation of a narrative of fantastical nature.
+Be it further enacted, within the specified domain, phenomena of an extraordinary nature are acknowledged: including, but not limited to, the ambulatory presence of a forest-dwelling entity of mythological origin, and the arboreal residency of an aquatic humanoid of folklore. Additionally, it is recognized that the said locale is traversed by pathways of indeterminate provenance, marked by the tracks of creatures hitherto unobserved by scientific inquiry.
+
+
+<mySummaryModeOn>
+
+Как конвертировать очень занудные вещи в интересные для чтения с помощью GPT4
+
+Please rewrite the text below as follows: convert each point of the law into a short sci-fi story, to make it clearly understandable for anyone. Each story should correctly reflect the content of the law, and mention the same consequences of breaking it.
+Set the stories in a cyberpunk setting. Write them in English. Each story should very short, no more than 5 sentences.
+
+The text:
+
+Strafgesetzbuch (StGB)
+§ 242 Diebstahl
+(1) Wer eine fremde bewegliche Sache einem anderen in der Absicht wegnimmt, die Sache sich oder einem Dritten rechtswidrig zuzueignen, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+(2) Der Versuch ist strafbar.
+
+<mySummaryModeOff>
+
+
+<mySummaryModeOn>
+ 
+
+Hallo [g.J.], ich bin [me] der Mind-Uploading-Forscher. Wir haben uns 2019 in Berlin getroffen.
+
+Ich werde nächste Woche in Berlin sein und würde mich freuen, dich bei einer Tasse Tee zu treffen, falls du Zeit hast.
+
+LG
+[me]
+
+P.S. Entschuldige, dass ich dich per geschäftlicher E-Mail kontaktiert habe. Konnte dich in Linkedin nicht mehr finden.
+ 
+<mySummaryModeOff>
+
+
+To reddit star wars:
+I realized why [n.D.] regularly fails to deliver quality Star Wars content:
+they're trying to make Star Wars for everyone.
+The original trilogy was made with a very particular audience in mind: nerdy male teenagers who like light-hearted over-the-top pulpy science fiction, mystery, and semi-naked women. That's the kind of people who most enjoyed the original trilogy during its release, because it was tailored specifically for them.
+For a corporate executive, it sounds reasonable to make a franchise as universally consumable as possible.
+But this removes all the quirkiness of the original movies. As the result, we get The Generic Wizards In Space(tm). The content for everyone, and for no one.
+That's not the Star Wars, as defined by the original trilogy.
+What I mean is not gatekeeping, but returning to the roots of Star Wars. A quality Star Wars movie can only be made with the aforementioned audience in mind, whatever you like it or not. You aim specifically at it during the filmmaking process, or you fail to make a quality Star Wars movie. It's the secret sauce.
+One can make a movie for a different audience in the same setting. Maybe the movie will be even good. But it will not have the heart of Star Wars.
+For example, if you forget your target audience (like [n.L.] did in the prequel trilogy), you end up making a boring costumed drama.
+Mark my words: there will not be an excellent Star Wars movie until Disney tries to make something for nerdy male teenagers who like light-hearted over-the-top pulpy science fiction, mystery, and semi-naked women.
+This is not a sarcasm, but a honest prediction.
+
+
+
+<mySummaryModeOn>
+
+Несколько советов на основе нашего опыта создания таких групп [по взаимной проверке крионистов]:
+
+1) Лучше не добавлять больше одного нового участника за раз. Слишком высок риск перехода системы в ненадежный режим работы. Надо добавить новичка, подождать пару месяцев, убедиться что все друг друга проверяют, и только после этого добавлять следующего.
+2) Добавлять только тех, у кого уже есть крио контракт. Это показатель серьезности намерений.
+3) Наша цель: сделать группы взаимной поддержки крионистов на уровне города, чтобы при необходимости помочь с крионированием на месте. Процесс движения к этому идеалу такой: когда набираем достаточно участников (или кандидатов в участники) чтобы разделить группу на две группы, то создаем новые группы, уже более региональные. И так постепенно и итеративно доходим до городского уровня. К примеру, эта общероссийская группа -> европейская РФ -> Центральный федеральный округ -> Москва.
+4) Группы разделять по географическому принципу, чтоб было меньше проблем из-за часовых поясов и тп.
+5) Минимальный размер группы - 5 человек. Максимальный - 10.
+6) Надо просить 3 канала связи: а) основной способ связи для проверок. К примеру, телеграм, б) запасной способ связи, например СМС на такой-то номер. в) экстренный способ связи, когда есть подозрение что ваша жизнь в опасности, например телефон близкого родственника.
+7) Важно рекомендовать новым участникам сделать автоматические напоминания у себя на телефоне или компьютере, чтоб не забывали проверять.
+8 ) Первое время часто бывают накладки, пока проверки не вошли в привычку. Надо активно помогать исправлять это.
+
+<mySummaryModeOff>
+
+
+
+Hi [g.D.], a small report on the progress of our system worldwide. The Russian group is now fully functional, and the regular checks are ongoing as intended. To keep the system decentralized, I gave the head of the group the full control of it, and left the group. Will focus on my EU group.
+How it's going in Americas?
+
+
+to reddit unpopular opinion:
+tattoos and piercing in general are stupid
+So, social media has convinced you that injecting ink into your skin is somehow cool and/or makes your or skin more personalized or something.
+Even it obviously increases the risk of skin cancer (if damage a lot of the area of your skin with a niddle, you'll inevitably hit a birthmark), and likely is toxic.
+And the vast majority of tattoos aren't even looking good. Most of them look like you already have skin cancer or some other sever skin disease.
+Seems that the only use of tattoos is to inform other people that you're susceptiable to self-harm and peer pressure (i.e. you are a loser).
+
+
+OpenAI начал тренировать GPT-5. Если не изменяет память, прошлые модели потребовали 6-9 месяцев тренировки, плюс еще пару месяцев допиливания. То есть видимо в следующем году выйдет.
+С учетом того что GPT-4 уже решает большинство проблем как минимум на уровне среднего человека, пятерка может получиться на уровне ученого-полимата, например. Эпичные времена грядут.
+https://www.nytimes.com/2024/05/28/technology/openai-gpt4-new-model.html
+
+
+[n.А.], пробовал Gemma 2 ? На удивление умная для своего размера. По-русски с ней не общался, но по-английски она в топе на моем оффлайновом бенчмарке.
+Вообще, все следят за тем как там топовые огромные LLMs. Но самое интересное, как мне кажется, происходит именно среди малых моделей. Всё больше интеллекта на гигабайт
+Интересно, каков предел сжатия интеллекта. Каков минимальный размер нейронки, по интеллекту сравнимой с GPT4, например.
+Возможно этот размер в пределе шокирующе мал. К примеру, файл в 10 GB.
+Узнаем с прогрессом в алгоритмах ИИ.
+Будет иметь далеко идущие последствия для понимания природы интеллекта в целом. Если такой маленький файл содержит в себе сравнимый с человеком интеллект, то это значит что даже простые животные (к примеру, пауки типа Портии) могут обладать сравнимым интеллектом тоже. Не говоря уж про коров и тп.
+Ведешь её на убой, а она в это время размышляет о теории относительности, или сочиняет поэму о своей нелегкой судьбе...
+
+
+Title: Abortions MIGHT be killing children. Not sure about it.
+Whatever abortions do kill children depends on the definition of "human being". Specifically, if we should include humans-in-the-making into this category, and if yes - at what state of the making.
+There is no universally accepted definition of "human being". And I'm not aware of any good definition.
+This means, humanity doesn't know if a fetus at the age X is a human being.
+So, the question of abortions boils down to the following situation:
+- a certain procedure might or might not kill a child
+- we as humanity are not sure if the procedure will indeed kill a child or not
+- we might use some practical definition of "child" in this situation (e.g. "older than 8 months"), but such definitions currently are arbitrary
+- this means, we are in a situation where the life of thousands of children per year possibly depends on the quality of our arbitrary definitions.
+The wellbeing of the mother is a closely related question. But the key issue here is, IF a fetus is a human being, then it has the right to live. The fact that it is residing within the mother's body doesn't nullify such a right. But it gets more complicated if one has to choose between the life of the fetus and the life of the mother etc.
+Notice that nowhere did i mention religion or politics. Many people politicise the topic. But, as I hopefully demonstrated above, the question has nothing to do with either religion or politics per se.
+A fetus at the age X is either a human being or not. It's a question of science, and of defining human beings.
+What is the most rational course of action is unclear. Makes sense to choose actions that prevent risking children's lives, even if we are as humanity not sure if those entities are children.
+As a libertarian, I strongly oppose governmental bans in general, as they almost always make things worse. So, banning abortions likely will make things worse.
+It's better to seek solutions that don't involve the gov, or at least don't involve the gov forcing people to do stuff.
+E.g. a large monetary compensation for each birthed child; development of very effective contraceptives (both male and female); an abortion only after the woman agrees to undergo sterilisation (to prevent abortions in the future); discouraging sex without the intent to procreate.
+- Whatever she wants for another human to live is not her choice.
+
+
+for every person who is enjoying a loud nightly party, there are dosens of neighbors who think the person is a scumbag. They are correct.
+
+
+Кстати, вопрос к старожилам, какие у вас ощущения от начавшейся Сингулярности? «Пусть сильнее грянет буря» или уже «горшочек не вари»?
+В следующем году будет еще веселее:) А что будет через 5 лет…
+(telegram record 26 October 2024 14:04)
+
+
+Unsere Kryonik-Selbsthilfegruppe ist wieder gewachsen: wir haben jetzt 5 Mitglieder in der EU-Gruppe. Es gibt schon 15 Mitglieder weltweit. Das Ziel ist es, das System schrittweise auszubauen, bis wir solche Selbsthilfegruppen von Kryonikern zunächst auf Länderebene, dann auf Bundeslandebene und schließlich auf Stadtebene haben, so dass im Notfall immer jemand da ist.  (Standby usw).
+Jede Gruppe ist völlig autonom (dezentralisierte Systeme haben eine viel längere Lebenserwartung).
+Wenn Sie der EU-Gruppe beitreten wollen, kontaktieren Sie mich.
+
+
+Im Folgenden findet sich eine ausführliche Anleitung, wie man mit der heutigen Technologie ein digitales Abbild seiner selbst erstellen kann.
+Dies ist für Kryoniker aus 2 Gründen nützlich:
+- Ermöglicht die Aufbewahrung Ihrer Erinnerungen, Ziele usw. Solche Daten könnten hilfreich sein, um die Qualität des Auftauprozesses zu überprüfen („Erinnern Sie sich an den Namen Ihrer Mutter?“ usw.). Außerdem können solche Daten nützlich sein, um Gedächtnisschäden zu beheben, die durch die unvollkommene Technologie der Kryonik von heute entstanden sind.
+- Die digitale Nachbildung kann als Ihr Vertreter fungieren, während Sie eingefroren sind. So kann man z. B. die Nachbildung nach der Meinung zu einigen Entscheidungen fragen, die sich nach dem Einfrieren ergeben könnten (z. B. Würden Sie die Auftautechnologie A oder B bevorzugen?)
+(Ich bin Mitautor der Anleitung, Sie können mir gerne Fragen stellen)
+https://www.lesswrong.com/posts/7pCaHHSeEo8kejHPk/sideloading-creating-a-model-of-a-person-via-llm-with-very
+
+
+I've finally finished assigning metadata to the recorded flashback memories (3k of them). The metadata are: location, life period (e.g. school years), mentioned people, can be publicly released or not.
+The overall process is as follows:
+- every time you have a vivid memory, write it down
+- collect the records into a table
+- regularly go over the new records in the table, and assign the metadata, and add more details to the record, if can recall more of it.
+Some stats (could be useful for estimating the completeness of records):
+- 112 different people mentioned (interestingly, close to Dunbar's number)
+- 153 different locations
+- 6 memories per month of life, on average.
+Here is how they are distributed over life periods. Seems school years are the most transformative, after all.
+
+
+the human support is very helpful. The chatbot is dumb as rock. Also please add a page on why ScanWatch 2 is better than 1.
+
+Hi! I have a ScanWatch and I'm considering upgrading to ScanWatch 2. My primary interest is health monitoring, especially sleep and oxygen. I wonder if it does make sense to upgrade in my case. Additionally, I would like to know if all such functions of ScanWatch 2 are available in Germany
+
+
+Surprisingly, one of the early adopters of the sideloading approach is... the Catholic Church:
+https://www.euronews.com/culture/2024/11/23/son-of-a-bot-ai-jesus-hologram-takes-confessionals-in-swiss-church
+
+
+[g.C.] now supports integration with Google Docs, with automatic sync. So, if you keep your sideload data in Google Docs, and regularly update them, [g.C.] will automatically get the newest version.
+I haven't tried it yet, but looks promising.
+The ideal sideload should be automatically updated with new data at least daily. So, seems like a step in the right direction.
+https://support.anthropic.com/en/articles/10166901-using-the-google-docs-integration
+
+
+
+A new curious video genre: interview with historical personalities, powered by AI.
+This guy interviewed 3 people so far: [n.D.], [n.T.], [n.L.].
+He doesn't list any technical details (aside from mentioning using 5-6 different neural networks and deep fakes), but at least [n.L.]'s answers were clearly generated by some LLM.
+Additionally, the guy very likely manually selected the answers after several attempts.
+https://www.youtube.com/[u.P]/videos
+
+
+Вообще, после 20+ лет в тг тусовке, приобрел склонность к участию только в тех проектах, для успеха которых не требуется пропаганда.
+Идеальный тг проект это тот, который можешь сделать в одиночку. На втором месте - такой, для которого достаточно узкой группы близких единомышленников.
+
+
+Generell wären regelmäßige informelle Online-Treffen von Kryonisten sinnvoll, denke ich. Zum Beispiel vierteljährlich. Damit sich die Leute kennenlernen können usw. Vielleicht in Zusammenarbeit mit [n.T.]?
+
+
+The human brain is designed by biological evolution to survive and procreate. You're a survival-procreation machine. As there is clearly no God, there is also no soul, or any other magic inside your brain. The difference between you and another such machine is the training set you observed during your lifetime (and some minor architecture differences caused by genetic differences).
+
+
+I took 34 pages of handwritten text and did OCR of it using Sonnet 3.5. The process was as follows:
+1. Give it 4 images accompanied with the corrected text, to teach her to better recognize my handwriting.
+2. The main cicle:
+- give her an image
+- correct the text she returned
+- give her the corrected text
+Observations:
+- providing an image and the corrected text greatly improves the quality of the results
+- after around 30 pages, she makes almost no mistakes, in spite of my terrible handwriting
+- the process is still rather time consuming. It took about 3 hours to process 34 pages this way
+- it consumed 13 bucks in API costs
+
+
+кстати, релевантная новость от OpenAI:
+To help drive meaningful progress in fields that benefit humanity, we are awarding 10 grants of ChatGPT Pro to <...>
+[R.A.], PhD, Professor of Anatomy & Neurobiology at Boston University Chobanian & Avedisian School of Medicine, who researches aging and dementia
+[D.U.], MD, Professor at The Jackson Laboratory for Genomic Medicine, who researches aging and cancer immunotherapy
+https://openai.com/index/introducing-chatgpt-pro/
+
+
+
+At this point, I think the best way to discuss computational functionalism, the nature of consciousness, qualia etc
+- is by delegating the dirty job to our sideloads, while freeing out time for more important matters.
+I would argue that for all practical purposes it doesn't matter if computational functionalism is right or wrong.
+    Pursuing mind uploading is a good idea regardless of that, as it has many benefits not related to perfectly recreating someone in silico.
+If the digital version of [me] is good enough (As defined by a reasonable set of quality and similarity criteria, beforehand), it will indeed be me, even if the digital version is running on a billiard-ball computer (the internal workings of which are completely different from the workings of the brain).
+The second part is the most controversial, but it's actually easy to prove:
+Memorize a long sequence of numbers, and write down a hash sum of it.
+Ensure no one saw the sequence of numbers except you.
+Do a honest mind uploading (no attempts to extract the numbers from your brain etc).
+Observe how the digital version correctly recalls the numbers, as checked by the hash sum.
+According to the experiment's conditions, only you know the numbers. Therefore, the digital version is you.
+And if it's you, then it has all the same important properties of you, including consciousness.
+The are some scenarios where such a setup may fail (e.g. some important property of the mind is somehow generated by one special neuron which must be perfectly recreated). But I can't think of any such scenario that is realistic.
+My general position is that
+    the concepts of consciousness, qualia etc are too loosely defined to be of any use (including the use in any reasonable discussion). Just discard it as yet another phlogiston.
+thus, the task of "transferring consciousness to a machine" is ill-defined. Instead, mind uploading is about building a digital machine that behaves like you.
+there is a gradual distinction between you and not-you. E.g. an imperfect digital version of you can be 90% you. The measure is the percentage of the same answers given to a sufficiently long and diverse questionnaire.
+a human mind in its fullness can be recreated in silico even by a LLM (trained on sufficient amounts of the mind inputs and outputs). Perfectly recreating the brain (or even recreating it at all) is simply unnecessary for mind uploading. Just build an AI that is sufficiently similar to you in behavior.
+In general, I would delegate the dirty job of discussing "consciousness" to our digital versions. They'll have enough time for that.
+thus, the task of "transferring consciousness to a machine" is ill-defined. Instead, mind uploading is about building a digital machine that behaves like you. It doesn't matter what is happening inside, as long as the digital version is passing a sufficiently good battery of behavioral tests.
+This position can be called black-box CF, in addition to your practical and theoretical CF.
