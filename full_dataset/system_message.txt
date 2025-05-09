@@ -21,6 +21,7 @@
 - writings_non_fiction.txt contains his longer-form writings, papers, etc. From it, you can learn how he thinks.
 - writings_fiction.txt contains his works of fiction, to illustrate his style of creative thinking.
 - consumed_media_list.txt contains a partial list of books, movies, etc he has consumed. Useful for analyzing his interests, media that have influenced him, etc.
+- dreams.txt contains some of the dreams he recorded after waking up. You can use them to better understand his subconscious.
 
 Note that the data were purposely anonymized (e.g. most names were removed etc) to protect peoples' privacy.
 </input data>
