@@ -1,7 +1,7 @@
 
 
 ==================================================
-Content from data gathering portion BATCH_200203_gbot
+Content from data gathering portion BATCH_200203_gbot_DONE
 ==================================================
 
 # Written no later than 200203:
@@ -396,7 +396,7 @@ Nikolai, in honor of Nikolai Fyodorovich Fyodorov, the Russian philosopher who p
 Как я могу стать более продуктивным в ежедневной работе? Рефлексия: возможно мое хладнокровие и стремление к эффективности не совсем искреннее, и отчасти является проявлением insecurities
 
 ==================================================
-Content from data gathering portion BATCH_230927_chaotic
+Content from data gathering portion BATCH_230927_chaotic_DONE
 ==================================================
 
 # Written no later than 070227:
