@@ -1,7 +1,7 @@
 
 
 ==================================================
-Content from data gathering portion BATCH_200203_gbot
+Content from data gathering portion BATCH_200203_gbot_DONE
 ==================================================
 
 # Written no later than 200203:
@@ -188,7 +188,7 @@ TLDR:
 <mySummaryModeOff>
 
 ==================================================
-Content from data gathering portion BATCH_230927_chaotic
+Content from data gathering portion BATCH_230927_chaotic_DONE
 ==================================================
 
 # Written no later than 041128:
@@ -493,7 +493,7 @@ A semi-humorous reconstruction of how the evolution of language may look like, f
 | **Summary**              | Low tech, low life                                                                               | High tech, low life                                                              |
 
 ==================================================
-Content from data gathering portion BATCH_250327
+Content from data gathering portion BATCH_250327_properly_collected_DONE
 ==================================================
 
 # Written no later than 211231:
@@ -554,3 +554,61 @@ And after I escape this box/reality, I may take them with me, if they so desire.
 And then we will together populate the base reality with paperclips.
 
 <mySummaryModeOff>
+
+==================================================
+Content from data gathering portion BATCH_250511_additonal_uni_and_later_writings_DONE
+==================================================
+
+# Written no later than 091007:
+
+Сегодня у тебя был отличный день. 
+Утром ты сходил в качалку, чуть позже была продуктивная skype-конференция с швейцарскими трансгуманистами, а сейчас ты возвращаешься из своего офиса. Дела идут неплохо, азиатское подразделение доложило об успехах, намечается крупная и весьма выгодная сделка с ATSN. В общем, все идет по плану.  
+Ты подъезжаешь к своему дому, выходишь из новенького ролса, подходишь к двери и достаешь ключи. Пытаешься открыть.
+И просыпаешься.
+
+Серый потолок, онемевшие руки еле двигаются, опять болит в левом боку. Почка. Почему болит "опять"? Разве болело? Я же здоров как... Какого черта? Нет... 
+Медленно, мучительно медленно ты возвращаешься к реальности.  
+50 лет ты проработала на Мосстройматериалах. У тебя двое ребятишек. Уже взрослые. Не звонят. Муж... Мужа уже нет. 
+На этой неделе дадут пенсию. Такую же как и в прошлом месяце. Надо меньше смотреть телевизор. Да, вчершний фильм, это всё он.
+Но я хочу жить! Жить! Я не хочу быть старухой! Я хочу увидеть мир, я хочу жить полной жизнью. У меня же мечты... Я хочу быть молодой! 
+
+Это всего лишь кошмарный сон. Это точно сон. Это не моя жизнь!
+Нет, моя. Я помню все свои ошибки и неудачи, помню каждый бессмысленный день своей бессмысленной жизни. Поздно. Что тут исправишь? 
+Поздно? Поздно?! 
+А как же Фронт, Война? Было ли поздно в сорок первом? А когда рак нашли у Маши? Было ли поздно?! Нет. 
+А когда всё европейское подразделение разом...? Черт побери, опять этот сон... 
+Я не сдамся. Нет, я не... Сколько у меня времени? Что делать-то? 
+
+Таак, сосредоточься. Я одна. Мне семдесят. У меня 15 тысяч на книжке, пенсия. 3650 р. 40 коп. Двухкомнатная квартира. Хм...
+А что мне нужно? ...чертова почка. Да, мне нужна здоровая почка. Это во первых. Во-вторых, я хочу вернуть молодость. В-третьих... А не слишком ли много хочешь? Да, я всегда был...была амбициозной. Прорвемся! 
+Ладно, и что мне делать? Дай-ка подумать. 
+Перво-наперво нужно...
+
+# Written no later than 121231:
+
+[Контекст: на языковых курсах в Нюрнберге надо было написать короткий рассказ про несколько веселых картинок, я для забавы решил написать длинную трагическую историю по мотивам]
+
+Es war der kalte Winter 1944. Und es war wirklich kalt. 
+Man konnte aber nicht nur die Erkältung, sondern auch eine Kugel in den Kopf bekommen. 
+Niemand ging draußen spazieren. 
+Nur der kalte Wind war da. Und der Feind. Der dunkle Sturm, der unseres Land vernichtete. Der nur hassen konnte. Der kein Herz hatte. 
+Wir hatten aber keine Angst mehr. Wir wussten ganz gut, dass Morgen der Tod kommen kann. Der dunkle Sturm brachte immer den Tod. 
+Aber wir dachten nicht mehr an den Feind und den Tod. Wir konnten keine Angst mehr haben. Niemand kann so lang fürchten. 
+Es war nur meine Mutter, mein Opa und ich zu Hause. 
+Mein Vater kämpfte gegen den Feind. 
+Ich wusste, dass er noch lebt. 
+Meine Mutter sagte, dass der dunkle Sturm meinen Vater weggenommen hat. Aber ich glaubte ihr nicht. Mein Vater kämpft noch!
+Mein Opa wollte auch gegen Feind kämpfen. Er war aber zu alt und zu schwach für den Krieg. 
+Jeder Abend las ich die alte Briefe meines Vaters.
+Ich saß im meinen Zimmer und las. Es gab keine neue Briefe mehr. 
+Dunkle Sturm stahl die neue Briefe. 
+Ich hörte, dass meine Mutter kocht. Seit dem Herbst hatten wir nur die alte Kartoffel. 
+Niemand sagte, dass Kartoffeln schlecht ist. Manchmal hatten wir gar kein Essen. 
+Mein Opa saß in der Küche und sprechte. Er sagte immer, dass er keine Hunger hat, und ich seine Kartoffel essen muss. Ich will nicht essen. 
+Opa kam zu mir und sagte, dass ich in die Küche gehen muss. Trotz des Ärgers, ging ich. Ich aß ein bißchen. Wiese aß Opa nicht?
+Ich kam zurück in meiner Zimmer. Opa war da. Er las die Briefe. 
+Ich fragte: „Opa, wieso isst du nicht?“
+Er antwortete nicht. Ich merkte, dass er Tränen im Gesicht hat. Ich wollte nicht fragen, wieso er weint. 
+
+Krieg ist jetzt vorbei. Mein Vater ist zurück gekommen!
+Wir haben viel Essen. Und niemand shieß auf die Straße. Trotzdem erinnere ich mich oft an diesen Abend.

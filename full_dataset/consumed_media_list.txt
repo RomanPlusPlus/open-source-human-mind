@@ -1,5 +1,5 @@
 ==================================================
-Content from data gathering portion BATCH_200203_gbot
+Content from data gathering portion BATCH_200203_gbot_DONE
 ==================================================
 
 # Written no later than 200203:

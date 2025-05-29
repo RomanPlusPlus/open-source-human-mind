@@ -1,7 +1,7 @@
 
 
 ==================================================
-Content from data gathering portion BATCH_200203_gbot
+Content from data gathering portion BATCH_200203_gbot_DONE
 ==================================================
 
 # Written no later than 200203:
@@ -4217,7 +4217,7 @@ There are even successful commercial applications based on constantly adapting a
 <mySummaryModeOff>
 
 ==================================================
-Content from data gathering portion BATCH_230927_chaotic
+Content from data gathering portion BATCH_230927_chaotic_DONE
 ==================================================
 
 # Written no later than 060831:
@@ -5495,7 +5495,7 @@ Secondly, you tell the machine the rules of the game (and ONLY the rules: no ope
 Thirdly, you launch the machine, and don’t touch it for a few days/weeks. It becomes a pro-player.
 
 ==================================================
-Content from data gathering portion BATCH_250327
+Content from data gathering portion BATCH_250327_properly_collected_DONE
 ==================================================
 
 # Written no later than 200501:
@@ -13660,7 +13660,7 @@ But I would consider his fate as much more preferable than death. Even before re
 А самый большой прогресс именно там, где люди взяли и начали работать непосредственно по нужным технологиям (как [f.М.]).
 
 ==================================================
-Content from data gathering portion BATCH_250414_tg_sideloading
+Content from data gathering portion BATCH_250414_tg_sideloading_portion1_DONE
 ==================================================
 
 # Written no later than 250412:
