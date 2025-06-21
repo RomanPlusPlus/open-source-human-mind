@@ -404,3 +404,49 @@ Content from data gathering portion BATCH_230927_chaotic_DONE
 [Неполный список моих интересов в 2007 году или чуть ранее : ]
 
  black metal, hi-tech, Вишев, Дарвин, Докинз, ИИ, Китай, Омск, Ричард Докинз, СТЭ, анатомия, антинаука, антропоген, атеизм, бессмертие, библеистика, биология, биотехнологии, будущее, вечная жизнь, виртуальная реальность, высокие технологии, генетика, генная инженерия, генотерапия, геронтология, глобализм, дарвинизм, жизнь, здоровый образ жизни, зоология, иммортализм, иммортология, имплантанты, импланты, интеллект, интернационализм, искусственная жизнь, искусственные языки, искусственный интеллект, искусственный разум, исследование космоса, кибернетика, киберпанк, киберпространство, киборг, китайский язык, клеточные автоматы, клонирование, когнитивная наука, компьютерное моделирование, космизм, космические исследования, космонавтика, космополит, космополитизм, космос, креационизм - глупость полнейшая, крионика, лженаука, математика, мем, меметика, методология науки, миметика, модификация тела, мозг, морфология, нанотехнологии, наука, научная фантастика, научно-технический прогресс, нейральная эволюция, нейробиология, нейромодуляторы, нейронауки, нейронные сети, нейропластичность, нейропсихология, нейротрансплантология, нейрочип, нейроэлектронный интерфейс, неокортекс, ноосфера, ноотропики, общество будущего, палеонтология, палеоэкология, постгуманизм, постпостмодернизм, постчеловек, постчеловечество, прогресс, продление жизни, псевдонаука, разум, распределенное сознание, редукционизм, религиоведенье, религия, роботехника, роботы, рпц, самоорганизация, самосовершенствование, самосознание, сверхразум, сверхчеловек, свобода, сексизм, сеттлеретика, сингулярность, синергетика, систематика, скептицизм, смысл жизни, софт для писателей, социальная инженерия, социобиология, социум будущего, теоретическая биология, теория эволюции, терраформизм, терраформирование, технократия, технологии, трансгуманизм, транслюди, физическое бессмертие, философия биологии, футуризм, футуристика, футурология, хай-тек, цинизм, эволюционизм, эволюционная психология, эволюция, эволюция сознания, эгоизм, экзоскелеты, этология, япония.
+
+==================================================
+Content from data gathering portion BATCH_250328_from_unsorted
+==================================================
+
+# Written no later than 250525:
+
+<mySummaryModeOn>
+
+My request to AlphaEvolve:
+
+> Please briefly describe the specific problem you have in mind.
+Given the inputs and outputs of the patient's brain, is it possible to create a LLM-based system that will act and think sufficiently similar to the patient?
+
+> Please briefly describe the potential benefit if this problem were solved or significantly improved.
+Immortality by the means of mind uploading (under certain assumptions)
+
+> Why do you believe AlphaEvolve is particularly well-suited to overcome these limitations?
+The main current limitation is the relatively small context size of current frontier LLMs. In our experiments, we gathered 10+ MB of the patient brain's inputs and outputs, and our approach seems to work (e.g. Gemini 2.5. Pro produces a digital replica of excellent quality.) But we have to use various tricks to cram the data into its 1M context (RAG performs poorly). Judging by your article, AlphaEvolve may be capable to design a better system around this limitation.
+
+> Please briefly describe how you currently measure success or quality for this problem.
+Both the patient and the LLM-based replica answer a large, carefully designed questionnaire. We compare the answers in an automatic way
+
+> Is there anything else you'd like to share about your problem or interest in AlphaEvolve?
+I'm happy to do any form of cooperation on this
+
+<mySummaryModeOff>
+
+
+<mySummaryModeOn>
+
+[анкета Кто познакомил вас с продлением жизни?]
+
+> Кто познакомил вас с областью и/или концепцией продления жизни? * В какой-то момент вы узнали о продления жизни мышам и мухам, голом землекопе, рапамицине, метформине и т. д впервые. Кто рассказал вам о существовании биологии старения, её достижениях и целях? — Обратите внимание: вопросы о том, как вы включились в активную работу, и о том, кто повлиял на ваше желание жить дольше, мы задаем чуть ниже. Данный вопрос только о моменте первого знакомства.
+Русские народные сказки (живая и мертвая вода, Кощей, и тп)
+
+> Как называлась та книга, подкаст, статья...?
+Народные русские сказки, 1979. https://fantlab.ru/edition158915
+
+> Когда это произошло?
+1986-1991
+
+> Не все, кто согласен с важностью продления жизни, меняют свою жизнь и становятся активными участниками борьбы со старением. Нам очень интересно, почему, и возможно ли повлиять на этот процесс.
+умерла моя собака, это был один из толчков
+
+<mySummaryModeOff>
