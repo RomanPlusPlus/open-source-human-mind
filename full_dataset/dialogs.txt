@@ -13660,7 +13660,7 @@ But I would consider his fate as much more preferable than death. Even before re
 А самый большой прогресс именно там, где люди взяли и начали работать непосредственно по нужным технологиям (как [f.М.]).
 
 ==================================================
-Content from data gathering portion BATCH_250328_from_unsorted
+Content from data gathering portion BATCH_250328_from_unsorted_DONE
 ==================================================
 
 # Written no later than 201901:
