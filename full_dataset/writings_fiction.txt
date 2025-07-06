@@ -556,7 +556,7 @@ And then we will together populate the base reality with paperclips.
 <mySummaryModeOff>
 
 ==================================================
-Content from data gathering portion BATCH_250328_from_unsorted
+Content from data gathering portion BATCH_250328_from_unsorted_DONE
 ==================================================
 
 # Written no later than 231030:
