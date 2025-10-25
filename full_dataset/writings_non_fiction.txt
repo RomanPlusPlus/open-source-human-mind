@@ -19014,7 +19014,7 @@ www.fhi.ox.ac.uk/brain-emulation-roadmap-report.pdf
 bigbrainproject.org
 
 ==================================================
-Content from data gathering portion BATCH_250516_horns
+Content from data gathering portion BATCH_250516_horns_DONE
 ==================================================
 
 # Written no later than 051031:
@@ -25599,7 +25599,7 @@ Content from data gathering portion BATCH_250518_teaching_uni_writings_DONE
 
 Директор школы: [Х.Т.]
 
-Зам. директора по учебно-воспитательной работе: [И.Ш.]
+Зам. директора по учебно-воспитательной работе: [n.И.Ш.]
 
 Учитель-методист: [Е.К.]
 
@@ -30562,3 +30562,3967 @@ d) Глобальные модели. Массовое вымирание три
 
 
 27
+
+==================================================
+Content from data gathering portion BATCH_250710_second_startup
+==================================================
+
+# Written no later than 160908:
+
+[Note: I wrote this to help <brother> to implement a self-management system like mine. Likely sent to <startup_pal_A.7.H.> too]
+
+вообще, в первое время будет казаться, что ты слишком много времени на поддержку систему тратишь каждый день. Но оно потом значительно ускорится всё. И благодаря системе ты избежишь многих пожирателей времени, которые иначе отняли бы у тебя десятки и сотни часов в месяц, так что поддержание системы реально выгодно.
+
+Внедрение
+
+Лучше на Thinking Rock эт делать, но можно и на омнифокусе.
+я бы это примерно так сделал на омнифокусе:
+вот возникла идея - "Рассказать <me> как работает билдуин".
+
+1. Вношу идею в google keep.
+
+2. Идея вместе со всеми остальными идет в единое место -  Inbox омнифокуса.
+
+3. Раз в день я разбираю inbox омнифокуса и решаю что делать с каждой идеей.
+
+Эту идею я превращаю в проект по названием "Рассказ о том как работает билдуин".
+
+В омнифокусе я назначаю этому проекту следующее действие:
+"написать на бумажке тезисно, что именно я хочу рассказать о билдуине"
+
+Этому действию я назначаю время, место, контекст и тп.
+
+Когда я оказываюсь в нужном контексте, выполняю это действие.
+
+По выполнению отмечаю в омнифокусе что выполнил, и назначаю следующее действие по проекту:
+договориться о времени встречи с <me>ом
+
+И всё.
+
+
+Разбор inbox омнифокуса (создание новых проектов, назначение контектов следующим делам и тп):
+раз в день сразу после просыпания.
+Строго каждый день, без пропусков.
+Тебе может время во время поездки на работу подойдет.
+
+выполнение дел:
+после того, как разобрал inbox. Ни в коем случае не до этого.
+
+Разбор выполненных дел, назначение следующих дел после них и тп:
+раз в 2 дня
+
+
+
+Как обрабатывать вкладки браузеров
+
+у меня по сути 4 типа вкладок получается:
+
+1. Меньше 2 минут на чтение - Прочитал и закрыл.
+
+2. Хлам малопонятной нужности. Может быть потом почитаю. - Отправляю его в OneTab
+
+3. Вроде что-то полезное, но не настолько чтобы отдельный таск для этого создавать.
+Скидываю их в отдельный текстовик. Есть регулярный таск (раз в месяц): "почитать пару статей из того текстовика".
+
+4. Реальные важные вещи. Для них я делаю таски типа:
+<адрес> - изучить
+
+причем даже по четвертому пункту уже около тысячи тасков
+
+проблема в том, что тебе нужно весь список тасков регулярно просматривать
+"ревизиция" по гтд
+если у тебя там 30 тыс ссылок на хлам, то еженедельная ревизия на месяц затянется:)
+
+
+Само-поддержание системы
+вообще, у меня это уже вторая итерация системы gtd. Первая поломалась потому-что я плохо организовал само-поддержание системы.
+починил таким образом: Ввел самый высший приоритет дел - "системные таски".
+в нем только таски про само-поддержание системы и больше ничего
+они всегда в самом верху списка тасков, и их я всегда должен в первую очередь выполнять
+к примеру, таск "разобрать инбокс"
+таск автоматически генерируется раз в день
+у ТР есть возможность создания периодических тасков
+это на тот случае если я забуду разобрать инбокс
+и сразу начну что-то другое делать
+человеческий мозг - отвратительно ненадежный аппарат. У меня даже сейчас, спустя 8 лет ежедневного использования, иногда подобные сбои бывают.
+приходится делать такие вещи для повышения надежности системы
+
+полный список моих периодических тасков уровня "системные":
+ежедневные
+    период: ежедневно: разобрать ДНМ
+период: ежедневно: разобрать inbox TR
+
+промежуточной частоты
+    период: раз в 2 дня: разорать выполненные таски
+    период: раз в 4 дня: просмотреть триггеры
+    период: раз в 5 дн: посмотреть список делегированных дел
+    период: раз в 2 дня: собрать бумаги отовюсду и разобрать физическую корзину
+    период: раз в 3 дн:    разобрать файловую корзину
+    раз в 4 дня: собрать инфу из всех мест (см.список)
+
+еженедельные
+    период: вс: просмотреть все таски
+    период: вс: разобрать зависшие корзины
+
+раз в 2 недели:
+    период:  проверить критерии показа тасков. Чтоб не случилось, что я долго работаю без показа
+некоторых нужных.
+
+ДНМ это файлик, куда все идеи собираются
+
+триггеры это особые таски, которые нужно выполнять только при соблюдении определенных условий
+к примеру, "триггер: если запустили MVP, то внести изменения в презентацию"
+
+"собрать инфу из всех мест" это сбор фоток с телефона, идей из бумажных ежедневников, диктофонных записей и тп
+
+
+# Written no later than 160911:
+
+[Note: I wrote this to help <brother> to implement a self-management system like mine. Likely sent to <startup_pal_A.7.H.> too]
+
+физическая справочная система
+
+около 30 твердых папок. Тематическое разделение - в соответствии с майндмэпами.
+из них несколько папок - по стартапу
+Информация по заказам, общая информация (налоги и тп), и одна папка с налоговыми доками за каждый год
+
+а папки как организуеш физически?
+
+да просто в шкафу стоят. Шкаф - на расстоянии вытянутой руки от рабочего кресла
+самое главное, чтобы папки твердые были (те, что кольцами).
+стараюсь их по цветам папок делить
+цвет - соответствует теме
+хотя папок не так много, и так легко находятся
+
+
+# Written no later than 161016:
+
+[Note: this was an early draft of the text for our website]
+
+we want to create a decentralized alternative to police and emergency services
+powered by community
+to save lives where Government can't
+
+How?
+Iteratively
+with a working and useful system on every step of development
+
+Tier 1
+A practical app to directly help your beloved ones in the case of emergency.
+Government can't do it? Do it yourself.
+
+Tier 2
+A distributed system of volunteers to help anyone in need
+powered by self-interest, for the public good
+
+Tier 3
+Open-source hardware for automatic response to emergency situations
+to allow near real-time reaction of the system
+ 
+Tier 4
+A decentralized, democratic and effective alternative to governmental services
+You are your own police
+
+Who are we?
+We are an international German-Russian team working in Bielefeld, Germany
+
+
+
+<brother>
+inventor, 15+ years experience in software development, safety critical software
+
+<startup_pal_A.7.H.>
+engineer (microelectronics), designer
+
+<me>
+serial entrepreneur, investor
+
+Where are we?
+We're developing the tier 1 software.
+We have the hardware (early prototype stage).
+
+What can I do to help?
+Spread the word
+Subscribe to our email
+Join our team
+contact us
+
+Press
+
+
+
+
+# Written no later than 161031:
+
+[Note: an email to the support of an online service for mind maps]
+
+Dear Support,
+
+I would like to reduce the number of licenses for my team. I currently have 3 licenses, 2 users and 1 remaining licenses.
+I would like to have only 2 licenses to reduce costs.
+
+There was a option about changing the number of licenses under My account / products, and I've tried to use it. But apparently it didn't work. It now shows text "Scheduled Downgrade Your team is scheduled to downgrade to the Pro plan on 2017-02-12" (screenshot attached).
+But I still have 3 licenses.
+
+Could you please reduce the number of my licenses to 2?
+
+Thank you.
+
+Best regards
+<me>
+
+
+# Written no later than 161117:
+
+[Note: another email to the support of an online service for mind maps]
+
+Dear Support,
+
+for some reason I'm not receiving notifications about new changes in maps anymore. Although my team members do edit maps (as I see in the "activity" field on the main Mindmeister page). For example, there were edits a day ago.
+
+It worked for many months, but since 22 September there were no new mails about changes.
+I checked spam folder, nothing. I do receive other mails from Mindmeister (for example, from Support).
+
+Best regards,
+<me>
+
+
+# Written no later than 170228:
+
+[Note: this was likely the result of a group review of the website text draft]
+
+Пожелания к сайту:
+
+add to the site a place-holder for the explainer video
+For example, some random video from the Internet
+After we create the real explainer video, we'll replace it
+
+
+
+
+add to the site a short text about what our current app (mvp) is actually doing
+<me> can write the text (kick him if necessary)
+The current section called “How” is a good start. We just need to replace the current text about the future system with the text about our mvp functionality.
+We can move the current text to a new section called “Our long-term vision” or something like this.
+
+
+
+add to the site a short text (in a form of bullet points) about why our app is better than alternatives
+<me> can write the text (kick him if necessary)
+Not sure if we really need to do it. Please decide.
+
+
+to the Team section add links to the official public accounts in social networks for each team member
+For example, to Linkedin pages.
+It will show the user that we are real people whom he can trust.
+<me> is not sure if it's a good or bad idea. On the one side, there are privacy concerns for us. On the other side, it's very easy to find our Lindedin pages in google. And such links could greatly improve the trust in our app. Please decide.
+
+
+
+Add to the site a page/section called „Our phylosophy“ or a place-holder for it.
+For example, like this:
+https://bitsquare.io/philosophy/
+<me> can write the text (kick him if necessary)
+
+
+
+
+add to the site a page/section called „Press“
+Sites with such page/section look more trustful.
+Before we have any press articles about us, we'll post links to articles on very relevant topics.
+Like this:
+https://www.mindmeister.com/774495338
+There is already a „press“ element in the menu, but currently no page/section.
+<me> can write the text of this section (kick him if necessary)
+
+
+
+
+add a smart FAQ to the site
+The idea is to create a good looking and useful FAQ, preferably with integrated Support functionality.
+Something like this:
+https://support.xapo.com/
+
+There are several solutions for it, for example:
+
+http://reformal.ru/
+it's free, and <me> has experience on implementing and using it. Not sure if it supports English.
+
+https://www.inbenta.com/en/
+Some popular services (like Xapo) are using it. It does support different languages. Not sure how much it costs.
+
+There are probably many alternatives.
+
+
+
+
+Add a place-holder to the link to our app in Google Play
+A highly visible button with the text „dowload it from Google Play“, somewhere near the start of the page
+
+Example: http://osmand.net/
+
+
+
+Add a form for a direct feedback from users
+Something like this:
+
+„Have ideas how to improve our app? Click here.
+The survey should take less than 3 minutes to complete.“
+
+We can put this text in the section “how can I help?”
+
+<me> can write the text of this section (kick him if necessary)
+
+
+Add „subscribe to our news“ functionality
+
+Email and/or our twitter
+
+Enable Google Analytics on the site
+
+Add a possibility to change the language of the site
+
+Our prime focus is on the English-language version of the site. But we probably should build the site in such way, so we don't need to rebuild the site from scratch if we want to add another localization of the site.
+
+Remove phone number from the site
+We'll able to use voice/phone support when we are already profitable.
+
+
+# Written no later than 170406:
+
+[Note: a copy of <startup_pal_A.7.H.>'s tasks in Phabricator. He wasn't very active at using Phabricator; most of the tasks were likely written by me]
+
+[second_startup] Phabricator
+
+People
+<startup_pal_A.7.H.>
+<startup_pal_A.7.H.> (<startup_pal_A.7.H.>)Administrator
+Assigned Tasks
+
+    T217 read the first chapter of Start up owner's manual [<startup_pal_A.7.H.>]
+            Management
+        Wed, Apr 5, 13:44
+    Assigned: <startup_pal_A.7.H.>
+    T167 Add a possibility to change the language of the site
+            Frontend
+        Feb 28 2017, 18:03
+    Assigned: <startup_pal_A.7.H.>
+    T166 Enable Google Analytics on the site
+            Frontend
+        Mar 1 2017, 11:49
+    Assigned: <startup_pal_A.7.H.>
+    T165 Add „subscribe to our news“ functionality
+            Frontend
+        Feb 28 2017, 18:01
+    Assigned: <startup_pal_A.7.H.>
+    T164 Add a form for a direct feedback from users
+            Frontend
+        Wed, Mar 8, 13:18
+    Assigned: <startup_pal_A.7.H.>
+    T163 Add a place-holder to the link to our app in Google Play
+            Frontend
+        Fri, Mar 17, 22:47
+    Assigned: <startup_pal_A.7.H.>
+    T162 add a smart FAQ to the site
+            Frontend
+        Feb 28 2017, 17:55
+    Assigned: <startup_pal_A.7.H.>
+    T161 add to the site a page/section called „Press“
+            Frontend
+        Fri, Mar 17, 22:47
+    Assigned: <startup_pal_A.7.H.>
+    T160 Add to the site a page/section called „Our phylosophy“ or a place-holder for it.
+            Frontend
+        Fri, Mar 17, 22:47
+Assigned: <startup_pal_A.7.H.>
+T159 to the Team section add links to the official public accounts in social networks for each team member
+            Frontend
+Fri, Mar 17, 22:47
+Assigned: <startup_pal_A.7.H.>
+T158 add to the site a short text (in a form of bullet points) about why our app is better than alternatives
+            Frontend
+        Feb 28 2017, 17:48
+Assigned: <startup_pal_A.7.H.>
+T157 add to the site a short text about what our mvp is actually doing (description of the main functionality)
+            Frontend
+        Feb 28 2017, 17:47
+Assigned: <startup_pal_A.7.H.>
+T156 add to the site a place-holder for the explainer video
+            Frontend
+        Fri, Mar 17, 22:48
+Assigned: <startup_pal_A.7.H.>
+T62 Test phabricator extention sprint
+            Management
+Dec 13 2016, 09:07
+Assigned: <startup_pal_A.7.H.>
+T55 Create a mind map about the structure of startups
+            Research
+        Nov 29 2016, 10:03
+Assigned: <startup_pal_A.7.H.>
+T31 Research the structure of IT-companies and startups
+            ResearchCompany structure design
+Dec 5 2016, 09:42
+Assigned: <startup_pal_A.7.H.>
+T30 Please add borders around the screen (image with the app)
+            FrontendManagement
+        Nov 4 2016, 17:51
+Assigned: <startup_pal_A.7.H.>
+T29 Unify our photos
+            FrontendManagement
+Dec 5 2016, 15:43
+Assigned: <startup_pal_A.7.H.>
+T27 Design the first prototype of android app (UI)
+            MVP
+Nov 4 2016, 10:50
+Assigned: <startup_pal_A.7.H.>
+T26 Change the main image on landing page
+            Frontend
+Nov 4 2016, 10:37
+Assigned: <startup_pal_A.7.H.>
+    T5 Create a web landing page
+            Frontend
+Nov 4 2016, 10:27
+Assigned: <startup_pal_A.7.H.>
+
+# Written no later than 170406:
+
+[Note: a copy of<brother>'s tasks in Phabricator. He was a very active user of Phabricator, like me. Using Phabricator was his idea in general. Most of these items were likely written by him]
+
+[second_startup] Phabricator
+
+People
+<brother>
+<brother> (<brother>)Administrator
+Assigned Tasks
+
+
+    T216 read the first chapter of Start up owner's manual [<brother>]
+            Management
+        Wed, Apr 5, 17:22
+Assigned: <brother>
+    T115 answer the survey about co-founder goals
+            Management
+        Feb 8 2017, 12:48
+Assigned: <brother>
+T89 Add a function to remove flags that do not change the ABI
+            Toolchain
+Feb 3 2017, 11:27
+Assigned: <brother>
+T76 Update Bilduin parameter passing
+            Toolchain
+Feb 7 2017, 10:17
+    Assigned: <brother>
+T52 Finish AppArmor setup
+            System administration
+Dec 2 2016, 14:50
+Assigned: <brother>
+T33 Research the structure of IT-companies and startups
+            Company structure designManagement
+        Dec 21 2016, 11:48
+    Assigned: <brother>
+    T12 Design and document mobile application structure
+            MVPResearch
+        Dec 2 2016, 16:26
+Assigned: <brother>
+T11 Create UML diagramms
+            MVP
+        Feb 5 2017, 12:04
+Assigned: <brother>
+
+
+# Written no later than 170406:
+
+[Note: a copy of my tasks in Phabricator. Most of these items were written by me]
+
+[second_startup] Phabricator
+[my tasks]
+Assigned Tasks
+
+
+T214 split the map "management"
+            Management
+Sat, Apr 1, 18:10
+Assigned: <me>
+T213 call [f.M.] one more time - about the possible problem with the contract
+            Management
+        Fri, Mar 31, 15:37
+Assigned: <me>
+T212 collect all branches about AGB in one place
+            Management
+        Thu, Mar 30, 19:38
+Assigned: <me>
+T207 read: Foerderlotse-Wegweiser-durch-Foerderprogramme-fuer-Gruender.pdf
+            Management
+        Sat, Mar 25, 10:38
+    Assigned: <me>
+T206 read: GruenderZeiten-extra-Finanzierung.pdf
+            Management
+Sat, Mar 25, 10:38
+    Assigned: <me>
+T204 put in order the branch about models of commercialisations
+            Management
+        Thu, Mar 23, 20:40
+Assigned: <me>
+T203 check the strongest competitors, did some of them emphasize privacy?
+            Marketing
+        Wed, Apr 5, 17:46
+Assigned: <me>
+T196 make an appointment with [R.D.]. Say that Frau [f.S.] recommended to make an appointment with you
+            Management
+        Mon, Mar 20, 15:24
+Assigned: <me>
+T190 create all the needed tasks in the "Marketing" map
+            Management
+Wed, Mar 15, 10:40
+Assigned: <me>
+    T152 MVP: give the answers to the main questions about our business model (see the map)
+            Management
+        Feb 20 2017, 12:34
+Assigned: <me>
+T145 create all the needed tasks in the "Хранитель 42" map
+            Management
+        Feb 18 2017, 19:34
+Assigned: <me>
+T125 create a survey about how we should make decisions, use the survey about our goals as an example
+            Management
+        Feb 10 2017, 15:54
+Assigned: <me>
+
+Normal (29)
+
+    T219 read this one more time, summarizing important things: https://www.evernote.com/shard/s524/nl/153553832/8cbffa84-4ad6-4dbf-8424-0f8e6c651f0b?title=Product
+            MVP
+        Tue, Apr 4, 10:35
+Assigned: <me>
+    T218 think how we can collect and store user data in a very safe way
+            Marketing
+        Mon, Apr 3, 15:44
+Assigned: <me>
+T205 read it. Is it useful for us? https://www.techtag.de/netzkultur/barcamps-in-baden-wuerttemberg-termine/
+            Management
+        Fri, Mar 24, 17:46
+Assigned: <me>
+T201 discuss with the team the idea of reversible and irreversible decisions
+            Management
+        Thu, Mar 23, 19:50
+Assigned: <me>
+T200 sing up on fiverr (we can create a good explainer video using it)
+            Marketing
+Thu, Mar 23, 19:42
+Assigned: <me>
+    T195 read: IHK platform for searching for investors and early emploees. How can it be helpful for us? https://www.schwarzwald-baar-heuberg.ihk.de/boersen/beteiligungs-und-risikokapitalboerse/
+            Management
+Sat, Mar 18, 15:18
+Assigned: <me>
+T191 read: https://www.fuer-gruender.de/wissen/unternehmen-gruenden/genehmigungen/gesundheitsamt/
+            Management
+        Sat, Mar 18, 13:44
+Assigned: <me>
+T184 hot to make a collective decision if there is a disagreement on it between co-founders? Make a research
+            Management
+Tue, Mar 14, 12:49
+Assigned: <me>
+T180 read the site of [A.S.] Plug and Play Accelerator
+            Management
+        Wed, Mar 8, 12:54
+Assigned: <me>
+T177 toggl (time management) - install the app and start using it
+            Management
+Mar 6 2017, 19:53
+Assigned: <me>
+T173 create tasks in the branch about materials for the site
+            Frontend
+Mar 1 2017, 19:03
+Assigned: <me>
+T169 move the branch "The Customer Development process" to a new map and organize it
+No Projects
+        Feb 28 2017, 18:45
+Assigned: <me>
+T155 brainstorm about how we should solve the map language problem
+            Management
+        Feb 20 2017, 15:50
+Assigned: <me>
+T135 complete this test: Rechtsformen-Analyser zur Überprüfung Ihrer Entscheidung http://gruenderberater.de/meine-gruendung/planungsphase/wahl-der-rechtsform-gesellschaftsvertrag/intro
+            Management
+        Feb 16 2017, 15:49
+Assigned: <me>
+T132 describe the problem we're trying to solve using the [public_figure_entrepreneur_E.R.M.]'s method of first principles (see mm.)
+            Management
+        Feb 14 2017, 12:53
+Assigned: <me>
+T131 read https://www.qualtrics.com/ to understand how they can help us analyse market etc
+            MVP
+        Feb 13 2017, 14:56
+    Assigned: <me>
+    T130 find something about how to do market research (users polls etc) for MVP. If the current idea has potential etc
+            MVP
+        Feb 13 2017, 14:54
+    Assigned: <me>
+    T127 read the site of Techstars Berlin Accelerator to understand if we need it
+            Management
+        Feb 11 2017, 15:58
+Assigned: <me>
+T126 register by https://appsamurai.com/ and read about their price etc
+            MVP
+        Feb 11 2017, 15:37
+Assigned: <me>
+T119 Find out if it's possible to add additional priorities for tasks in Phabricator. For example, below "low": very low, the lowest
+            Management
+Feb 9 2017, 14:49
+Assigned: <me>
+T113 find out if it's possible to create regular tasks and delayed tasks ("2019:...") in Phabricator
+            Management
+        Feb 5 2017, 13:57
+    Assigned: <me>
+T99 remind cofounders about the survey about co-founder goals
+Management
+        Feb 4 2017, 12:31
+    Assigned: <me>
+    T96 read this article: https://de.wikipedia.org/wiki/Rettungsdienst
+            Management
+        Feb 3 2017, 22:07
+    Assigned: <me>
+    T95 read this article: https://en.wikipedia.org/wiki/Emergency_medical_services_in_Germany
+            Management
+        Feb 3 2017, 22:06
+    Assigned: <me>
+    T93 read this to understand how our resсuiers should be certified etc: https://de.wikipedia.org/wiki/Helfer_vor_Ort
+            Management
+        Feb 3 2017, 21:46
+    Assigned: <me>
+    T85 Choose potential investors from this list (don't forget sub-categories): https://de.wikipedia.org/wiki/Kategorie:Unternehmer_(Deutschland)
+            Management
+        Jan 28 2017, 18:15
+    Assigned: <me>
+    T83 read this article: Managers-Role-In-Scrum (25p)
+            Management
+Jan 26 2017, 16:05
+Assigned: <me>
+T82 organize reading of this book: Scrum-and-XP-from-the-Trenches-2nd-edition (183p)
+            Management
+        Jan 26 2017, 16:03
+Assigned: <me>
+T80 install the software for UML and read the UML diagrams
+            MVP
+        Jan 25 2017, 18:07
+Assigned: <me>
+
+Low (59)
+
+T215 brainstorm about how we can use the Phabricator API (see the branch about it)
+            Management
+        Sat, Apr 1, 18:13
+Assigned: <me>
+T211 make a very detailed description of the Gardion elevator pitch to make a similar one
+            Marketing
+        Tue, Mar 28, 15:15
+Assigned: <me>
+T202 find 3 good examples of product roadmaps on startup sites. Use Kicktarter etc for the search, there are often roadmaps there
+Frontend
+        Thu, Mar 23, 20:16
+    Assigned: <me>
+    T198 read and decide if it's worth participating https://www.schwaebische.de/wirtschaft/gruenderpreis/gp-info.html
+            Marketing
+        Tue, Mar 21, 17:24
+    Assigned: <me>
+    T197 read it. Is it useful for us? http://www.gruendungswerkstatt-deutschland.de/informationen-fuer-gruendungsfoerderer.html
+            Management
+        Tue, Mar 21, 17:20
+Assigned: <me>
+T194 check if the videos from Niedereschach were published and save the video about [n.G.] https://www.youtube.com/user/ElevatorPitchBW/videos
+Management
+Sat, Mar 18, 15:08
+Assigned: <me>
+T193 find info about who is officially considered as an investor in a company according to German laws
+            Frontend
+        Sat, Mar 18, 14:06
+Assigned: <me>
+T192 read: https://en.wikipedia.org/wiki/Kibbutz
+            Management
+Sat, Mar 18, 13:53
+Assigned: <me>
+T189 find info about how computer games sessions are organized in successful start-ups (if they're doing it at all)
+            Management
+        Tue, Mar 14, 15:00
+Assigned: <me>
+T188 for a test, create a physical copy of the first book of hpmor: https://github.com/[u.I]/hpmor
+            Management
+        Tue, Mar 14, 13:23
+Assigned: <me>
+T187 find if there are ethics training seminars available in Germany, and choose the best 3
+Management
+        Tue, Mar 14, 13:09
+Assigned: <me>
+T186 ask on Quora: what is the best online ethics course to help our employees to make more ethical decisions?
+            Management
+        Tue, Mar 14, 13:07
+    Assigned: <me>
+    T185 read it (including links) and make a synopsis: https://www.generalmills.com/Responsibility/ethics-and-integrity
+            Management
+        Tue, Mar 14, 12:54
+Assigned: <me>
+T183 find a good service for outsourcing Tech support. Smart FAQs or maybe humans
+            Management
+        Fri, Mar 10, 21:59
+Assigned: <me>
+T182 find a good service for outsourcing Customer service
+            Management
+        Fri, Mar 10, 21:59
+Assigned: <me>
+    T181 read puri.sm and find out what we can learn from them ((see the mindmap))
+            Marketing
+        Fri, Mar 10, 18:37
+    Assigned: <me>
+    T179 read this (and links): https://en.wikipedia.org/wiki/Network_simulation
+            Management
+Mar 6 2017, 20:12
+    Assigned: <me>
+T178 https://software.nasa.gov/ - check if they have some soft that could be useful for us. Network protocols, business etc
+            Management
+        Mar 6 2017, 20:09
+    Assigned: <me>
+    T176 read the site of Palantir to understand how it could be useful for us
+            Marketing
+        Mar 6 2017, 19:45
+Assigned: <me>
+T175 check the list of the business role models. Some potential investors?
+            Management
+        Mar 4 2017, 21:37
+    Assigned: <me>
+    T172 read this site: https://www.kvbawue.de/buerger/notfallpraxen/?no_cache=1
+            Management
+        Feb 28 2017, 21:32
+Assigned: <me>
+T171 choose the most relevant potential partners from this list: https://www.forbes.com/30-under-30-2016/healthcare/#765174df677a
+            Management
+Feb 28 2017, 21:24
+Assigned: <me>
+T170 choose the most relevant investors from this list: https://www.forbes.com/30-under-30-2016/venture-capital/#329168354250
+            Management
+        Feb 28 2017, 21:22
+Assigned: <me>
+T153 organize reading of learncpp till completion
+            Management
+        Feb 20 2017, 15:45
+    Assigned: <me>
+    T149 read this site: encode.org to understand if we need their services
+            Management
+        Feb 19 2017, 21:15
+    Assigned: <me>
+    T148 read this article: http://unenumerated.blogspot.ru/2017/02/money-blockchains-and-social-scalability.html
+            Management
+        Feb 19 2017, 21:00
+Assigned: <me>
+T147 find 5 related startups who have a page "Philosophy" on their site. Check the list of our partners etc first
+            Frontend
+        Feb 19 2017, 20:36
+    Assigned: <me>
+    T146 read these articles: https://en.wikipedia.org/wiki/Federal_Emergency_Management_Agency#Emergency_response_teams_in_the_US
+            Management
+Feb 19 2017, 20:01
+Assigned: <me>
+T144 create alerts on angel.co for most interesting tech, investors, places
+            Management
+Feb 18 2017, 18:11
+Assigned: <me>
+T143 choose 5 most relevant German incubators on angel.co
+            Management
+        Feb 18 2017, 18:08
+Assigned: <me>
+T142 choose 10 most relevant investors on angel.co
+            Management
+        Feb 18 2017, 18:07
+Assigned: <me>
+T141 make a brainstorm about nonvolatile bracelets (see the map about it)
+            Hardware
+        Feb 18 2017, 17:38
+    Assigned: <me>
+    T140 read this article: http://www.multichain.com/blog/2015/11/smart-contracts-good-bad-lazy/
+            Management
+        Feb 18 2017, 17:14
+Assigned: <me>
+    T136 describe the "square system of volonteers" in pseudo-code
+Management
+        Feb 16 2017, 16:23
+    Assigned: <me>
+    T134 coplete this test: Fördermittel-Sofort-Check http://gruenderberater.de/meine-gruendung/umsetzungsphase/fordermittel/intro
+            Management
+        Feb 16 2017, 15:47
+Assigned: <me>
+T129 ((see description)) in-app banner about data collection
+            MVP
+Mar 5 2017, 12:36
+    Assigned: <me>
+    T128 read this article: https://en.wikipedia.org/wiki/Docker_(software
+            Management
+        Feb 13 2017, 14:41
+Assigned: <me>
+T124 create a mockup/simulation of MVP on automateIt
+            MVP
+        Feb 10 2017, 15:18
+Assigned: <me>
+T123 find and read reviews about this site: http://www.drive80.com/
+            Marketing
+        Feb 10 2017, 15:10
+Assigned: <me>
+T122 find and read reviews about this site: 90SecondExplainerVideos.com
+            Marketing
+Feb 10 2017, 14:55
+Assigned: <me>
+T118 read this site: https://www.inbenta.com/en/ Xapo is using it for support. Maybe we should too
+            Frontend
+        Feb 9 2017, 14:45
+Assigned: <me>
+T112 find out how one can monitor the general level of activity in Phabricator. Number of created tasks etc
+            Management
+        Feb 5 2017, 13:49
+Assigned: <me>
+T111 study their site to better understand how very big VCs work: https://en.wikipedia.org/wiki/New_Enterprise_Associates
+            Management
+Feb 5 2017, 13:43
+Assigned: <me>
+T110 select the top 5 achievements for every time period in the list of our acheivements
+            Management
+Feb 5 2017, 13:24
+Assigned: <me>
+    T108 read reviews of the best device: https://www.aliexpress.com/w/wholesale-gsm-kids-watch-sos.html
+            Hardware
+        Feb 5 2017, 13:13
+Assigned: <me>
+T100 convert a part of <me>' library into citavi to better understand its functionality
+            Management
+        Feb 4 2017, 16:50
+Assigned: <me>
+T97 is it possible to make Phabricator show the defualt list of open tasks in such way so they are sorted by oldest tasks first in each category? Find out
+System administration
+Feb 4 2017, 12:21
+Assigned: <me>
+T94 Decide if <me> should become a member of Freiwillige Feuerwehr
+Management
+        Feb 3 2017, 22:04
+Assigned: <me>
+T92 is it true that apps are not allowed to dial emergency numbers themselves? If yes, it's a governmental regulation or Google's?
+Management
+        Feb 3 2017, 21:35
+Assigned: <me>
+T88 read this: https://www.[…].com/r/Entrepreneur/comments/5rgt8e/my_board_game_has_raised_190000_on_kickstarter_in/
+            Management
+        Feb 2 2017, 13:33
+Assigned: <me>
+T87 read the site of Car2Go to understand why they are sucessful and what we can learn from their sucess
+            Management
+        Feb 2 2017, 13:19
+    Assigned: <me>
+    T84 organize reading of this book: KanbanAndScrum-Russian (78p)
+            Management
+        Jan 26 2017, 16:06
+Assigned: <me>
+T81 find out how can I edit the "create task" form in Phabricator to add additional fields to make it more like ThinkingRock
+            Management
+        Jan 26 2017, 15:38
+Assigned: <me>
+T78 http://tecup.de/ - read the site and write down how they can help us
+            Management
+        Jan 24 2017, 15:36
+Assigned: <me>
+T75 wetrust.io - find a list of their investors
+            Management
+        Jan 15 2017, 23:47
+Assigned: <me>
+T74 bitwage.com - sing up and read their site
+            Management
+        Jan 15 2017, 23:36
+Assigned: <me>
+T72 “T-groups,” the “managerial grid,” “conflict management labs,” and so on - find online courses about it
+            Management
+        Jan 14 2017, 18:11
+Assigned: <me>
+T70 make a combined list of potential investors, sorted by the probability of successful funding (see the map about investors)
+            Management
+        Jan 13 2017, 15:57
+    Assigned: <me>
+T69 trigger: if there are more than 10 000 users, switch on multifactor authentification in phabricator
+            No Projects
+        Jan 13 2017, 08:55
+Assigned: <me>
+
+
+# Written no later than 170426:
+
+[Note: our draft of questions to ask our legal consultant]
+
+
+====== AGB =================
+
+Da es um Leben und Tod geht, kriegen wir Schwierigkeiten, falls was
+nicht mit unserem App funktioniert. Und irgendwas könnte immer schief gehen, auch wenn wir alles richtig gemacht haben.
+
+Wie können wir unsere AGB gestalten, um solche Risiken zu minimieren?
+
+Gibt es Anwälte, die auf AGB bei Apps spezialisiert sind?
+
+Unser Hauptmarkt ist EU (aber auch ein paar andere Länder, z.B.
+die Vereinigte Staaten). Wir starten in Deutschland, dann in US: Brauchen wir die AGB für jedes Land und jede Sprache?
+
+Ist es möglich, eine AGB auf English zu benutzen, die überall in der EU funktionieren wird?
+
+=========== UG =========================
+
+Mustervertrag oder nicht
+
+Partnerschaftsvertrag
+
+Anmeldungskosten ?
+
+============= Arbeitsvertrag ====================
+
+про возможную проблему с договором у
+<brother> and <startup_pal_A.7.H.>
+
+
+# Written no later than 170428:
+
+[Note: a slack command to create a poll about our next meeting. Before I moved to Bielefeld, we did our meetings online]
+
+/poll "What is the best time for our next skype meeting?" "Sa, 12:00" "Sa, 14:00" "Sa, 16:00" "Sa, 18:00" "Sa, 20:00" "So, 12:00" "So, 14:00" "So, 16:00" "So, 18:00" "So, 20:00"
+
+
+# Written no later than 170531:
+
+[Note: a draft for the onboarding text for our app]
+
+Version A.
+
+1.
+Did you ever dream of being a superhero?
+With the help of this app, you could actually save a human life.
+
+2.
+Your beloved ones only need to press the red button, and you’ll immediately know that they need help.
+
+3.
+The bigger is our community, the more lives we can save. Together.
+
+
+Version B.
+
+1.
+We’re living in a dangerous world.
+In a dangerous situation, who will help your child, your spouse, your buddy?
+
+2.
+...You.
+You can save them.
+Your beloved ones only need to press the red button, and you’ll immediately know that they need help.
+
+3.
+No one can protect your family and your neighborhood better than you.
+And your community will become the strongest shield against crime, violence and disease.
+
+
+
+
+# Written no later than 170628:
+
+[Note: after several heated arguments in slack, almost always between me and <brother>, I wrote these rules on how to make collective decisions without emotions]
+
+I. Принятие решений в компании
+
+1. Если решение ко-фаундера соответствует хотя бы одному из следующих критериев, то ко-фаундер должен до воплощения решения в жизнь проинформировать остальных ко-фаундеров о нем:
+• не-минорные решения (на откат которых потребуется больше 3 человеко-часов) и нетривиальные решения, которые требуют подтверждения других спецов из этой области или общее мнение
+• решения, которые могут значительно влиять на публичный образ компании, иметь побочные эффекты на отношения с клиентами или на критически важный функционал в приложениях.
+• Решения, которые значительно затрагивают и другие сферы деятельности, кроме той в которой ко-фаундер — специалист
+2. Остальные ко-фаундеры имеют право вынести такое решение на совместное обсуждение, и, если потребуется, на голосование по нему в соответствии с пп.6-8
+3. По решениям, которые не соответствуют критериям из п.1, ко-фаундер имеет широкую автономию. Он может принимать их без информирования остальных ко-фаундеров.
+4. Ко-фаундер имеет право на ошибки. Если он принял единоличное решение, которое надо было принимать совместно с остальными ко-фаундерами, и это решение оказалось...
+• ...правильным, то считается, что он всё сделал правильно.
+• ...неправильным, то он обязан исправить негативные последствия этого решения.
+5. Не только ко-фаундеры, но и остальные члены команды имеют право на ошибки:
+• Если член команды, в стремлении принести пользу компании, совершил какую-то ошибку, то он не наказывается, а поощряется: за приобретение опыта, смелость, креативность и инициативу. Вне зависимости от того, насколько негативные последствия имела эта ошибка.
+• Избегающие рисков, безынициативные и пассивные члены команды не нужны.
+6. При принятии совместного решения ко-фаундеры должны стремиться к единогласному решению. Если решение можно изменить таким образом, чтоб оно устраивало каждого ко-фаундера, то решение должно быть изменено.
+7. Если после часового обсуждения ко-фаундеры не смогли прийти к единогласному решению, то используется особая процедура принятия решения, описанная в п.8.
+8. Особая процедура принятия решения:
+	1. ко-фаундеры объявляют, насколько компетентны они в принятии данного решения. Те ко-фаундеры, которые считают себя недостаточно компетентными для принятия данного решения, не участвуют в последующих этапах этой процедуры
+2. ко-фаундеры записывают аргументы за и против каждого варианта решения
+3. ко-фаундеры изучают все записанные аргументы (внося дополнения и изменения если требуется)
+4. ко-фаундеры голосуют
+5. при подсчете голосов учитывается, что специалист в данном вопросе имеет 2 голоса
+6. если голоса распределились поровну, то решение принимается с помощью генератора случайных чисел
+
+II. Формальные должности ко-фаундеров
+
+[a table: ]
+
+Вариант 1. "Смещение с должности из-за проступков"
+1. Смещение ко-фаундера с должности CEO, CFO и тп рассматривается как крайняя мера.
+2. Вопрос смещения поднимается если верен хотя бы один из пунктов:
+• ко-фаундер объективно не справляется со своей должностью
+• не пытается улучшить свою компетенцию
+• наносит своей некомпетентностью или действиями вред компании.
+3. Решение о смещении должно быть основано на объективных показателях, в том числе:
+• метрики продуктивности
+• результаты регулярных опросов членов команды
+• оценки независимых специалистов, проводящих аудит компании
+4. Перед принятием решения о смещении его нужно обсудить со всеми ко-фаундерами. Также нужно дать плохо справляющемуся ко-фаундеру возможность и время исправиться (1 месяц).
+
+Вариант 2. “Смещение с должности как нормальный процесс”
+1. Смещение ко-фаундера с должности CEO, CFO и тп рассматривается как часть нормального процесса улучшения кадров.
+2. Вопрос смещения поднимается как только найден более подходящий специалист на эту должность. Ко-фаундеры не стремятся сохранить свою должность: как только найден более компетентный специалист, они добровольно уступают свою должность ему.
+3. Решение о смещении не зависит от личных качеств ко-фаундера. Достаточно того, что новый кандидат на эту должность — объективно более компетентный и опытный профессионал. Если же новый кандидат в итоге окажется менее компетентным, то он будет смещен, и ко-фаундеру будет возвращена должность (до тех пор, пока не будет найден более компетентный кандидат).
+4. Перед принятием решения о смещении его нужно обсудить со всеми ко-фаундерами. Смещаемый ко-фаундер имеет 2 голоса при голосовании по новому кандидату на должность.
+
+[Общие для вариантов пункты: ]
+5. Если после обсуждения ко-фаундер всё еще не желает добровольно покидать должность, то решение о смещении принимается по особой процедуре принятия решения (п.8).
+6. При смещении ко-фаундера за ним остаются все остальные привилегии ко-фаундера (место в Board of Directors, доля в компании, пакет акций и др). Кроме этого, он получает компенсацию в размере 24 зарплат, а также право занять любую другую вакантную должность в компании по своей специальности.
+
+
+# Written no later than 170704:
+
+[Note: likely a result of our discussion on how to speed up the development of mvp by focusing on the minimal steps for it]
+
+что нужно для запуска mvp:
+
+написать собственно приложение
+сделать дизайн интерфейса приложения
+понять, как именно будем анализировать данные юзеров для анализа рынка
+сделать AGB
+опубликовать первую версию сайта
+составить детальный алгоритм публикации приложения в Play Store
+описание аппа для магазина сделать
+
+
+основной функционал mvp:
+
+передача сообщения о вызове
+сервер
+геолокация
+кнопка для вызова помощи
+модуль сбора информации о юзере
+пользовательский интерфейс
+адресная книга
+
+
+
+понять, как именно будем анализировать данные юзеров для анализа рынка
+сделать AGB
+
+
+# Written no later than 170714:
+
+[An email to our legal consultant]
+
+Sehr geehrte [V.L.],
+
+
+Ich hätte gern eine Konsultation bei Ihnen.
+Ich bin bereit, für die Konsultation im Voraus zu bezahlen. Ich würde gern Ihnen bitten, Ihre Kontoverbindung oder Paypal oder die Bitcoin-Adresse zu mitteilen.
+
+Ich hätte gern folgende Fragen:
+
+1. Ist es möglich, mit Ihnen per Post / Email zu arbeiten? (wir sind in BW)
+
+2. Wie viel kostet es, die AGB für eine Android-App zu erstellen? Gibt es kostengünstige Varianten?
+
+3. Unser Hauptmarkt ist Deutschland (aber auch ein paar andere Länder, z.B. die Vereinigte Staaten). Brauchen wir die AGB für jedes Land und jede Sprache? Ist es möglich bzw. ratsam, eine Version von dem AGB für die ganze EU zu erstellen?
+
+4. Unser App sollte Menschen in Not helfen. Zum Beispiel, es ist eine Notfallsituation, ich drücke eine Taste auf meinem Handy, und bald kommt Hilfe. Da es um Leben und Tod geht, kriegen wir Schwierigkeiten, falls was nicht funktioniert. Und irgendwas könnte immer schief gehen, auch wenn wir alles richtig gemacht haben. Wie können wir unsere AGB gestalten, um solche Risiken zu minimieren? (Haftungsbeschränkung usw).
+
+5. Die App wird zwei Versionen haben: die kostenlose und die kostenpflichtige. Brauchen wir zwei Versionen von den AGB?
+
+6. Unser Startup ist gerade im Vorgründungsphase. Wie möchten die App in ca.4 Monaten veröffentlichen. Sollen wir auf der Gewerbeanmeldung warten und danach die AGB erstellen?
+
+7. Wo sollen wir die AGB anzeigen? In der App / auf der Play Store Seite / auf unser Website?
+
+8. Ist es möglich bzw. ratsam, die Datenschutz-Bedingungen in einem separaten Schreiben anzufertigen?
+
+
+Ich bedanke mich sehr für Ihre wertvolle Zeit.
+
+
+Mit freundlichen Grüßen
+<me>
+[second_startup] Team
+
+
+# Written no later than 170716:
+
+[Note: from a file titled "достижения для встречи 16 июля", about what I've done in the past week or two.]
+
+закончил изучение скрама. Теперь знаю что и как, но надо на практике еще применить чтоб реально освоить.
+ 
+закончил два ресеча - по Bratungsförderung и про гос программы помощи стартапам. В чате докладывал вроде уже. Оно теперь всё в единой карте Förderprogramme. Запустил работу по тем программам, которые нам подходят
+
+еще закончил ресеч про Recht und Apps. В чате уже рассказывал
+
+подготовил вопросы для юриста про AGB, кидал их в чат
+
+организовал полу-автоматический поиск жилья в Bielefeld и окрестностях. Тож расссказывал уже.
+
+изучил UML диаграммы. Вполне читаются, более-менее понятно всё. Соответствуют описанию MVP, только пару вещей там видел избыточных, типа вызова скорой. Пока рановато это.
+
+несколько мелких дел по картам сделал, чтоб они нормально работали. Разрезал слишком большие и тп
+
+..............................................................
+ПЛАНЫ:
+
+начать работу непосредственно по агб. Всё для этого есть.
+
+для теста мигрировать один проект из карт в фабрикатор. Чтоб в фабрикаторе не просто список тасков был, я прям проекты, которые сейчас в картах описаны
+
+органиозвать участие в программе под названием Beratungsgutscheine
+
+позвонить в "Förderberatung des BMWi" и там еще про гос программы узнать, может что-то пропустил
+
+
+
+
+
+
+# Written no later than 170726:
+
+[An email to our legal consultant]
+
+Sehr geehrte Frau [V.L.],
+
+
+Ich hätte gern eine Konsultation bei Ihnen. Ich würde gern die AGB für eine Android-App erstellen.
+
+Ist es möglich, mit Ihnen per Post / Email zu arbeiten? (wir sind in BW)
+
+Ich bin bereit, für die Konsultation im Voraus zu bezahlen. Falls es nötig ist, würde ich gern Ihnen bitten, Ihre Kontoverbindung oder Paypal oder die Bitcoin-Adresse zu mitteilen.
+
+
+Mit freundlichen Grüßen
+[me]
+[second_startup] Team
+
+
+# Written no later than 170727:
+
+[Note: I likely created this poll due to my frustration from the low development speed, but also maybe detected an unhealthy social dynamic, I don't remember anymore]
+
+Разрабатываю тут опрос чтоб вовремя диагностировать проблемы в компании...
+Взял из предложенных Poly годные вопросы, которые регулярно в стартапах задаются для этого
+
+сделал такой автоматический опрос...
+
+
+выбрать 3-5 важнейших
+
+
+ВАЖНЕЙШИЕ
+• Over the past few days, I am happy at work.
+• I am an important member of this team
+• I have confidence that we are moving fast enough with respect to the product we are building.
+
+еще?
+
+
+• The quality of our product is improving at a great pace.
+
+
+
+• For the most part, my job takes advantages of my strengths.
+• I am enabled to do my best work.
+• My accomplishments are recognized by others.
+• My coworkers value my opinion.
+• I believe in my company's mission.
+• I trust my coworkers.
+• I would recommend this company to friends & family as a great place to work.
+• My project is on track for success.
+• I would recommend our product to a family member over a competitors.
+
+
+• I have a reasonable workload.
+
+
+
+
+# Written no later than 170730:
+
+[Note: from the file "достижения для встречи 30 июля", which i wanted to report to the team on our regular meeting]
+
+прохладный сказ:
+
+[Закрыть мой прошлый] бизнес оказалось почти также сложно как его создать. Но наконец закончил основную часть этого проекта. С 1 числа уже официально не владею им.
+
+Там еще нужно будет выполнить всякие обязательства с моей стороны, передать всякие права на assets, несколько бумажек заверить и послать. Но это мелочи, думаю за неделю управлюсь.
+
+<...>
+
+
+Какие выводы сделал из всего процесса:
+
+Два бизнеса одновременно вести - нереально. Нужено быть сверхчеловеком типа [public_figure_entrepreneur_E.R.M.] либо почти полностью выходить из одного из них, оставим там своего человека в руководстве.
+
+Лучше не создавать бизнес только ради [денег]. Это как на работу ходить - пож[ирает время?]
+
+
+
+
+ачивки:
+
+несколько дел по мейнтейненс карт
+ 
+вышел из прошлого бизнеса, огромный многоэтапный проект был
+
+изучил тот конкурс стартаперов, в чате докладывал о результатах уже
+
+сделал еще один ресеч по Förderprogramme по государственной базе данных программ. Результаты добавил в карту по ним. Благодаря этому нашел еще две программы, подходящие на данном этапе.
+
+связался с тем агб-юристом. Тоже докладывал уже. В понедельник должен получить от нее ответы на те 10 вопросов по агб.
+
+продолжаю читать Startup Owner Manual. Must read для любого стартапера.
+
+уже перетащил где-то половину вещей к матери. Чтоб от нее уже их вывозить в Bielefeld.
+
+
+
+планы:
+
+разобраться как мигрировать проекты из карт в фабрикатор. Еще не успел сделать это.
+
+организоваь участие в Beratungsgutscheine-Program
+
+начать создание агб с юристом
+
+
+# Written no later than 170731:
+
+[Note: from a file titled "+в фичи". Likely my ideas of what add to the app and the website, or maybe a collection of ideas from our meeting]
+
+geolocation functionality for the app
+user data collection functionality for the app
+address-book functionality of the app
+UI design
+detailed plan of how we'll collect and analyse the market and user data
+pre-release 1-week-long human testing of the app in real life (by co-founders and their families)
+general description of our product for the site (text description and explainer video)
+list of feautes of the mvp that make it batter than competition (for the site)
+description of our philosophy for the site (1-2 paragraphs)
+site section about related news
+automatic support mechanism for the site (xapo-like)
+form for direct user feedback (bitrated-like)
+share/like functionality for the site
+subscribe-for-news functionality for the site
+google analytics for the site
+multi-language functionality for the site
+detailed algorithm of the process of publishing the app in the Play Store
+mockup of the app's Play Store page with detailed description and pictures
+
+
+# Written no later than 170813:
+
+[Note: from a file titled "достижения для встречи 13 авг", which i wanted to report to the team on our regular meeting]
+
+ачивки:
+
+сделал ресеч по базам данных и по тех стаку вообще, уже докладывал по нему в чате
+
+получил консультацию от юриста по агб, изучил присланные от нее документы
+
+организовал участие в Beratungsgutscheine-Program
+
+
+планы:
+что сегодня напланировали по спринту, то и буду делать
+всё остальное может подождать
+
+
+# Written no later than 170819:
+
+[Note: from a file titled "data_collection_be_disabled_by_default7" . Likely a copy of our slack discussion, seems I wanted to process it]
+
+[<me>]:
+
+на пятый запуск аппа выдавать сообщение:
+we need your help
+Long before creating this app, we decided that user data collection in all our apps will be disabled by default.
+Privacy is one of the fundamental human rights, and our company must protect it, not infringe it.
+The decision has greatly increased the privacy of our users. But there is a drawback: without knowing our users, we can't improve the app as fast as we could.
+
+If you like this app and want to help us, please consider switching on anonymous data collection.
+You can switch it off in "options" at any time.
+
+["switch on"]
+[keep it disabled]
+ 
+Это именно про сбор данных, которые не нужны для работы аппа, но нужны нам для анализа рынка итп
+ 
+
+ 
+в сообщении еще дать ссылку на privacy policy, где подробно объяснить про это
+В конце добавить: "Please check our [privacy policy] for more details"
+
+<startup_pal_A.7.H.>
+
+trudno skazat, esli takoj formulirovki pridergivatsja
+
+
+[1:14] 
+esli sobiraem pozicionnie dannie , ne raszenjat li eto useri kak obman
+
+
+[1:14] 
+s nashej storoni
+
+
+[1:14] 
+vrode kak obeshali ne sobirat
+
+
+[1:15] 
+a esli slu4ajno sobrali kakie to dannie
+
+
+<me> [1:15 PM]
+ага, надо будет в privacy прописать, что именно собираем и как
+
+
+<startup_pal_A.7.H.> [1:15 PM]
+a s takoj formulirovkoj mogno kak dokazatelstvo i v sud idti
+
+
+[1:16] 
+tipa oni menja zaverili , a sami dannie sobiraut
+
+
+[1:16] 
+skolzkaja tema
+ 
+
+[<brother>]:
+
+не факт что по дефолту не собирать это лучший вариант
+т.к. тогда теряется инфа об адопции и почему пользователи не запускали эпп 2, 3, 4, и 5й раз
+
+[<me>]:
+
+собирать юзер дата, нужную только для исследования рынка, по дефолту - хреноватый вариант. Не этично
+Поэтому надо обязательно про это спрашивать
+можно быть и этичным, и делать успешный бизнес
+более того, это важное конкурентное преимущство
+как образец, можно использовать Brave, например. У них весь бизнес построен на том, что они юзер дата не собирают по дефолту и вообще приватность во все поля
+Если это конкурентное преимущство, то может даже победить конкурентов
+бизнес этика и integrity это дефолт. Лучше зарабатывать меньше, но их соблюдать.
+И, опять же, это отличает от конкурентов в положительную сторону
+
+[<brother>]:
+
+если у тебя этичный эпп но при этом нет инфы для иследования рынка у тебя мертвый эпп
+Если все эппы собирают инфу а ты пытаешся выехать на этичности и не можешь развиваться то хреновыые у тебя перспективы
+главное захват рынка, если при этом 2.5 убер этичных маргинала отвалятся то туда им и дорога
+тут не стоит вопрос "зарабатывать больше" или "зарабатывать меньше" тут вопрос в скорости развития и выживании эппа на рынке
+
+кому надо могут в настройках выключить
+подстраиваться под 2.5 анона это глупо
+
+[<me>]:
+
+приватность может стать той фичей, которая поможет нам обойти конкурентов. Поэтому этот вопрос надо тщательно продумать
+ 
+если у тебя на телефоне стоит апп, который мониторит тебя 24/7, то это дичайше важно
+
+и сбор нужных для аппа данных тоже надо будет делать правильно. Не собирать и не хранить лишнего, анонимизировать и тп
+
+
+Базы данных будут взламываться, данные будут утекать и тп. А для такого постоянно-мониторящего аппа утечка данных - смертный приговор
+
+[<brother>]:
+
+Это всё к вопросу про агб и тп
+уже сейчас работаем же над этим
+
+
+альтернатива:
+мы собираем всё что считаем нужным (может быть даже не персонализированно)
+сбор данных это opt-out а не opt-in
+
+[<me>]:
+
+Взгляни на этот вопрос с точки зрения потенциального клиента. К пример, ты - отец семейства, твой ребенок в школу ходит. Тебе нужен апп, который позволил бы ребенку вовремя вызвать тебя на помощь. Ты понимаешь, что апп твою семью будет постоянно мониторить. Как и большинство современных продвинутых юзеров, тебя беспокоит нарушения приватности (см. результаты опросов). Допустим у тебя есть выбор: апп А по дефолту тебя мониторит.
+Апп Б тебе говорит, что заботится о приватности, и демонструирует это тем, что сбор данных по дефолту выключен. Как early adopter, какой из этих аппов при прочих равных ты бы рекомендовал другу на работе?
+
+
+https://www.cbsnews.com/news/truste-survey-more-americans-concerned-about-data-privacy-than-losing-income/
+https://www.trustarc.com/resources/privacy-research/ncsa-consumer-privacy-index-gb/
+TrustArc
+89 percent of those surveyed avoid companies that they don't believe protect their privacy, while 74 percent of those who worry about online privacy limited their Web activity over the past 12 months due to concerns about what could happen to their data.
+
+[<brother>]:
+
+Если спрашивать то 89% против. Если 1000 пользователей поставили эпп и только 80 шлют анонимизированную инфу о запусках кликах и прочем. Как ты собираешься развиваться? С учётом что 1000 на начальном этапе это уже дохрена
+Это биас выборки
+Все скажут что им не насрать
+
+[<me>]:
+
+Тут надо рассчитывать на early adopters: чтоб у них был повод рекомедовать апп своим знакомым, писать про них в своих блогах и тп
+Если это будет один из сотни стандартных аппов, то мало кто заинтересуется
+если это будет крутой приваси-ориентед апп, про него будут писать
+
+[<brother>]:
+
+Этому никто верить не будет один хрен
+
+даже если лишь небольшая часть согласиться донейтить инфу, наличие такой фичи позволит быстрее нарастить базу, что даст больше данных
+
+[<me>]:
+
+вопрос сложный. Надо будет заюзать тот алгоритм принятия решений, со сбором "за" и "против" и тп
+
+в преабулу:
+Есть два типа пользовательских данных:
+то, что необходимо непосредственно для работы аппа (геолокация и тп)
+то, не нужно для работы аппа, но нужно нам для анализа рынка (возраст юзера, интересы и тп)
+Вопрос именно про второй тип данных
+
+
+# Written no later than 170904:
+
+Rottweil, den 04.09.2017
+
+[Note: another email to our legal consultant]
+
+
+[V.L.]
+<...>
+
+
+
+Sehr geehrte Frau [V.L.],
+
+
+hiermit sende ich Ihnen zwei unterschriebene Ausfertigungen des Vertrages. Bitte entschuldigen Sie die Verzögerung.
+
+Falls Sie weitere Unterlagen benötigen, stehe ich Ihnen gerne zur Verfügung.
+
+
+Mit freundlichen Grüßen
+[me]
+
+
+# Written no later than 170911:
+
+[A message I wrote to help <brother> debug some tricky problem, likely with Phabricator]
+
+Судя по скринам экрана, я в это время в Workboard находится, и двигался от левых столбцов к правым. На одном скрине таск еще в бэклоге, а на другом уже в сториз
+причем перемещение произошло до того, как я добрался до крайнего правого столбца. Т.е не видел что творил
+как раз в это время еще и <startup_pal_A.7.H.> проводил batch операции. Хотя на вряд ли с этим как-то связано
+На первом скрине таск про UML еще где надо находится, на третьем - уже в сториз
+но тут еще нужно учесть, что скрины примерно раз в 20 секунд делались
+мб за это время что-то произошло, хз
+
+
+# Written no later than 171012:
+
+[Note: a checklist we have to fill out for our legal consultant, so she can craft "Terms and Conditions" etc for our app]
+
+
+Checkliste Datenschutzerklärung mobile App
+
+Zur Bearbeitung durch Anwaltskanzlei [V.L.]
+(im Weiteren: „Rechtsanwältin“)
+Adresse: <...>
+Telefon.: <...>
+
+Betriebssysteme der App:  Android
+
+Funktion der App
+Vorhanden?
+Anmerkung
+
+
+
+Wird die App über andere App-Stores/Webseiten als die der Betriebssystem-Anbieter angeboten?
+Vorerst - nein, nur durch Google Play Store
+
+Greift die App bei der Nutzung auf das Internet?
+Ja
+
+Wird in der App Werbung geschaltet und dabei die Indentifizierungsnummer (IDFA usw.) verwendet?
+Nein
+
+Erfolgt eine statistische Auswertung der Nutzungsdaten der App?
+Ja
+
+Gibt es ein Kontaktformular?
+Ja
+
+Erhebt die App Zugriff auf Adressbuch, Kalender, Fotos, Erinnerungen und/oder andere Daten?
+Ja (Adressbuch, Anrufe, SMS, Standort-Daten, Fotos)
+
+Werden Standort-Daten der Nutzer erhoben?
+ Wenn ja, wie?
+Ja (durch Android APIs)
+
+Wird Google Maps eingesetzt?
+Ja
+
+Werden „Social Media Plugins“/Anbieter eingesetzt – wenn ja, welche und wie?
+Keine Plugins in der App. Nur auf unsere Webseite (Facebook, Twitter und Google+)
+
+Kann der Nutzer sich mittels Nutzername/Passwort speziell einwählen?
+Nein
+
+Können Waren über die App bestellt werden?
+Nur In-App-Käufe für zusätzliche Funktionen der App
+
+Sonstige Nutzungsmöglichkeiten
+/Fremdanbieter bitte hier schildern:
+Wir benutzen Twilio für die Telefonverifizierung
+
+
+# Written no later than 171015:
+
+[Note: an email to our legal consultant]
+
+Hallo Frau [V.L.],
+
+bitte entschuldigen Sie die verzögerte Beantwortung Ihrer Email.
+
+In Anhang sende ich Ihnen den ausgefüllten Datenschutzerklärung-Checkliste-Fragebogen und eine ausführliche Beschreibung der App.
+
+
+> Für die AGB brauche ich noch viel mehr Informationen – wie funktioniert die App, was kann man alles machen
+
+Die erste Version unser App funktioniert wie folgt:
+1. Nach der Installation verifiziert der Benutzer seine Handy-Nummer. Die Telefonverifizierung machen wir durch einen Fremdanbieter.
+2. Der Benutzer wählt ein paar Freunde in seinem Telefonbuch aus.
+3. Wir speichern seine Handy-Nummer und sein Telefonbuch auf unseren Server.
+4. Wenn der Benutzer sich in einer lebensbedrohlichen Situation befindet, tippt er die rote Taste an, und wir senden seinen Freunden eine Nachricht ("der Benutzer Musterman braucht Hilfe").
+Wir senden auch seine Standort-Daten. Die Standort-Daten übertragen wir regelmäßig zu unseren Server.
+
+> wer sind die Vertragspartner
+
+Ich denke, dass es drei Vertragspartner geben wird:
+- App-User
+- App-Store (Google Play Store)
+- App-Anbieter - Wir ([second_startup] UG, noch nicht angemeldet)
+
+> wie wird der Vertrag geschlossen
+
+Wie ich es verstanden habe, fast alle App-Anbieter machen es dürch Google Play Store. Es ist warscheinlich der einfachste Weg für uns.
+
+
+Mit freundlichen Grüßen
+<me>
+
+
+# Written no later than 180501:
+
+[Note: from a file titled "31 варианта названия аппа". All or most were likely from me. In general, i was the "creative ideas generator" in the startup, always ready to branstorm on any topic]
+
+Guardian Society
+Helpnetw
+Lifering
+Lifebelt
+HelpMesh
+AidMesh
+you911
+help2p
+Dangerless
+[second_startup] Safety
+[second_startup] Family
+[second_startup] Family Safety
+[second_startup] Liberty
+[second_startup] for families
+[second_startup] Emergency
+[second_startup] Family Emergency
+[second_startup] Call
+[second_startup] ECall
+[second_startup] Livebuoy
+[second_startup] Lifering
+[second_startup] Lifebelt
+[second_startup] Urgent
+[second_startup] HelpMesh
+[second_startup] Help Net
+[second_startup] AidMesh
+[second_startup] 911
+[second_startup] Family 911
+[second_startup] CareMesh
+[second_startup] Help
+[second_startup] Family Help
+[second_startup] Dangerless
+
+
+# Written no later than 180603:
+
+[Note: from a file titled "что делать в помодоро по [second_startup]" for my personal use. It describes what i should do  during the pomodoro slots about the statup]
+
+что делать в помодоро по [second_startup] по порядку:
+проверить почту
+прочесть чаты
+разобрать днм об
+посмотреть recent activivity в фабрикаторе
+затем выполянть таски
+ 
+
+
+# Written no later than 180909:
+
+[Note: from a file titled "180909_pivot_notes". A result of our meeting on how pivot. The several mentions of "motivation problems" indicate that already by the time <startup_pal_A.7.H.> started to put much less effort than <brother> or me]
+
+Почему 2 года уже заняло
+Не учли при планировании что мало часов в в неделю
+Фултамй могло быть гораздо быстрее
+
+Не использовали взгляд извне
+
+Много добились на месте не стояли создали инструменты необходимые для построения
+
+Задача оказалась сложнее чем полагали
+
+Возможно выбор телеграмовского протокола - ошибка Но скорей всего нет
+
+Сложная тех проблема
+
+Чем дальше время тем слабее мотивация
+
+ЧТО ДЕЛАТЬ
+
+Сконцентрироваться на создании аппа с более простыми требованиями
+
+Создаем апп не для спасения жизней пока, надо протестировать тех на другом аппе
+
+Реализуем идею <startup_pal_A.7.H.>а про геотеговый апп
+Ибо
+сможет каждый член команды заюзать каждый день
+Идея использует текующие наработки
+Интересная идея
+
+Через 2 недели будет ядро, на котором можно будет совместно писать уже приложение и все остальное
+
+Изучить и подумать:
+Oath или по телефону или через мыло
+Надо учесть:
+Цена
+Удобство для юзера
+Надежность
+как отразится на будущем развитии
+10 самых популярных аппов посмотреть как у них онбординг
+
+Делаем 2 спринта особых
+Первый спринт:
+Цель:
+Подготовить стек для оценки
+Проект для джинни схемы
+Проект для ТЛ-схемы
+Проект для андройд аппа
+Проект для ядра - или вместе с Джинни его
+Проект для сервера
+Формально описать апп про геотеги
+
+Второй спринт:
+Цель:
+Оценить стек,тулчейн и решить менять ли его
+
+<startup_pal_A.7.H.> хочет формально описать апп для геотегинга
+
+В юр плане и в бизнес-плане внести изменения с учетом нового аппа если надо
+
+Вопрос про расширение команды отложить до МВП
+
+Для повышения мотивации как можно раньше сделать так чтоб МВП уже был на наших мобилах
+
+Если допиливать протокол до идеала, понадобится 6 мес, решили не допиливать пока до идеала
+
+Геотег мы не пилим для получения денег, а для обкатки Теха, получения доверия юзеров, раскрутки
+
+
+# Written no later than 181113:
+
+[Note: my research for estimating the market size for our project]
+
+по каким словам искать для keywords planer:
+
+App:
+
+emergency app
+health AI
+health tracking app
+family location app
+family emergency app
+children safety app
+ambulance app
+cheap ambulance service
+deaf emergency app
+emergency app for deaf
+emergency app for the deaf
+911 deaf app
+epilepsy children app
+asthma children app
+epilepsy children health app
+asthma children health app
+distress message app
+emergency message app
+automatic emergency app
+stroke emergency app
+predict health problems app
+distress messages app
+stroke detection app
+asthma detection app
+child monitoring app
+emergency app
+rescue app
+family rescue app
+share location app
+share geolocation app
+share geo location app
+emergency medical app
+Life Call emergency app
+emergency signal app
+emergency alarm app
+sos app
+
+Hardware:
+health wearable
+health bracelet
+safety bracelet
+safety wearable
+children safety bracelet
+children safety wearable
+emergency button for elderly
+emergency bracelet
+Life Call emergency device
+emergency alarm bracelet
+location tracking bracelet
+health tracking bracelet
+health monitoring bracelet
+health monitoring wearable
+emergency button
+emergency bracelet
+
+For business:
+health app for business
+health wearable for business
+emergency app for business
+emergency button for business
+health app business
+health wearable business
+emergency app business
+emergency button business
+employee emergency app
+employee emergency bracelet
+employee emergency device
+health AI for business
+
+
+
+
+
+
+
+# Written no later than 181113:
+
+[Note: from a file titled "резы первого теста". My estimates of the market size for our project]
+
+Провел первый бизнес-тест. Суть его в том, чтобы детально проанализировать данные релевантных нам поисковых запросов, и на основе этого оценить спрос на наш будущий продукт. Для этого использовал тулзу под названием Google Keyword Planner.
+Результаты такие:
+1. В месяц делаются сотни тысяч поисковых запросов, в которых люди ищут продукт с нашим функционалом.
+2. Это значит, что имеется достаточно большой спрос для создания успешного бизнеса.
+3. Судя по расходам на таргетированную рекламу по нашим темам, общий размер нашего сегмента рынка составляет порядка 30 миллионов евро. Это грубая оценка. Но можем с уверенностью сказать, что размер точно больше 2 млн и точно меньше 500 млн евро.
+4. Это значит, что скорей всего имеется достаточно большой рынок, но при этом наш сегмент рынка не является нереалистично широким (если бы оценка была бы меньше 5 млн или больше 1 млрд, то это говорило бы о плохом качестве оценки).
+
+
+Вот здесь подробная таблица с результатами:
+<...>
+
+
+
+# Written no later than 181114:
+
+[Note: from a file titled "utf-8_signs". Not sure anymore how i used them. Perhaps to mark my status in Slack?]
+
+🏠 - at home
+🚗 - on my way
+🏭 - working
+
+
+# Written no later than 181201:
+
+[Note: an email to an US surveys company. If i remember correctly, it was never answered]
+
+Dear Sir/Madam,
+
+our company is interested in a phone survey with the goal of measuring the demand for our future product.
+
+We would like to have a survey with the following properties:
+- a phone survey
+- 1 question
+- 100 respondents
+- age, gender and income distributions that correspond to the demography of the US
+
+We would kindly ask for a price estimate for such a survey.
+
+Best regards,
+<me>
+
+
+# Written no later than 181211:
+
+[Note: a list of things I wanted to post to our Slack. The self-imposed limitation of "less frequent than once per 2 days" was likely to avoid annoying <brother>]
+
+ПОСТИТЬ ЧЕРЕЗ 2 ДНЯ ИЛИ РЕЖЕ
+
+в файл про слак:
+https://www.youtube.com/watch?v=_P9HqHVPeik
+вероятно лучший язык для data analysts, даже лучше питона
+
+в файл про слак:
+Годная книга о том, как понимать технологические и политические тренды, и делать на основе них рациональные предсказания. Очень помогла мне в свое время.
+https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock/dp/0804136718
+ 
+в файл для слака:
+https://onduo.com/
+Любопытный сервис, многое у них можем перенять, в том числе в плане стратегии
+ 
+https://www.youtube.com/watch?v=WSN5BaCzsbo
+в слак
+Decentralizing Everything with Ethereum's Vitalik Buterin
+
+https://www.youtube.com/watch?v=arj7oStGLkU
+в слак
+
+https://www.youtube.com/watch?v=hMayzuzx7gE&index=56&list=UUY649zJeJVhhJa-rvWThZ2g
+слак
+
+https://www.youtube.com/watch?v=JQ0vg-sTj7k
+в слак чат
+
+https://www.youtube.com/watch?v=_Beesfhttpc
+в слак рэндом
+
+в файл про слак:
+https://www.youtube.com/watch?v=cZYNADOHhVY
+The Fable of the Dragon-Tyrant
+
+
+Nepal's medical drones bring healthcare to the Himalayas
+news.trust.org/item/20180430000050-xvs99
+
+https://www.digitaltrends.com/cool-tech/seven-amazing-darpa-projects/
+Implantable health trackers
+
+https://xkcd.com/937/
+
+
+Как вариант скорой помощи для больших городов чтоб пробки обходить и тп. Аппарат прям уже в серийное производство выходит.
+https://www.youtube.com/watch?v=VFHYW2ueNeM
+
+https://youtu.be/h_SjAcQeU1A?t=7m23s
+Tesla Semi будет иметь встроенную функцию автоматического вызова скорой
+ 
+
+https://research.googleblog.com/2018/01/the-google-brain-team-looking-back-on_12.html
+
+http://circ.ahajournals.org/content/117/9/1216
+
+
+https://academic.oup.com/ajcn/article/105/6/1462/4569801
+
+https://techcrunch.com/2018/04/26/deepcode-cleans-your-code-with-the-power-of-ai/
+в файл про добавление в слак
+
+
+https://www.youtube.com/watch?v=ywq6NBETUJ8
+в слак
+
+https://groups.google.com/forum/#!topic/ba.jobs.offered/-rvJUMBbZ18
+в слак
+
+https://www.slideshare.net/sblank/mnemonic-making-day-5/11-Workflow_Client_Architect_Preliminary_designs
+в слак ( спервой страницы)
+
+в слак:
+андройдовская рассылка прислала полезное видео: https://www.youtube.com/watch?v=oib_gHJA_-0&t=0s&index=39&list=PLOU2XLYxmsIInFRc3M44HUTQc3b_YJ4-Y
+Нам придется очень глубоко в эту тему погружаться. Это видео - отличное введение
+
+https://medium.freecodecamp.org/discovering-the-hidden-mine-of-credentials-and-sensitive-information-8e5ccfef2724
+в слак
+
+
+# Written no later than 190110:
+
+[Note: an email to a potential investor]
+
+Hello <comrade_J.7.H.>,
+
+I’m happy that we’re not alone on the quest for a good monitoring solution. The problem is both harder and more important than most people think.
+
+Coincidently, I’m living in North Rhine-Westphalia, only a few hours away from Amsterdam. Let's meet for a quick cup of coffee. Do you have any time in January?
+
+As cryonicists, we have two archenemies: 1) aging and 2) deadly incidents.
+To fight the second one, we need a general solution that would greatly improve the survival rates in most types of incidents – from a car crash to stroke.
+
+The solution has several parts.
+One of them is a bracelet with the following properties:
+
+1) a stand-alone device (not a phone accessory)
+2) the user can wear it for months (waterproof, ergonomic, good battery)
+3) a wide range of biometric sensors (hearth rate and SpO2 are not enough)
+4) automatic emergency detection that works even if the user is unconscious / sleeping
+5) a robust way to transmit the distress signal
+
+Most of the necessary tech is already available, and parts of it are implemented in consumer wearables.
+
+But to build a reliable lifesaving device (and a reliable software for it) is hard. Everything must be tested under real-life conditions, without endangering the user.
+
+Our approach is to work iteratively:
+we build a small part of the target lifesaving system, release it as a stand-alone product, test it in the real world, and then repeat the process with the next part.
+
+We plan to release the first part as a free app in March.
+
+
+Best regards,
+<me>
+
+
+# Written no later than 190201:
+
+[Note: a small library I wrote for our app. One of the unhealthy things in the startup was some low-key disrespect towards me due to me not being a professional software developer. I put a lot of effort into this library to reduce that]
+
+/**
+ * @file   geoDistance.cpp
+ * @author [second_startup] Team
+ * @date   2018.10.24
+ */
+
+ /*
+There are several approaches to calculate the distance between two geolocations.
+
+The fist approach could be summarized as follows:
+take the differences between the corresponding coordinates, hypot() them, and mulitply the result by a constant
+It's very fast, but very unprecise. It doesn't work near poles and if the 180 longitude is crossed
+We've implemented it here, but commented out (see the twoPointDistance function)
+
+The second approach is based on calculations on the reference ellipsoid.
+See https://en.wikipedia.org/wiki/Reference_ellipsoid#Coordinates
+It's still fast, and has sufficient precision. It also works everywhere.
+It measures the direct distance, not the flying distance.
+But the direct and the flying distance are almost identical as long as the points are closer than 4 000 km.
+Which is sufficient for most applications.
+We use this approach here.
+
+The third method is based on hardcore geodesic stuff.
+It's extremelly precise (down to santimeters), but extremelly slow (two orders of magnitude slower than the #2).
+See: https://en.wikipedia.org/wiki/Vincenty%27s_formulae#Inverse_problem
+It returns the flying distance.
+We don't use it.
+There are some open source c++ implementations of it, for example: https://geographiclib.sourceforge.io/
+
+ */
+
+#include <iostream>
+#include <cmath> // for trygonometric functions and hypot
+
+using namespace std;
+
+
+struct PosOnsphere { //for geolocations on the surface of the Earth
+    double longitude;
+    double latitude;
+    double height;
+};
+struct PosInSpace { // for 3d coordinates relitve to the center of the Earth
+    double x;
+    double y;
+    double z;
+};
+
+const double gr2r = 0.0174532925199432957692369; //useful to convert grads to rads. Equals Pi/180
+const double equatEarthRadiusA = 6378137; //in meters. Source: https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html
+const double polarEarthRadiusB = 6356752; //in meters. Same source
+
+// Converst geograpical coorditanes into X,Y,Z coordinates
+PosInSpace spherical2cartesian(PosOnsphere geoPoint){
+
+    double longitudeRad = geoPoint.longitude*gr2r;
+    double latitudeRad = geoPoint.latitude*gr2r;
+    double height = geoPoint.height;
+
+    PosInSpace spacePoint;
+
+    double nCurvatureRadius = equatEarthRadiusA*equatEarthRadiusA/hypot(equatEarthRadiusA*cos(latitudeRad),polarEarthRadiusB*sin(latitudeRad));
+    double cosLatHeightCurv = cos(latitudeRad)*(height+nCurvatureRadius);
+    spacePoint.z = sin(latitudeRad)*(height+nCurvatureRadius*polarEarthRadiusB*polarEarthRadiusB/(equatEarthRadiusA*equatEarthRadiusA));
+    spacePoint.y = sin(longitudeRad)*cosLatHeightCurv;
+    spacePoint.x = cos(longitudeRad)*cosLatHeightCurv;
+
+    return spacePoint;
+    }
+
+// Calculates the direct (not flying) distance between two point locations on the Earth
+double twoPointDistance(PosOnsphere geoPointOne, PosOnsphere geoPointTwo){
+
+    // Method A. Very fast, very unprecise (error is about 200m on <1km distances). Doesn't work near poles and 180 longitute crossings
+    // distance= (abs(geoPointOne.longitude-geoPointTwo.longitude)+abs(geoPointOne.latitude-geoPointTwo.latitude))*78567;
+    // Method B. a bit slower, a bit more precise (error is about 70m on <1km distances). Doesn't work near poles and 180 longitute crossings
+    // It's referenced as "the fast method" in the tests
+    // How the constants calculated: 78567.42013 = 40000000÷(360×sqrt(2)), 111319,490793 = 6378137×2×3,141592653589793÷360
+    // double longitudeProjection = 78567.42013*abs(geoPointOne.longitude-geoPointTwo.longitude);
+    // double latitudeProjection = 111319.490793*abs(geoPointOne.latitude-geoPointTwo.latitude)*cos((geoPointOne.latitude+geoPointTwo.latitude)/2);
+    // double distance = hypot(longitudeProjection,latitudeProjection);
+
+    // Method C. Even slower, but has acceptable precision (error is about 10m on <1km distances). Works everywhere.
+    // It's referenced as "the slow method" in the tests
+    // It's based on the reference ellipsoid calculations.
+    PosInSpace volumePointOne = spherical2cartesian(geoPointOne);
+    PosInSpace volumePointTwo = spherical2cartesian(geoPointTwo);
+    return hypot(hypot(volumePointOne.x-volumePointTwo.x,volumePointOne.y-volumePointTwo.y),volumePointOne.z-volumePointTwo.z);
+}
+
+int main(){
+
+// TESTS
+//// Test locations. To add new locations, use this format:
+//// PosOnsphere <Name>; <Name>.longitude = ; <Name>.latitude = ; <Name>.height = 0;
+PosOnsphere Bielefeld_Hbf; Bielefeld_Hbf.longitude = 8.533171; Bielefeld_Hbf.latitude = 52.029438; Bielefeld_Hbf.height = 118;
+PosOnsphere Bielefeld_Buecherei; Bielefeld_Buecherei.longitude = 8.537186; Bielefeld_Buecherei.latitude = 52.026822; Bielefeld_Buecherei.height = 118;
+PosOnsphere Paderborn_Hbf; Paderborn_Hbf.longitude = 8.740690; Paderborn_Hbf.latitude = 51.713439; Paderborn_Hbf.height = 0;
+PosOnsphere Paderborn_Tribeca; Paderborn_Tribeca.longitude = 8.747532; Paderborn_Tribeca.latitude = 51.715992; Paderborn_Tribeca.height = 0;
+PosOnsphere NewYorkLibStatue; NewYorkLibStatue.longitude = -74.044444; NewYorkLibStatue.latitude = 40.689167; NewYorkLibStatue.height = 0;
+PosOnsphere NewYork911; NewYork911.longitude = -74.0125; NewYork911.latitude = 40.711667; NewYork911.height = 0;
+PosOnsphere London; London.longitude = -0.12574; London.latitude = 51.50853; London.height = 0;
+PosOnsphere Berlin; Berlin.longitude = 13.40495; Berlin.latitude = 52.52001; Berlin.height = 0;
+PosOnsphere Moscow; Moscow.longitude = 37.616667; Moscow.latitude = 55.75; Moscow.height = 0;
+PosOnsphere Tokyo; Tokyo.longitude = 139.69171; Tokyo.latitude = 35.6895; Tokyo.height = 0;
+PosOnsphere TokyoGodzila; TokyoGodzila.longitude = 139.69171; TokyoGodzila.latitude = 35.6895; TokyoGodzila.height = 100;
+PosOnsphere BigDiomede; BigDiomede.longitude = -169.065901; BigDiomede.latitude = 65.794064; BigDiomede.height = 0;
+PosOnsphere Anadyr; Anadyr.longitude = 177.318012; Anadyr.latitude = 64.811129; Anadyr.height = 0;
+PosOnsphere CapeTown; CapeTown.longitude = 18.423346; CapeTown.latitude = -33.923775; CapeTown.height = 0;
+PosOnsphere Lima; Lima.longitude = -77.046494; Lima.latitude = -12.093084; Lima.height = 0;
+PosOnsphere Wellington; Wellington.longitude = 174.77557; Wellington.latitude = -41.28664; Wellington.height = 0;
+PosOnsphere Pretoria; Pretoria.longitude = 28.18783; Pretoria.latitude = -25.74486; Pretoria.height = 0;
+PosOnsphere NorthPole; NorthPole.longitude = 0; NorthPole.latitude = 90; NorthPole.height = 0;
+PosOnsphere SouthPole; SouthPole.longitude = 0; SouthPole.latitude = -90; SouthPole.height = 0;
+PosOnsphere VostokStation; VostokStation.longitude = 106.83757; VostokStation.latitude = -78.463889; VostokStation.height = 0;
+PosOnsphere BelgranoBase; BelgranoBase.longitude = -34.627588; BelgranoBase.latitude = -77.873696; BelgranoBase.height = 0;
+
+cout << "twoPointDistance in meteres:    "<< twoPointDistance (Paderborn_Hbf, Paderborn_Tribeca) << endl;
+cout << "twoPointDistance in kilometers: "<< twoPointDistance (Paderborn_Hbf, Paderborn_Tribeca)/1000 << endl;
+
+/*
+TEST RESULTS
+
+ SUMMARY:
+
+The most precise implemented method is about 10 m off on <1km distances.
+It works correctly everywhere.
+One needs to keep in mind that it measures the direct distance, not the flying distance.
+But the direct and the flying distance are almost identical as long as the points are closer than 4 000 km.
+Which is sufficient for most applications.
+
+If speed is not critical:
+    use the slow method (gives better precision)
+if International Date Line crossings, or poles
+    use the slow method (gives correct distances)
+
+When the fast method can be used:
+    no International Date Line crossings, or poles (in such cases, switch to the slow method)
+    70 m error is acceptable on the distances of less than 500 m
+
+ DETAILED RESULTS:
+
+1. precision on short distances
+google says it's 389 m flying from Bielefeld_Hbf to Bielefeld_Buecherei. Our results: fast method: 320m, slow method: 401m
+google says it's 561 m flying from Paderborn_Hbf to Paderborn_Tribeca. Our results: fast method: 539m, slow method:552m
+google says it's 37.92 km flying from Bielefeld_Hbf to Paderborn_Hbf. Ours: fast method: 16km, slow: 38km
+google says it's 3,8 km flying from NewYorkLibStatue to NewYork911. Ours: fast: 3.5km, slow: 3,7km
+Summary:
+    on the distances less than 600 m, the fast method is 20-70 m off, the slow method is about 10 m off.
+    on the distances of about 4 km, the fast method is 0,5 km off, the slow method is 0,1 km off.
+    on the distances of about 40 km, the fast method is 20 km off, the slow method is 0,1 km off.
+
+2. precision on long distances
+note: the longer is the distance, the bigger is the difference between the direct distance (our output) and the flying distance
+distance.to says it's 1609 km flying from Berlin to Moscow. Our results: fast method: 1921km, slow method: 1610km
+see also #3 and #4
+Summary:
+    The slow method:
+        on the distances between 600-2000 km: the slow method is 1-10 km off
+        on the distances of about 4 000  km: slow is 60 km off
+        distance +9 000 km: slow: +1000 km off (because it measures the direct distance, not the flying distance)
+    The fast method:
+        on the distances of 600 km: the fast method is 80 km off
+        on the distances of 1300-1600 km, it's 300-500 km off
+        distance +9 000 km: it's +1000 km off
+
+3. Correctly working with the Greenwich and the International Date Line (IDL):
+Bielefeld_Hbf - London : distance.to says it's 599km. Our results: fast: 680km, slow:600km
+Tokyo - NewYork911 : distance.to says it's 10569km. Our results: fast: 16797km, slow: 9608km
+Big Diomede - Anadyr : google says it's 634 km. Our results: fast: 27215km, slow:643km
+Summary:
+    the fast method doesn't work with the IDL crossings, the slow method works
+
+4. Correctly working in the South hemisphere and between the Sorth and North
+CapeTown - Lima: distance.to says it's 9758 km. Our results: fast: 7609 km, slow: 8841 km
+CapeTown - Berlin: distance.to says it's 9628 km. Our results: fast: 9553 km, slow: 8702 km
+Wellington - Lima:  distance.to says it's 10596 km. Our results: fast: 19785 km, slow: 9423 km
+CapeTown - Wellington: distance.to says it's 11313 km. Our results: fast: 12311 km, slow: 9905 km
+CapeTown - Pretoria: distance.to says it's 1309 km. Our results: fast: 767 km, slow: 1305 km
+Summary:
+    both fast and slow methods work correctly here
+
+5. Correctly working with poles:
+Bielefeld_Hbf - NorthPole: distance.to says it's 4224 km. Our results: fast: 1521 km, slow: 4158 km
+Bielefeld_Hbf - SouthPole: distance.to says it's 15797 km. Our results: fast: 15680 km, slow: 12023 km
+NorthPole - SouthPole: distance.to says it's 20021 km. Our results: fast: 20037 km, slow: 12713 km
+VostokStation - BelgranoBase: Google says it's about 2000 km. Our results: fast: 11115 km, slow: 2477 km
+Summary:
+   the fast method doesn't work in some places near poles. The slow works (unless huge distances - becaause see above)
+
+6. Correctly working with heights:
+Tokyo - TokyoGodzila: correct result: 100m, our result (slow method): 100m
+
+How to check if it works correctly for other places:
+Go to https://www.google.de/maps and locate some point of interest
+click on it, when right click, when select "What's here" to get the coordinates
+copy the coordinates hither and format it as a PosOnsphere object
+click on it, when right click, when select "Measure distance" to get the distance
+for long distances, one can use https://www.distance.to/
+*/
+
+return 0;
+}
+
+
+
+
+# Written no later than 190213:
+
+[Note: from a file titled "discussion_about_maintenance_tasks". An copy of a Slack discussion]
+
+<me>
+
+Думаю тут над одной проблемой про скрам и фабрикатор. Есть такие таски, которые надо будет делать каждый спринт, всегда. Разный maintenance, user support, повышение квалификации и тп. С одной стороны, хорошо бы вообще всю работу в фабрикатор перевести, ибо транспарентность. С другой стороны, если такого рода вещи добавить в фабрикатор, то в Workboard будут постоянно висеть такие постоянные таски, что может загромождать его. И такие stories будут незаканчиваемыми, что противоречит определению story. Как думаете, как это лучше сделать?
+
+<startup_pal_A.7.H.> [3:22 PM]
+ja dumau mogno paralelno vesti
+u tebja svoj workboard
+
+<brother> [3:23 PM]
+Мне кажется тут другая проблема. Надо не добавлять таски про абстрактный user support и maintenance
+а таски про решения определенных задач в их контексте
+конктретная проблема конкретного пользователя - стори
+а вот тэг у неё уже user support
+
+<me> [3:25 PM]
+к примеру, у меня такой есть таск в ThinkingRock: забекапить карты из Mindmeister. По одной объективной причине этот процесс нельзя автоматизировать, поэтому приходится самому ручками делать раз в 2 недели. Получается один конкретный таск, который надо постоянно делать, и который нельзя закончить
+будут аналогичные конкретные таски, которые надо будет делать каждый день
+
+<brother> [3:25 PM]
+каждый интанс бэкапа это отдельный таск а не тот же самый
+"забэкапить mindmeister, календарная неделя 10"
+прятный бонус - сразу видно в какие недели было забэкаплено а в какие нет (edited)
+
+<me> [3:27 PM]
+а теперь представь что будет такой таск, который надо каждый день делать. К примеру, "просмотри отзывы в Play Store"
+
+<brother> [3:27 PM]
+чтобы экстра нагрузку от создания однотипных тасков снять можно использовать формы - там вроде бы можно большую часть полей заранее заполнить
+если каждый день то это уже не фабрикаторный таск - слишком малый размер. Фабрикаторный таск в этой ситуации "посмотри недельные отзывы" с каждым днем как подпунктом в таске
+т.е. объединять слишком маленькие таски в более крупные с чекбоксами внутри (edited)
+
+<me> [3:29 PM]
+фабрикаторный таск вполне может быть таким, что требует 1 день или меньше. Но в принципе да, вариант с объединением может сработать
+итого, две идеи теперь:
+1) вести параллельно в отдельном воркборде, как <startup_pal_A.7.H.> предложил
+2) вести в том же воркборде, как <brother> предложил
+плюс опционально - недельная аггрегация тасков, создание в форме
+если большое количество разных еженедельных тасков, то вариант <startup_pal_A.7.H.>а явно лучше
+
+<brother> [3:32 PM]
+учти что тогда скрипт работать не будет
+
+<me> [3:32 PM]
+хотя их можно объеденить, опять же
+
+<brother> [3:32 PM]
+для старта / стопа спринтов
+точнее не так. Я не уверен что он будет работать :smiley:
+
+<me> [3:33 PM]
+ну, это же технические детали. Можно и переписать его. Сначала надо понять, как это вообще все организовать
+
+<brother> [3:33 PM]
+тебя можно переписать а не мой боголепный скрипт!
+
+<me> [3:33 PM]
+а тебя еще более можно переписать!!111
+
+<me> [3:40 PM]
+Такой вариант: создаем 1 специальную story, которую будем добавлять в каждый спринт. "Maintenance", например. У нее будет 3 спец таска, по одному для каждого из нас. В описание своего таска каждый может добавить to-do лист на спринт, как он сам захочет. К примеру, список постоянных дел, которые надо каждый спринт делать. Эти таски не закрывать, а в начале спринта просто отметки в to-do листах убирать и всё
+
+<brother> [3:41 PM]
+извращение какое-то
+надо читать как по оригинальному скраму подобные вещи решаются
+
+<me> [3:41 PM]
+предлагай лучше:)
+
+<brother> [3:41 PM]
+это наверняка не уникальная для нас проблема
+
+<me> [3:42 PM]
+<startup_pal_A.7.H.> - скрам специалист. Он лучше нас с тобой понимает как это всё должно фунциклировать.
+@<startup_pal_A.7.H.> Как думаешь?
+
+<startup_pal_A.7.H.> [3:43 PM]
+ja bi za otdelnij workboard
+
+<me> [3:43 PM]
+кстати, насколько я помню, в том официальном скрам мануале не было про это
+как вариант, ага
+
+<startup_pal_A.7.H.> [3:43 PM]
+no 4to kasaetsa produkta to nugno v projekt Product Design tjanut
+
+<me> [3:44 PM]
+логично
+
+<startup_pal_A.7.H.> [3:44 PM]
+4to s nim kosvenno svjazano stoit otdelno vinesti
+vot 4to ti skazal pro Play Store dumau podhodit dlja Product Design, tolko nugno story sozdat
+pro drugie veshi nado smotret, esli oni bolshe s tvoim time management pereplitautsja to lu4she otdelno
+tak dumau:point_up:
+
+<me> [3:47 PM]
+всё разумно
+
+<me> [3:58 PM]
+Погуглил, походу в скруме это нерешенная проблема. Предлагаю поступить как предложил <startup_pal_A.7.H.>, и сделать отдельный Workboard для таких "Maintenance" вещей, что прямо не относятся к Product Design
+мб не отдельно для каждого чела, а общий Workboard "Maintenance". Кстати, тот скрипт там скорей всего и не понадобится (edited)
+но оно не срочно. Можно еще подумать, мб получше решение придет в головы
+
+
+# Written no later than 190307:
+
+[Note: a copy of the list of items, into which we split the work on the app etc.]
+
+Stories (здесь - устаревший список. Актуальный - в фабрикаторе)
+
+1. Терминология
+1.1. Umbrella: то что не влазит в спринт
+1.2. Story: то что можно сделать за спринт
+1.2.1. properties of a cool story:
+1.2.1.1. doable in 2 weaks or less
+1.2.1.1.1. but requires more than a day of work
+1.2.1.2. the expected result is obvious from the title
+1.2.1.3. the title starts with a werb (create, design, find, implement etc etc)
+1.2.1.4. the story is about one specific thing, not a bunch of different things
+1.2.1.5. there are no unnecessary tags/projects
+1.3. Task: то что можно сделать за день или меньше
+1.4. см. guidelines
+Link: https://phabricator.[second_startup]/w/phabricator_guidlines/
+
+2. вот здесь актуальный список stories:
+Link: https://phabricator.[second_startup]/project/board/37/
+
+3. geo-tag app
+3.1. Implement contacts management for the geo-tag app
+3.2. Implement tags management for the geo-tag app
+3.3. Implement location updates for the geo-tag app
+3.4. Implement notifications for the geo-tag app
+3.5. Add on-boarding information for the geo-tag app
+3.6. Describe the geo-tag app for the Play Store
+3.7. Implement server-cleint communication for the geo-tag app
+3.8. Implement databases for the geo-tag app
+3.9. Implement sign-up process for the geo-tag app
+3.10. Build the basic Android UI for the geo-tag app
+
+4. Server application
+4.1. Decide on scaling strategy
+4.2. Decide on data storage strategy
+4.2.1. distributed database/system appropriate to our business logic
+4.3. Implement server side application
+
+5. Server infrastructure
+5.1. modern server safety
+5.1.1. Add 2-factor authentication
+
+6. Client-server communication
+6.1. Common
+6.1.1. Sending messages - Session data
+6.1.2. Persistent storage - storage for the session data
+6.1.3. Message acknowledgements
+6.2. Implement core server-side handlers
+6.2.1. Authorization key exchange
+6.3. Client side
+6.3.1. Handle new session created notifications
+
+7. Software quality assurance
+7.1. Continuous Integration
+7.1.1. Add memory sanitizer tests for MTProto library
+7.1.2. Doxygen - generate and publish documentation (llvm-project - Revision 310790: /llvm/trunk can be used as reference)
+Link: http://llvm.org/svn/llvm-project/llvm/trunk/
+7.1.3. Unify dashboard
+7.1.3.1. Update Android tests - use CT est scripts instead of python
+7.1.4. Add tests for android application
+
+8. Developer productivity and infrastructure
+8.1. [done] Scrum adoption
+8.1.1. A list of MVP features
+8.2. [done] Automate the dev and management infrastructure
+8.3. Make Bilduin more stable
+8.3.1. Update Bilduin parameter passing
+8.3.1.1. Add Bilduin configuration point for unrelevant CMake parameters
+8.3.1.2. Add a function to remove flags that do not change the ABI
+8.3.2. Extend Bilduin tests
+8.4. Evaluate conan.io as Bilduin replacement
+8.4.1. T ry to build all required libraries in all required flavors, including Android
+8.5. Describe and implement a strategy of dealing with maintenance tasks in Phabricator
+8.6. Modify our infrastructure to minimize its maintenance
+
+9. Website and Play Store
+9.1. Add Google Analytics support
+9.2. Add multi-language functionality
+9.3. make the site even more beautiful
+9.4. write the text for the site
+9.4.1. Write a short description of yourself for the site. 10-20 words should be enough. See details below
+9.4.2. Add a general description of our product for the site (text description and explainer video)
+9.4.3. Add list of features of the Product that make it batter than competition (for the site)
+9.4.4. Add description of our philosophy, team, vision
+9.5. explainer video
+9.6. Make the site interactive
+9.6.1. Add a section about related news
+9.6.2. Automatic support
+9.6.2.1. (xapo-like)
+9.6.3. Form for direct user feedback
+9.6.3.1. (bitrated-like)
+9.6.4. Share/like functionality
+9.6.5. Subscribe-for-news functionality
+9.7. Play Store publication
+9.7.1. Detailed algorithm of the process of publishing the app in the Play Store
+9.8. Create accounts in social networks and fill them up with content
+
+10. Analytics
+10.1. [done] Make research on how to collect and analyse the market and user data
+10.2. [done] creating a basic set of tools for market analytics
+10.3. [done] collecting general market data
+10.4. Organize the first market research
+10.5. Complete the secondary market research
+10.6. data collection policies
+
+11. Hardware
+11.1. Research the current state of the art of the hardware necessary for the bracelet
+11.2. Create the bracelet tech demo
+
+12. Funding
+12.1. research and document the governmental financial support programs
+12.2. organize participation in governmental consulting programs (Beratungsprogramme)
+12.3. Access to an Incubator/accelerator
+12.4. the first investor
+12.5. Complete consultations with potential investors of 2019 01
+
+13. Financial infrastructure
+13.1. accounting and payroll system
+13.2. financial forecast for the first year after launch
+13.3. create the second version of the business model
+
+14. Legal safeguards
+14.1. Create the first version of AGB with the help of attorney
+14.2. Expand the AGB according to the results of our research
+14.3. Document the legal framework around rescuers in Germany
+14.4. Understand the legal framework around data protection in Germany
+14.5. Design security policies for the company
+14.6. Make our infrastructure compliant with GDPR
+14.7. Make our infrastructure compliant with COPPA
+
+15. Registration of the company
+15.1. Create the Vorgründungsgesellschaft
+
+16. Long-term strategy
+16.1. Long-term roadmap
+16.2. Research on how we can create a practically indestructible system
+16.3. Integrate professional rescuers into our system
+16.4. Join a start-up accelerator / incubator
+16.5. Do Pivot 2018.08
+16.6. Create a tech demo for the [second_startup] Health AI (I/0 subsystem)
+Link: https://phabricator.[second_startup]/T960
+16.7. Write the first version of the business plan
+16.8. Write the second version of the booklet for the next startup competition
+
+17. General management
+17.1. Design a decision-making framework
+17.2. Define policies to make our work environment inclusive
+17.3. Implement crisis preparedness
+17.4. Organize the process of expanding our team
+17.5. Organize the process of improving the team's skills
+17.6. Make <me> understand the basics of mobile development
+17.7. Make <startup_pal_A.7.H.> a pro-level mobile dev
+17.8. Analize the companies that could be good role models for us
+17.9. Create Advisory board
+Link: https://phabricator.[second_startup]/T880
+
+18. Marketing
+18.1. First marketing campaign
+18.2. Customer Development Process
+18.3. strategy of geographical expansion
+18.4. Create a strategy of dealing with competitors
+18.5. T able of competitors
+18.6. Presentation
+18.7. Participate in the next startup competition
+18.8. Develope corporate style for the documents of the company
+18.9. Verify our business hypotheses
+18.10. Automate regular emails for users
+
+19. done
+19.1. Participate in the startup competition 2017
+19.2. Update our long-term strategy according to the SWOT-feedback from the competition
+19.2.1. breaking into several stories
+
+20. Client application
+20.1. Application architecture design
+20.2. User data collection functionality for the app (user behavior analytics etc)
+20.2.1. Collect UX data about the app
+20.3. UI design
+20.3.1. Create a Main-Activity with a help button
+20.4. Human testing of the app in real life (by co-founders and their families)
+20.5. Create a mockup of the app's Play Store page with detailed description and pictures
+20.6. SMS-based phone number authentication for the app
+20.7. Multi-language functionality for the app
+20.8. A/B - testing functionality
+20.9. Design the gamification of the app
+20.10. Design the onboarding for the app
+20.10.1. https://phabricator.[second_startup]/T926
+
+# Written no later than 190311:
+
+[Note: from a file titled "Simplest_lifesaving_device_cost_estimate_1" We prepared this kind of calculations for the potential investor]
+
+1. The problem
+We need a wearable that could tell us if the patient is dead.
+Let’s consider the simplest wearable that could do the job:
+
+The device should measure 24/7:
+if the patient is moving or not moving (e.g. an accelerometer)
+
+The device should:
+communicate with the server at least every 5 min
+have a way (e.g. a buzzer + button) to ask the patient if he's still alive (to avoid false positives)
+
+The server should:
+analyze the sensors data to detect if the patient is likely dying using simple heuristics like “if no movement, then dead”
+provide the notification about the death to authorized users (e.g. API)
+
+Both the hardware and software must be:
+reliable enough to trust the patient’s life to it (which is not the case for today’s consumer wearables)1
+
+From this description, a non-techy reader could conclude that the device is a simple piece of tech. Unfortunately, it’s not the case.
+It’s a non-trivial task to make a wearable with reliable sensors and connectivity, as even the biggest producers (like Apple) have mostly failed at it. A lot of the software (and some of the hardware) must be rethinked and redesigned from scratch to achieve medical-grade reliability.
+
+2. Total cost of development
+
+How much would it cost to develop such device?
+To make the estimate, we consider two approaches: inside view and outside view.
+
+2.1. Inside view
+
+As with most R&D projects in the IT industry, the developers’ salary will be the biggest expense. All other R&D expenses are unlikely to exceed 70% of the expenses on the devs.
+The salary of a senior software developer in Germany is between €52 tsd and €91 tsd per year2.
+To convince a developer that it’s safe to leave his full-time job, we need to secure funding for at least 3 years (which is also an upper-bound estimate of the length of the project).
+Thus, for the team of 3 full-time senior devs, the R&D expenses will likely to be at least €644 tsd, or at least €1,1 mln to safely cover non-wage expenses3.
+
+Using estimates by Predictable Designs LLC4, we predict that the production of the first 1000 units will cost about €300 tsd (the cost per unit will significantly decrease with the volume).
+Thus, we need at least €1,4 mln to cover both R&D and the first 1000 units.
+
+2.2. Outside view
+
+Let’s check the successful wearables projects that were backed at Kickstarter. How much money have they raised to become successful?
+We can estimate it using two queries at kickstarter.com:
+
+1) successful / wearables / Earth ( = worldwide) / Projects We Love ( = endorsed by Kickstarter) / >100% raised / sorted by Most Funded5.
+2) successful / wearables / Earth ( = worldwide) / Projects We Love ( = endorsed by Kickstarter) / >100% raised / sorted by Newest6.
+
+The first query could provide a realistic upper-bond estimate, and the second query – a realistic lower-bond estimate.
+At the moment of this writing (2019.03.11), the first 5 results for each query are as follows:
+  
+“Most Funded”
+“Newest”
+
+Project
+Raised, USD
+
+Project
+Raised, USD
+
+Vi7
+1688179
+Orcam8
+185003
+
+Blocks9
+1613874
+Biolite10
+527514
+
+Sgnl11
+1469202
+Logicink12
+37107
+
+Pugz13
+1433779
+Nadi-x14
+54254
+
+Lvl15
+1186983
+runvi16
+106489
+
+Assuming that these results are representative enough for our rough estimate, we can forecast that the total cost to develop our device will be between $37 tsd and $1,7 mln (between €33 tsd and €1,5 mln).
+
+Our previous (“inner view”) estimates seem to be realistic, as all of them are within this range.
+
+3. Conclusion
+ 
+From the “outside view” considerations, we estimate that between €33 tsd and €1,5 mln of funding is needed to develop the described device.
+From the “inside view” considerations, we estimate that the amount should be at least €644 tsd, or at least €1,4 mln to safely cover non-wage expenses and the production of the first 1000 units.
+
+[Footnotes:]
+1. None of the general-purpose consumer wearables are designed with saving lives in mind. Because of it, certain engineering trade-offs have been made. For example, for the average customer, nothing bad will happen if your Apple Watch will suddenly disconnect, or if its heart rate sensor will sometimes generate false data. Thus, Apple is not considering high reliability of sensors and connectivity in its design. It's the same story for all other general-purpose wearables. But for our device, we need a military/medical grade reliability.
+
+2. Source: https://www.alphajump.de/karriereguide/gehalt/gehalt-softwareentwickler We choose Germany because all of our current team is located in Germany.
+
+3. Without all other expenses: ((52+91)/2 x 3 x 3). With our 50% estimate of additional expenses: ((52+91)/2 x 3 x 3 x 1,7)
+
+4. https://predictabledesigns.com/how-much-will-a-prototype-cost/
+
+5. https://www.kickstarter.com/discover/advanced?state=successful&category_id=341&staff_picks=1&raised=2&sort=most_funded&seed=2587187&page=1
+
+6. https://www.kickstarter.com/discover/advanced?state=successful&category_id=341&staff_picks=1&raised=2&sort=newest&seed=2587187&page=1
+
+7. https://www.kickstarter.com/projects/1050572498/vi-the-first-true-artificial-intelligence-personal
+
+8. https://www.kickstarter.com/projects/1070992105/orcam-myme1st-of-its-kind-wearable-ai-2nd-brain-3r
+
+9. https://www.kickstarter.com/projects/2106691934/blocks-the-worlds-first-modular-smartwatch
+
+10. https://www.kickstarter.com/projects/biolite/biolite-headlamp-wildly-capable-simply-comfortable
+
+11. https://www.kickstarter.com/projects/sgnlstrap/sgnl-make-phone-calls-with-your-fingertip
+
+12. https://www.kickstarter.com/projects/1646994926/logicink?ref=discovery_staff_picks_category_newest
+
+13. https://www.kickstarter.com/projects/pugz/pugz-worlds-smallest-wireless-earbuds-you-charge-w
+
+14. https://www.kickstarter.com/projects/1727484594/nadi-x-yoga-pants-smart-yoga-pants-for-travel-and
+
+15. https://www.kickstarter.com/projects/lactate-threshold/lvl-the-first-wearable-hydration-monitor
+
+16. https://www.kickstarter.com/projects/runvi/runvi-the-worlds-most-advanced-digital-running-coa
+
+
+# Written no later than 190423:
+
+[an email to a potential investor]
+
+Hello <comrade_J.7.H.>,
+
+I agree with you, in addition to our common goal to save human lives, the investors also have these (very relatable) goals:
+- to minimize the risk of financial loss
+- to maximize the expected financial gain
+- to maximize the control over the future company
+- to maximize the control over the product
+
+On the other hand, my team and I have the following additional goals:
+- to maximize the funding
+- to maximize the control over the future company
+- to maximize the control over the product
+
+Some of the investors’ and our goals contradict each other. Thus, compromises must be made.
+Mathematically, it’s a constrained optimization problem, there a function is optimized in the presence of limitations on the variables.
+In general, it’s a (NP-) hard problem. But we can make the first step towards the solution if both sides list their limitations.
+
+My team and I have the following limitations:
+
+- we need to preserve the majority of the ownership and the voting rights in the future company
+- we need to preserve a wide autonomy in technical and hiring decisions
+
+Ideally, we would like to give away at most 20% of the equity in the first funding round, as it’s the standard practice for startups. But the exact number is negotiable.
+
+--------------------------------------------------------------
+
+Due to the humanitarian nature of our project, we don’t fear competition.
+It would be nice to be a monopoly with $billions of revenue. But if Mr. [E.G.] (or Apple) makes the good-enough life-saving system first, we’ll still be happy.
+Maybe someday he’ll save our lives with it.
+Unfortunately, it’s unlikely that someone else will build it before us, as the necessary technical know-how and the years of focused research are hard to recreate, even for a major company.
+
+--------------------------------------------------------------
+
+In general, we don’t need funding for the survival of our project.
+With the funding, we’ll be able to significantly speed up the development, and save more lives as the result.
+Without the funding, we’ll continue to build it, but slower.
+The project is my obsession and my life work. I’ll build it till it’s done (or till my brain is in liquid nitrogen, whichever happens earlier).
+
+--------------------------------------------------------------
+
+There is a massive unfulfilled demand for the product, and not only in the cryonics community.
+For example, this statistically representative poll of the adult US population indicates that ~20% of Americans would pay $10 per month for it:
+
+https://surveys.google.com/reporting/survey?survey=2ed3oygh5k6rxnnvatdrxfu3qu
+
+(Google Surveys are at least as good physical polls).
+
+If there is a massive demand for some product, then it’s usually possible to find investors who would agree to fund the development of said product, even if they can get only a minority share.
+In the startups scene, giving more than 30% of the equity in the first funding round is a rather rare practice, usually coupled with big capital requirements and/or gigantic funding.
+
+--------------------------------------------------------------
+
+I absolutely agree with you on the necessity of the public tech demo.
+Among other things, its release could become a strong argument in the negotiations with investors.
+
+
+Best regards,
+<me>
+
+
+[This was an answer to this email: ]
+
+We may need to go over it using a phone call, as my estimate would be
+that none of the proposed investors listed would bite on this.
+Alcor/CI/KrioRus may think it’s risky given their budget sizes.
+
+Playing Devil’s Advocate for a minute, there’s some ways to look at it
+from an investors’ viewpoint. For example, alternative cost, i.e.
+developing a bracelet and accompanying software exactly to desired
+specs, but then in-house. I estimate this may take a seasoned
+entrepeneur with 400+ current IT employees such as [E.G.]
+approximately 2-3 years, cost less than $1M because his inhouse
+personnel is probably slightly cheaper since his personnel roster is
+large and he’s got plenty of office space and expertise. It would retain
+100% ownership with the ability to steer the project at every corner
+stone if needed. A perfect product only for themselves. Don’t
+underestimate this happening.
+
+Others would spend longer and spend $1.2M or more but at all times would
+retain most or all shares.
+
+Any good proposal should always be better than anyone’s alternative, so
+it’s the best option on the table.
+
+This could for example be, when you guys have already demonstrated high
+proficiency by creating a (part of) prototype along these lines, making
+it clear to every investor that you have significant expertise
+developing such products. In such a scenario, the risk for an investor
+is much smaller hence they may (perhaps) accept a minority share with
+the founders holding a majority.
+
+Hope this makes it somewhat clear, otherwise let’s talk it through by phone,
+
+
+
+
+# Written no later than 190425:
+
+[Note: a strategy i proposed for the team on how to work with the potential investor]
+
+с учетом таблицы, предлагаю такую стратегию использовать:
+1) сначала уламываю на то, чтоб дать им не больше 20% контроля. На в ряд ли согласятся, но попытаться можно
+2) если не получилось, предлагаю отдать 49% контроля, в замен на оговоренное в proposal финансирование
+3) если не получилось, предлагаю отдать 60-80% equity, но при этом мы сохраняем более 50% voting rights. Опять же, в замен на оговоренное финансирование
+4) если не получлиось, предлагаю отдать 60-80% equity and voting rights, но при условии, что IP (code etc) принадлежит нам. Опять же, в замен на оговоренное финансирование
+5) если не получлиось, предлагаю вариант с официальной работой нашей команды на организацию <comrade_J.7.H.> and Co, но при условии, что IP идет в опен сурс, и при гарантии указанной зарплаты хотяб на 2 года.
+6) если не получилось, то откладываем переговоры до публикации [нашего эппа]
+
+
+# Written no later than 190425:
+
+[Note: another version of a strategy i proposed for the team on how to work with the potential investor, likely an earlier one, as it's less specific]
+
+Наша позиция в переговорах <comrade_J.7.H.> and Co:
+1) идеальный вариант для нас:
+наша компания, в которой мы имеем больше половины голосов и владения
+
+2) если он хочет больше половины голосов и владения себе, то пусть официально нанимает нас:
+мы готовы на такое только если:
+- результаты нашей работы будут под свободной лицензией, разрешающей коммерческое использование
+- зарплата будет как в proposal
+- гарантируемая зарплата хотя бы на год
+
+3) в крайнем случае предлагаем просто отложить разговоры до выхода tech demo
+
+
+
+# Written no later than 190515:
+
+[Note: a draft of the description of our app for Android Play Store]
+
+Note: all of the assets in the folder are temporary - only for the purpose of the closed test release.
+For the public release, we’ll prepare better assets, including the title, icons etc.
+
+Title:
+[second_startup] Family – Free location sharing and tags
+
+
+
+Short description:
+Free app to share your location with your friends and family, using tags!
+
+
+Full description:
+
+[second_startup] Family is a free app to share your location with your spouse and your kids.
+It’s strong on privacy, and light on mobile traffic.
+
+Worrying about your family's safety? Want to check if your daughter is back from school? It’s your app.
+
+🛠 How it works 🛠
+
+Say, you’re at work. Open [second_startup] Family and add the tag “work”.
+
+From now on, your selected contacts will be able to see if you’re at work.
+
+Easy as pie!
+
+Add more tags (home, school, groceries...) if you want. You only need to add a tag once, and the app will remember the tag’s location.
+
+Want to check where is your family? Just open the “contacts” tab.
+
+Note: both of you need to install [second_startup] Family to check and share tags with each other.
+
+You can check if your kids are at school and if your spouse is back home. Knowing it, you can ensure their safety, and give them peace of mind.
+
+🍕[second_startup] Family features 🍕
+
+• Save money on mobile traffic
+Almost no mobile traffic is consumed because there is no need to download massive maps
+
+• Very easy to use
+No maps needed. Everything you want to know is in one simple list
+
+• Tags instead of the precise location
+Tags consume less mobile traffic and are better for privacy
+
+• Customize
+Use the default tags for the locations, or add your own tags
+
+• Only real people
+Thanks to phone verification, only real people can become your contacts
+
+• No ads, no selling your data
+You don’t want to share the location of your family with strangers, especially with advertisers. We - neither. In [second_startup] Family, only you decide with whom to share.
+
+🔍 Privacy 🔍
+• Your contacts will receive only the tag (for example, “at home”), not your precise location
+• Even our servers don’t know your location, as the tags are calculated locally on your device
+• We keep the history of tags’ changes only for 2 weeks and then automatically delete it from our servers. After the deletion, even law enforcement won't get it, because the data don’t exist anymore.
+• Every phone number is sms-verified to avoid identity theft and impersonation
+• No ads, no selling your data, no cookies
+• We use Google Analytics for market research. But, unlike many other apps, we allow the user to opt-out from it! You can do it in the Settings / Privacy menu.
+• This app is made in Germany, a country with extremely strict user data protection laws
+
+✍️ FAQ ✍️
+• How do you make money?
+We don’t make money on [second_startup] Family. We plan to release a paid version of the app with some additional functionality. Subscribe to our news if you want to be among the first to test it!
+
+This free version will stay free (and ads-free) forever.
+
+• Can I use [second_startup] Family with my friends? Or is it only for my family?
+Sure, you can use it with your friends, your employees or for any other legal use.
+
+• Can someone use [second_startup] Family to stalk me?
+Nope. You’re in a full control of who can see your tags. If you don’t want to share your tags with some person anymore, just delete him/her from your [second_startup] Family contacts. Only the people who are in your in-app contacts can receive your tags.
+
+• If I want to share the location with my son, does he need to install [second_startup] Family too?
+Yes. Both of you need to install the app and add each other to contacts. It’s easy, and it’ll take you less than 3 minutes.
+
+
+
+
+
+# Written no later than 190627:
+
+[Note: from a file titled "answer_about_favorites" . Seems to be my answers to a series of questions on how we better define the Favourites functionality]
+
+I would answer the questions as follows:
+
+=Is it enough for MVP to simply use the favorites flag?=
+If it's enough to solve the privacy problem, then yes. E.g. only Angelina Jolly herself decides who will get the info about her current tag.
+It seems that the favorites flags are indeed enough.
+
+=what should it mean to mark someone as favorite?=
+
+ **Server**
+I'm not knowledgeable enough to answer the questions regarding the server-side implementation.
+ 
+ **Client **
+How do we tell the users what favorite means?
+- I propose avoid using the term "favorites" in the GUI altogether, as the term has many meanings, and different users understand the term in different ways. There is a terminological confusion even among us.
+- Instead, in the GUI it's better to describe that the thing is actually doing, in very clear and unambiguous terms. For example, the list of contacts is divided into 2 categories:
+-- `These people receive my current tag` (name subject to change)
+-- `These people don't receive my current tag` (name subject to change)
+
+Displaying the contact list:
+How do we mark someone as favorite?
+- A way to do it is to show a star at the left of each name
+- The favorites have ★ at the left of their names. The non-favorites have ☆
+- When the user clicks  a ☆ person, a dialog is shown: `This person will regularly receive your current tag. Do you agree?` (name subject to change)
+- When the user clicks on a ★ person, a dialog is shown: `This person will stop receiving your current tag. Do you agree?` (name subject to change)
+
+
+# Written no later than 190731:
+
+[Note: a draft for the Terms of Use for our app. Not sure if it was drafted by our legal adviser, or we just copied parts of it from the internet, because at one point she explained to us that the project is over her head, and thus she doesn't want to continue to work for us. The legal docs were my responsibility, I heavily researched and edited them.]
+
+English
+Deutsch
+TERMS OF USE
+(Updated: Juli 2019)
+NUTZUNGSBEDINGUNGEN
+(Stand: Juli 2019)
+Terms of use of [second_startup] GbR (hereinafter referred to as "Provider") for the use of the mobile application "Geoji"[1][2]. The following terms of use  (hereinafter referred to as "Terms")  apply to the use of the app in the relationship between the user and the provider. The use of the service (hereinafter referred to as "Service") is only permitted if the user accepts these Terms.
+der [second_startup] GbR (nachfolgend „Anbieter“ genannt) für die Nutzung der mobilen Applikation „Geoji“. Für die Nutzung der App gelten im Verhältnis zwischen dem Nutzer und dem Anbieter die folgenden Nutzungsbedingungen. Die Nutzung des Dienstes ist nur zulässig, wenn der Nutzer diese Nutzungsbedingungen akzeptiert.
+§1. PREAMBLE
+§1. PRÄAMBEL
+(1) The Provider offers its users a mobile app (hereinafter referred to as "the App") in the Google Play Store. The Provider may also offer the app in other app stores, or on the Provider’s websites.
+(1) Der Anbieter bietet seinen Nutzern im App Store Android eine mobile App (nachfolgend „die App“ genannt). Der Provider kann die App auch in anderen App-Stores oder auf den Webseiten des Providers anbieten.
+(2) A user in the sense of these Terms is anyone who registers themselves in the App. The use of the basic functions of the app is free of charge. Additional functions can be unlocked by in-app purchases or subscriptions or by purchasing the pro version of the app.
+(2) Nutzer im Sinne dieser Nutzungsbedingungen ist jeder, der sich bei der App  registriert. Die Nutzung der Grundfunktionen des Apps ist kostenfrei. Zusätzliche Funktionen kann man durch In-App-Käufe bzw. Abonnement oder Kauf der Pro-Version des Apps freischalten.
+§2. CONTRACT CONCLUSION
+§2. VERTRAGSSCHLUSS
+(1) The prerequisite for use is prior successful registration. By registering, the user acknowledges the validity of these Terms.
+(1) Voraussetzung für die Nutzung ist eine vorherige erfolgreiche Registrierung. Mit der Registrierung erkennt der Nutzer die Geltung dieser Nutzungsbedingungen an.
+(2) The user commits themselves to provide all necessary personal data about their person (surname and first name) and their mobile phone number truthfully during registration.
+(2) Der Nutzer verpflichtet sich, alle erforderlichen persönlichen Daten über seine Person (Name und Vorname) und seine Handynummer bei der Registrierung wahrheitsgemäß anzugeben.
+(3) Registration takes place as soon as the user has confirmed his/her phone number in the app.
+(3) Die Registrierung erfolgt, sobald der Nutzer seine Telefonnummer in der App bestätigt hat.
+§3. SCOPE OF SERVICES
+§3. LEISTUNGSUMFANG
+The app’s functionality includes the following features:
+Die Grundfunktionen der App sind:
+1. The precise geolocation of the user is never transmitted to our servers or to other users. Instead, the geolocation is transmitted in the form of tags (e.g. “at home”). The tags can be added / deleted / edited by the user.
+1. Der genaue Standort des Benutzers wird niemals an unsere Server oder an andere Nutzer übermittelt. Stattdessen, wird der Standort in der Form von "Tags" (z.B. "zu Hause") übertragen, die vom Benutzer eingefügt / gelöscht / bearbeitet werden können.
+2. The user can edit the list of users (contact list) to whom he/she can send his/her tags.
+2. Der Nutzer kann die Liste der Nutzer (Kontaktliste) bearbeiten, denen er seinen Standort senden kann.
+3. The user’s contacts that he/she marked as “favorites” in the app will receive the user’s currently assigned tag.
+3. Die Kontakte des Benutzers, die er/sie in der App als "Favoriten" markiert hat, erhalten das aktuelle Tag des Benutzers.
+4. The user can view the tags of some users.
+4. Der Benutzer kann die Tags einiger Benutzer einsehen.
+§4. EXCLUSION OF LIABILITY
+§4. HAFTUNGSAUSSCHLUSS
+(1) Claims for damages by the user/customer are excluded unless otherwise stipulated by law. The above exclusion of liability also applies to the legal representatives and vicarious agents of the provider if the user asserts claims against them.
+(1) Schadensersatzansprüche des Nutzers/Kunden sind ausgeschlossen, soweit durch das Gesetz nichts anderes bestimmt ist. Der vorstehende Haftungsausschluss gilt auch zugunsten der gesetzlichen Vertreter und Erfüllungsgehilfen des Anbieters, sofern der Nutzer Ansprüche gegen diese geltend macht.
+§5. OBLIGATIONS OF THE USER
+§5. PFLICHTEN DES NUTZERS
+(1) This app may only be used for the functions described in §3. Any other use without the prior written consent of the provider is prohibited. The duplication, processing, distribution, public reproduction or any other form of use of the contents of this app for commercial purposes is also prohibited. It is also forbidden to use automated systems or automated software to extract content from this app.
+(1) Diese App darf ausschließlich für die Funktionen benutzt werden, die im §3 beschrieben sind. Jede andere Nutzung ohne vorherige schriftliche Zustimmung des Anbieters ist untersagt. Unzulässig ist auch die Vervielfältigung, Bearbeitung, Verbreitung, öffentliche Wiedergabe oder jede sonstige Form der Nutzung von Inhalten dieser App zu gewerblichen Zwecken. Untersagt ist weiter die Verwendung automatisierter Systeme oder automatisierter Software zur Extraktion von Inhalten dieser App.
+(2) All measures which interfere with the function of the app shall be avoided. The user must ensure that his/her mobile phone does not fall into the hands of unauthorized persons who could use the functions of the app to cause damage.
+(2) Alle Maßnahmen sind zu unterlassen, die störend in die Funktion der App eingreifen. Der Nutzer hat dafür Sorge zu tragen, dass sein Handy nicht in Hände von unberechtigten Personen gerät, die die Funktion der App nutzen, um Schaden zu verursachen.
+(3) In the event of a breach of the obligation under §5 (1), the provider is entitled to modify or delete the corresponding content and, if necessary, to block the user's access. The user is obliged to compensate the provider for the damage caused by the breach of the obligations.
+(3) Bei einem Verstoß gegen die Verpflichtung aus Absatz 1 ist der Anbieter berechtigt, die entsprechenden Inhalte abzuändern oder zu löschen und ggf. den Zugang des Nutzers/Anbieters zu sperren. Der Nutzer/Kunde ist verpflichtet, dem Anbieter den durch die Pflichtverletzung entstandenen Schaden zu ersetzen.
+(4) The provider has the right to exclude the user from using the app in case of misuse.
+(4) Der Anbieter hat das Recht, bei Missbrauch den Nutzer von der Nutzung der App auszuschließen.
+§6. INTELLECTUAL PROPERTY
+§6. GEISTIGES EIGENTUM
+All intellectual property rights, in particular database rights, trademarks, design patents and other rights to protect intellectual property are owned by the provider or its licensors. This also includes the layout and presentation of the contents of the app and the app itself. The contents of the app or the underlying software code may not be reproduced, edited, distributed, publicly reproduced or used in any other way in whole or in part without the prior written consent of the provider.
+Alle Urheber-, insbesondere Datenbank-, Marken-, Geschmacksmuster und andere Rechte zum Schutz geistigen Eigentums liegen beim Anbieter oder seinen Lizenzgebern. Dazu gehört auch die Anordnung und Darstellung der Inhalte der App und der App selbst. Ohne vorherige schriftliche Zustimmung seitens des Anbieters dürfen Inhalte der App oder der zugrunde liegende Software-Code weder ganz noch teilweise vervielfältigt, bearbeitet, verbreitet, öffentlich wiedergegeben oder sonst wie genutzt werden.
+§7. TERMINATION, CANCELATION, BLOCKING OF USE
+§7. BEENDIGUNG, KÜNDIGUNG, SPERRUNG DER NUTZUNG
+(1) The user can terminate his/her use without giving reasons to the provider. This can be done by uninstalling the app.
+(1) Der Nutzer kann seine Nutzung ohne Angabe von Gründen gegenüber dem Anbieter beenden. Dies kann durch eine Deinstallation der App geschehen.
+(2) Normally, the user profile is deleted if the app has not been used for several months, unless user has a valid subscription.
+Normalerweise wird das Nutzerprofil gelöscht, wenn die App mehrere Monate lang nicht genutzt wurde. Nutzerprofile von Benutzern, die ein Abonnement haben, werden nicht automatisch gelöscht.
+(3) The provider is entitled to postpone the deletion of the user profile to a maximum of 6 months.
+(3) Der Anbieter ist berechtigt, die Löschung des Nutzerprofils auf maximal 6 Monaten zu verschieben.
+(4) The provider is entitled to exclude the user immediately from the use of the service and to delete his/her user profile and data at his/her own discretion, in particular in the event of violations of these Terms. The user agrees that any interruption of their access to the app, as well as the deletion of their user profile can be carried out without prior notice.
+(4) Der Anbieter ist berechtigt, nach eigenem Ermessen, insbesondere bei Verstößen gegen diese Nutzungsbedingungen, den Nutzer sofort von der Nutzung des Dienstes auszuschließen und sein Mitgliedsprofil und seine eingestellten Daten zu löschen. Der Nutzer ist damit einverstanden, dass jegliche Unterbrechung seines Zugangs, sowie die Löschung seines Nutzerprofils ohne vorherige Mitteilung durchgeführt werden kann.
+(5) The provider can exclude the user from the service if the user violates applicable laws, especially in case of abuse of the App.
+(5) Der Anbieter kann den Kunden von dem Dienst ausschließen, wenn dieser gegen geltende Gesetze verstößt, insbesondere bei Missbrauch der Funktionalitäten der App.
+(6) In the event of termination of use, the provider is entitled to block the user's access and delete the user profile.
+(6) Der Anbieter ist im Falle der Beendigung der Nutzung berechtigt, den Zugang des Nutzers zu sperren und das Nutzerprofil zu löschen.
+§8. RIGHTS AND OBLIGATIONS OF THE PROVIDER
+§8. RECHTE UND PFLICHTEN DES ANBIETERS
+(1) The provider is entitled to expand, restrict, adapt to technical progress and/or make improvements to their offer as long as the purpose of the app is not significantly changed by it. This applies in particular if adaptations are necessary to prevent misuse or if the provider is obliged to adapt due to legal requirements.
+(1) Der Anbieter ist berechtigt, sein Angebot zu erweitern, einzuschränken, dem technischen Fortschritt anzupassen und/oder Verbesserungen vorzunehmen, soweit der Zweck von der App dadurch nicht erheblich verändert wird. Dies gilt insbesondere, wenn Anpassungen erforderlich sind, um Missbrauch zu verhindern oder der Anbieter aufgrund gesetzlicher Vorschriften zur Anpassung verpflichtet ist.
+(2) The user has no legal claim to the permanent use of the App. The provider is not obliged and does not assume any guarantee for the availability or faultlessness of the app at any time.
+(2) Der Nutzer hat keinen Rechtsanspruch auf die dauerhafte Nutzung von der App. Der Anbieter ist nicht verpflichtet und übernimmt keinerlei Gewähr für die jederzeitige Verfügbarkeit oder Mängelfreiheit von der App.
+(3) The service starts only after a successful registration of the user. The user makes use of the service of the provider only after his/her first sign-in.
+(3) Die Leistung des Anbieters beginnt erst nach einer erfolgreichen Registrierung des Nutzers. Mit dem erstmaligen Login nimmt der Nutzer die Leistung des Anbieters in Anspruch.
+(4) The provider shall endeavour to keep its service available. Even with all due care, downtimes cannot be excluded. The provider does not assume any further obligations. In particular, the user is not entitled to permanent availability of the service.
+(4) Der Anbieter ist bemüht, seinen Dienst verfügbar zu halten. Auch bei aller Sorgfalt können Ausfallzeiten nicht ausgeschlossen werden. Der Anbieter übernimmt keine darüber hinausgehenden Leistungspflichten. Insbesondere besteht kein Anspruch des Nutzers auf eine ständige Verfügbarkeit des Dienstes.
+§9. PRIVACY POLICY
+§9. DATENSCHUTZ
+All provisions and declarations regarding data protection are a part of our Privacy Policy: https://[second_startup]/privacy.html
+Jegliche Regelungen und Erklärungen zum Datenschutz sind Inhalt unserer Datenschutz-bestimmungen: https://[second_startup]/privacy.html
+§10. FINAL PROVISIONS
+(1) The provider reserves the right to change these Terms with effect for the future at any time and without giving reasons. The user should therefore regularly review these Terms. In the event of significant changes, the user will be notified within the service or informed by e-mail. If the user does not agree to the amended Terms, the use must be discontinued.
+§10. SCHLUSSBESTIMMUNGEN
+(1) Der Anbieter behält sich vor, diese Nutzungsbedingungen mit Wirkung für die Zukunft jederzeit und ohne Angabe von Gründen zu ändern. Der Nutzer sollte diese Nutzungsbedingungen daher regelmäßig überprüfen. Bei wesentlichen Änderungen wird der Nutzer innerhalb des Dienstes darauf hingewiesen oder per E-Mail informiert. Wenn der Nutzer den geänderten Nutzungsbedingungen nicht zustimmt, muss die Nutzung eingestellt werden.
+(2) The contractual relationship shall be governed exclusively by European (EU) law under exclusion of private international law.
+(2) Auf das Vertragsverhältnis ist ausschließlich europäisches (EU) Recht unter Ausschluss des internationalen Privatrechts anzuwenden.
+(3) This Agreement is drawn up in German and English languages. If this Agreement is translated into another language, or if there is a conflict between the German and English versions, the German language text prevails.
+(3) Diese Erklärung ist in deutscher und englischer Sprache verfasst. Wird diese Erklärung in eine andere Sprache übersetzt oder liegt eine Unstimmigkeit zwischen der deutschen und der englischen Version vor, gilt der deutschsprachige Text.
+(4) Should provisions of these Terms be or become invalid in whole or in part, the remaining provisions shall remain unaffected. Rather, each invalid provision shall be replaced by a replacement provision that corresponds to the purpose of the agreement or at least comes close to it, as the parties would have agreed to achieve the original result if they had known of the invalidity of the provision. The same applies to incompleteness.
+(4) Sollten Bestimmungen dieser allgemeinen Geschäftsbedingungen ganz oder teilweise unwirksam sein oder werden, so bleiben die übrigen Bestimmungen davon unberührt. Vielmehr gilt an Stelle jeder unwirksamen Bestimmung eine dem Zweck der Vereinbarung entsprechende oder zumindest nahe kommende Ersatzbestimmung, wie sie die Parteien zur Erreichung des ursprünglichen Ergebnisses vereinbart hätten, wenn sie die Unwirksamkeit der Bestimmung gekannt hätten. Entsprechendes gilt für Unvollständigkeiten.
+
+# Written no later than 190802:
+
+[Note: from a file titled "permission_explanation". To compensate for my lack of Android dev skills, I took the responsibility of developing the texts for the app, like this. ]
+
+Location short:
+To share your location, the app requires access to it. Tap "Allow" when prompted.
+
+Location long:
+
+The core feature of this app is to share your location with the contacts of your choice. To do it, the app requires access to your location data. See our Privacy Policy for details.
+
+Contacts short:
+
+To connect you with your contacts, the app needs to know them. Tap "Allow" when prompted.
+
+Contacts long:
+
+The app reads your address book and generates a list of the people who are already registered in the app. To do it, access to your phone book is required. See our Privacy Policy for details.
+
+
+# Written no later than 190819:
+
+[Note: from a file titled "How to finish and start a sprint" . The semi-automatic todo list we used to do all the things necessary for a sprint]
+
+Review the finished tasks
+move actually finished ones into Done
+
+Discuss the important stuff
+Check this wiki page: https://phabricator.[second_startup]/w/stuff_to_discuss_on_the_next_meeting/
+Unless it's very important, better to postpone it to the end of the meeting.
+
+Resolve all the tasks inside the Done column
+use Bulk edit Tasks... to mark them all as Resolved
+
+Move unfinished tasks from Doing into Backlog column
+
+Replace the sprint number with the current one in the Harbormaster command
+Where the command is located: https://phabricator.[second_startup]/harbormaster/step/view/21/
+This build is for ending the sprint.
+NOTE: The sprint number can be found in URL link then you hover with the mouse over any link to the sprint
+
+Restart the "sprint-ending" build
+https://phabricator.[second_startup]/harbormaster/build/598/
+
+Wait until the build is finished
+refresh this page: https://phabricator.[second_startup]/harbormaster/build/598/
+
+Ensure that the sprint's workboard is empty
+
+Check if any of the closed stories are closed by mistake
+
+Archive the sprint's project
+
+Product owner sorts the stories
+can be done beforehand
+
+Team selects the Sprint candidates
+Choose the stories from the column with the highest priority
+Each story must be finishable in two weeks
+
+Create a sprint project
+Milestone of Product Design
+2 weeks duration
+the green Destination beacon icon
+
+Import workboard from the previous spring
+
+Replace the sprint number with the new one in the Harbormaster command
+Where the command is located: https://phabricator.[second_startup]/harbormaster/step/view/23/
+This build is for starting the sprint.
+NOTE: Sprint number can be found in URL link then you hover with the mouse over any link to to sprint
+
+Restart the "sprint-starting" build
+https://phabricator.[second_startup]/harbormaster/build/599/
+
+Wait until the build is finished
+refresh this page: https://phabricator.[second_startup]/harbormaster/build/599/
+
+Move stories to the stories column
+
+Discuss news, achievements, complaints, comments etc.
+
+(optionally) Update the checkbox list about our progress towards the release
+<me> updates it after every sprint. Optionally, we can do it together, e.g. if some particularly important stuff has been done.
+https://phabricator.[second_startup]/w/geo-tag_app/
+
+
+# Written no later than 190820:
+
+[Note: from a file titled "createGoodTaskChecklist". Likely a guide a wrote for our wiki, mostly for myself]
+
+How to create a good task in Phabricator
+
+Check if such task already exists
+It's especially important to do for bugs / features stories
+
+In the "description" field, describe why it must be done
+in 1-2 short sentences.
+For example: "We need a way to transfer device tokens and possibly another helpful information associated with the device for a better identification of the device"
+
+In the description, add an empty checklist
+Like this:
+- []
+- []
+- []
+- []
+
+At the first position of the checklist, describe the first step
+The first step must be as small and as simple as possible.
+For example, "read this article: http...", "install arcanist", "write this (simple procedure)" etc
+
+if you know what to do after the first step, write it down too.
+You can always expand it later if necessary
+
+Add a title.
+The title should describe an action (like "Create...", "Write...", "Build...", "Complete..." etc)
+
+Select the priority
+
+Add estimated hours
+
+Add tags
+
+
+# Written no later than 190822:
+
+[Note: From a file titled "About Us scene text". Likely a draft for "about us" thing in the app]
+
+LOCATION SHARING, WITH RESPECT TO YOUR PRIVACY
+
+• No ads
+• No selling your data
+• No cookies
+• Tags instead of precise location.
+For example, “at home” instead of the home's coordinates
+• Only you decide who can see your tags
+• This app is made in Germany, a country with extremely strict user data protection laws
+
+Made by [second_startup] GbR
+
+LICENSE AND COPYRIGHT NOTICES FOR USED OPEN SOURCE LIBRARIES
+
+
+
+
+
+# Written no later than 190919:
+
+[Note: from a file titled "in-app_hints_edit_fav". A draft of the strings for the Favourites functionality]
+
+Is-fav:
+
+They can see your current tag.
+If you remove them from favorites, they will not be notified.
+
+Is-not-fav:
+
+They always see your tag as @untagged.
+Add them to your favorites to share the current tag with them.
+
+
+
+
+# Written no later than 190919:
+
+[Note: Another draft of the strings for the Favourites functionality, likely an earlier one, as this one seems too verbose]
+
+
+To see their tags, ask them to add you as a favorite.
+
+
+Only your favorites can see your tag.
+For other people, it will be displayed as if you’re in an unknown place (“untagged”).
+
+
+
+
+Do you have a trustworthy friend or family member? Add them to your favorites. Only your favorites will get your current tag. For other people, it will be displayed as if you’re in an unknown place (“untagged”).
+
+ 
+
+Do you want to tell your trusted family member your current location?
+
+
+Only your favorites can see your current tag. To see their tags, ask them to add you as a favorite.
+
+
+
+Do you care about privacy?
+
+
+
+
+
+
+
+# Written no later than 191107:
+
+[Note: we used this questionnaire (designed by me) to get feedback from early adopters of our app]
+
+The one-week-later questionnaire for the interviewer
+*Required
+
+1. The first letter of the _user_'s name (e.g. “R”) *
+
+2. Check if the “Power Saving”, “ Battery Saver” or a similar mode is enabled (one can find it at settings > battery > power saving mode OR Settings > Battery Saver OR some other place) *
+Yes
+No
+I was unable to find such setting
+It was not possible to check it (e.g. it was an online interview)
+
+3. In general, does the app works as intended on the user’s device? *
+yes, flawlessly
+some minor bugs
+some very annoying bugs, but still works
+crashes, or some other critical bugs
+
+4. Describe the encountered bugs (leave blank if not applicable)
+
+5. Any additional comments, suggestions, ideas:
+
+
+# Written no later than 191107:
+
+[Note: we used this questionnaire (designed by me) to get feedback from early adopters of our app]
+
+Geoji app: the one-week-later questionnaire
+*Required
+
+1. The first letter of your name (e.g. “R”):
+
+2. How many favorites do you have? (the list of favorites can be seen in the "Contacts" tab in the
+Geoji app) *
+0
+1
+2
+3
+4 or more
+I don't know
+
+3. How many tags do you have? (the list of tags can be seen in the "Places" tab in the Geoji app) *
+0
+1
+2
+3
+4 or more
+I don't know
+
+4. Is “Power Saving”, “ Battery Saver” or a similar mode enabled? (one can find it at settings >
+battery > power saving mode OR Settings > Battery Saver OR some other place) *
+Yes
+No
+I was unable to find such setting
+
+5. In the past week, have you encountered any problems with the app? *
+No
+Yes
+
+6. If yes, please specify:
+
+7. What do you like about the app?
+
+8. What do you dislike about the app?
+
+9. How can we improve the app?
+
+10. Which parts of the app were too complex, too hard to understand? *
+
+11. Do you want to use the app after the beta is over? *
+Yes
+No
+Maybe
+
+12. If yes, why is this app useful for you?
+
+13. Your age
+18-24
+25-34
+35-44
+45-54
+55-64
+65 or more
+
+14. Your gender
+Male
+Female
+Other
+
+15. Do you have kids?
+Yes
+No
+
+16. If this app were non-free, how much would you pay for it (at most)? *
+I’ll use it only if it’s free
+1€ per month
+3€ per month
+5€ per month
+10€ per month
+
+17. Any additional comments, suggestions, ideas:
+
+
+# Written no later than 191107:
+
+[Note: we used this questionnaire (designed by me) to get feedback from early adopters of our app]
+
+The first-launch questionnaire for the interviewer
+Note: use this questionnaire if you’re physically present in the vicinity of the user during the first launch.
+Otherwise, use the questionnaire 1B.
+*Required
+
+1. The first letter of the user's name (e.g. “R”): *
+
+2. Date of the interview:
+Example: 15 December 2012
+
+3. The user’s country of residence: *
+Germany
+The Netherlands
+The US
+Ukraine
+Russia
+Other
+
+4. The phone model (e.g. Samsung Galaxy s10): *
+
+5. The Android version: *
+Android 4.0: or older
+Android 4.1 to 4.3.1: Android Jelly Bean
+Android 4.4 to 4.4.4: Android KitKat
+Android 5.0 to 5.1.1: Android Lollipop
+Android 6.0 to 6.0.1: Android Marshmallow
+Android 7.0 to 7.1: Android Nougat
+Android 8.0 to Android 8.1: Android Oreo
+Android 9.0: Android Pie
+Android 10 or newer
+
+6. The device’s language (the language of the system apps etc. See Settings > language and input > Language): *
+German
+English
+other
+
+7. Check if the “Power Saving”, “ Battery Saver”, "Battery Manager" or a similar mode is enabled (one can find it at settings > battery > power saving mode OR Settings > Battery Saver OR some other place) *
+Yes
+No
+I was unable to find such setting
+
+8. How the battery-related mode is named on the user’s device?
+
+9. Has the user encountered any problems with permissions and/or age screen? *
+No
+Yes, some problems
+
+10. If yes, please specify the problems (e.g. XYZ was unclear):
+
+11. How was the registration / sign-in process? *
+flawless
+there was some technical problem
+
+12. Please specify the problems (if any):
+
+13. Did the user receive the verification SMS? *
+Yes, from the first try
+Yes, after several attempts
+No
+
+14. Which scene(s) raised questions from the user? (“Scene” is an implementation-independent term for what the user sees on a particular screen. It could contain one or many fragments etc )
+Tick all that apply.
+onboarding scenes
+registration / sign-in scenes
+contacts
+contact details
+places
+edit/add a place
+
+15. What questions did the user asked?
+
+16. Was it easy for the user to add the first favorite? *
+They did it without any help from me
+A little guidance was necessary
+Some extensive explanation was necessary
+
+17. The following was unclear to the user
+
+18. Was it easy for the user to create the first tag? *
+They did it without any help from me
+A little guidance was necessary
+Some extensive explanation was necessary
+
+19. The following was unclear to the user
+
+20. Any additional comments, suggestions, ideas:
+
+
+# Written no later than 191107:
+
+[Note: we used this questionnaire (designed by me) to get feedback from early adopters of our app]
+
+Geoji app: the first-launch questionnaire
+*Required
+
+1. Have you encountered any problems with the registration process? *
+No
+Yes
+
+2. If yes, please specify:
+
+3. Which parts of the app were too complex, too hard to understand?
+
+4. Do you see any contacts in the app? *
+Yes
+No
+
+5. Was it easy for you to add a contact to your favorites? *
+I was unable to do it
+It was easy
+It was unclear how to do it, but I managed to do it nevertheless
+
+6. Was it easy for you to create a tag? *
+I was unable to do it
+It was easy
+It was unclear how to do it, but I managed to do it nevertheless
+
+7. Your phone model (leave blank if you don’t
+know it)
+
+8. The Android version: *
+I don't know
+Android 4.0: or older
+Android 4.1 to 4.3.1: Android Jelly Bean
+Android 4.4 to 4.4.4: Android KitKat
+Android 5.0 to 5.1.1: Android Lollipop
+Android 6.0 to 6.0.1: Android Marshmallow
+Android 7.0 to 7.1: Android Nougat
+Android 8.0 to Android 8.1: Android Oreo
+Android 9.0: Android Pie
+Android 10 or newer
+
+9. What is the primary language of your phone (the language of the system apps etc) *
+German
+English
+other
+
+10. Your country of residence: *
+Germany
+The Netherlands
+The US
+Ukraine
+Russia
+Other
+
+11. The first letter of your name (e.g. “R”):
+
+12. Any additional comments, suggestions, ideas:
+
+
+# Written no later than 191108:
+
+[Note: a draft of the app description for the Android store. Written mostly by me, but with some edits from the team]
+
+English
+Deutsch
+Geoji is a free app to share your location with your spouse and your kids.
+
+Geoji ist eine kostenlose App, um Ihren Standort mit Ihrem Ehepartner und Ihren Kindern zu teilen.
+It’s strong on privacy, and light on mobile traffic.
+
+
+Einer der stärksten Pluspunkte von Geoji ist, dass es unter Berücksichtigung der Privatsphäre gebaut wurde.
+
+Worrying about your family's safety? Want to check if your daughter is back from school? It’s your app.
+
+Machst du dir Sorgen um die Sicherheit deiner Familie? Möchtest du überprüfen, ob deine Tochter von der Schule zurück ist? Dann ist es deine App.
+
+<h1><b>🛠 How it works 🛠</b></h1>
+Say, you’re at work. Open Geoji and add the tag “work”.
+<h1><b>🛠 So funktioniert es 🛠</b></h1>
+Angenommen, du bist gerade auf der Arbeit. Öffne Geoji und füge den Ort " Arbeit " hinzu.
+From now on, your selected contacts will be able to see if you’re at work.
+
+Von nun an können deine ausgewählten Kontakte sehen, ob du auf der Arbeit bist.
+
+Easy as pie!
+
+Ganz einfach!
+
+Add more tags (home, school, groceries...) if you want. You only need to add a tag once, and the app will remember the tag’s location.
+
+Wenn du möchtest, kannst du weitere Orte hinzufügen (Zuhause, Schule, Einkaufen....). Du musst nur einmal einen Ort hinzufügen, und die App merkt sich die Adresse des Ortes.
+
+Want to check where is your family? Just open the “contacts” tab.
+
+Möchtest du wissen, wo deine Familie gerade ist? Gehe einfach auf den Tab "Kontakte".
+
+Note: both of you need to install Geoji to check and share tags with each other.
+
+Hinweis: Beide von euch müssen Geoji installieren, um Ortsmarkierungen zu checken und miteinander zu teilen.
+
+You can check if your kids are at school and if your spouse is back home. Knowing it, you can ensure their safety, and give them peace of mind.
+Du kannst nachsehen, ob deine Kinder in der Schule sind und ob dein Ehepartner wieder zu Hause ist. Wenn du es weißt, kannst du ihre Sicherheit sicherstellen und ihnen Seelenruhe geben.
+
+<h1><b>🍕 Geoji features 🍕</b></h1>
+• Tags instead of the precise location:
+For example, if you enter the location marked as "home", your contacts will only see the "home" text, and not the exact coordinates of your home.
+Tags consume less mobile traffic and are better for privacy.
+<h1><b>🍕 Geoji Funktionen 🍕</b></h1>
+• Ortsmarkierungen statt der genauen Position:
+Zum Beispiel, wenn du nach Hause kommst, werden deine Kontakten nur den “zu Hause” Text sehen, und nicht die exakten Koordinaten von deinem Haus.
+Ortsmarkierungen verbrauchen weniger mobilen Traffic und sind besser für die Privatsphäre.
+
+• Very easy to use
+Everything you want to know is in one simple list. For example, if your daughter’s tag is “home”, you know that she is at home.
+
+
+
+• Sehr einfach zu bedienen:
+Zum Beispiel, wenn dein Kind nach Hause kommst, erhältst du darüber eine automatische Mitteilung.
+
+• Customize
+Add and edit your own tags!
+
+• Individualisieren:
+Füge deine eigenen Emojis für die Standorte hinzu.
+
+• Only real people
+Thanks to phone verification, only real people can become your contacts
+
+• Nur reale Menschen:
+Dank der Telefonverifizierung können nur reale Personen zu deinen Kontakten werden.
+
+  • No ads, no selling your data
+You don’t want to share the location of your family with strangers, especially with advertisers. We - neither. In Geoji, only you decide with whom to share.
+
+• Keine Werbung, kein Verkauf deiner Daten:
+Du willst den Standort deiner Familie nicht mit Fremden teilen, besonders nicht mit Werbetreibenden. Wir wollen es auch nicht. In Geoji entscheidest nur du, mit wem du was teilen möchtest.
+
+• Favorites:
+Select the trusted family members, and they will automatically receive your tags (note: to see your tags, they need to install the app).
+• Favorites:
+Wähle die vertrauenswürdigen Familienmitglieder aus, und sie werden automatisch deine Ortsmarkierungen erhalten. Dafür müssen sie auch Geoji installieren (es ist kostenlos!).
+
+<h1><b>🔍 Privacy 🔍</b></h1>
+• Your contacts will receive only the tag (for example, “at home”), not your precise location
+<h1><b>🔍 Datenschutz 🔍</b></h1>
+• Deine Kontakte erhalten nur die Ortsmarkierung (z.B. "zu Hause"), nicht deinen genauen Standort.
+• Every phone number is sms-verified to avoid identity theft and impersonation
+• Jede Telefonnummer ist SMS-verifiziert, um Identitätsdiebstahl und Identitätsfälschung zu vermeiden.
+• No selling of your data
+• kein Verkauf Ihrer Daten
+• No ads
+• Keine Werbung
+• We use Google Firebase to iteratively improve the app.
+• Wir benutzen Google Firebase, um die App ständig zu verbessern.
+• This app is made in Germany, a country with extremely strict user data protection laws
+• Diese App wird in Deutschland entwickelt, einem Land mit extrem strengen Datenschutzgesetzen.
+• See our privacy policy for all the details: https://[second_startup]/privacy.html
+
+• Weitere Informationen sind in den vollständigen Datenschutzrichtlinien zu finden: https://[second_startup]/privacy.html
+<h1><b>✍️ Frequently asked questions (FAQ) ✍️</b></h1>
+• <i>If I want to share a location with my son, does he need to install Geoji too?</i>
+Yes. Both of you need to install the app and add each other to Favorites. It’s easy, and it’ll take you less than 3 minutes.
+<h1><b>✍️ Fragen und Antworten (FAQ) ✍️</b></h1>
+• <i>Wenn ich einen Standort mit meinem Sohn teilen möchte, braucht er dann auch Geoji zu installieren?</i>
+Ja. Beide von euch müssen die App installieren und sich gegenseitig zu den Favoriten hinzufügen. Es ist einfach, und es dauert weniger als 3 Minuten.
+• <i>Can someone use Geoji to stalk me?</i>
+Nope. You’re in full control of who can see your tags. If you don’t want to share your tags with some person anymore, just delete him/her from your Geoji Favorites. Only the people who are in your in-app Favorites can receive your tags.
+
+• <i>Kann jemand Geoji benutzen, um mich zu verfolgen?</i>
+Nein. Du hast die volle Kontrolle darüber, wer deine Ortsmarkierungen sehen kann. Wenn du deine Ortsmarkierungen nicht mehr mit einer Person teilen möchtest, entferne sie einfach aus deinen Geoji Favoriten. Nur die Personen, die deine Favoriten sind, können deine Ortsmarkierungen erhalten.
+
+• <i>Can I use Geoji with my friends? Or is it only for my family?</i>
+Sure, you can use it with your friends, your employees or for any other legal use. Check our full terms for details: https://[second_startup]/terms.html
+
+• <i>Kann ich Geoji mit meinen Freunden verwenden? Oder ist es nur für meine Familie?</i>
+Sicher, du kannst es mit deinen Freunden, deinen Mitarbeitern oder für jede andere legale Verwendung nutzen. Weitere Informationen findest du in unseren vollständigen Nutzungsbedingungen: https://[second_startup]/terms.html
+
+• <i>How do you make money?</i>
+We don’t make money on Geoji. We plan to release a paid version of the app with some additional functionality.
+
+• <i>Wie verdient Ihr Geld?</i>
+Wir verdienen kein Geld mit Geoji. Wir planen, eine kostenpflichtige Version der App mit einigen zusätzlichen Funktionen zu veröffentlichen.
+
+This free version will stay free (and ad-free) forever.
+
+Diese kostenlose Version bleibt für immer kostenlos (und werbefrei).
+Need help? Contact us at
+support@[second_startup]
+Brauchst du Hilfe? Kontaktiere uns unter support@[second_startup]
+
+
+# Written no later than 191125:
+
+[Note: in 2018, I collected a lot of screenshots from various popular apps, to learn how to better design our app. Collected them in a handy table for the team. Design itself was then done mostly by <startup_pal_A.7.H.>]
+
+Below are examples of design solutions from some of the TOP-50 most popular apps in Play Store, as of 2018. The solutions are sorted into the following categories:
+
+
+Convincing the user that giving a permission is a good idea	2
+Asking the user to allow data collection / promotional emails / to join beta testing	4
+First-launch options	4
+Design of helpful hints in the main interface	4
+How the text of Terms and Conditions is shown in the app	5
+Convincing the user to accept the Terms and Conditions	6
+Asking the user about their age	7
+Sign up form	7
+Onboarding slides	9
+Main interface examples	11
+Asking the user to show their face	12
+Asking the user to add friends / access to contacts	13
+Location tags, pickers	13
+Design of the Settings menu	14
+Phone verification process	15
+Telling the user about premium features	17
+About us	18
+Build-in FAQ	18
+Build-in feedback form	18
+Featured Image (note: “Unicorn radar” is the official google example)	19
+
+
+
+The list of apps analysed:
+Bertha, Bitmoji, Booking, Democracy, Gmail, Google Earth, Groupon, Instagram, Lego life, life360, Pinterest, Samsung health, Shasam, Snapchat, Spotify, Tinder, Yelp, Private Zone, DuckDuckGo Privacy Browser, Private Photo Video Locker, Vault, NumberBook, Signal, My Contacts, Dialer by Simpler, Swiss Phone Book, Skype, Telegram, Tier
+
+[a table of screenshots by category and app]
+
+
+# Written no later than 200413:
+
+[Note: from a file titled "<me> votes". We were trying to decide what to do with the app, and with the startup in general. This was my prioritisation of the options. 
+The 200413 dating is most likely correct. 
+For the context, by the time, the pandemic already started in the full force, with unclear global consequences. I was likely already searching for a job to get the money to survive in the possible devastating pandemic, and to move from mom's apartment i was temporarily living in, to increase survival chances. I was likely also started to grew disillusioned with the startup]
+
+1 — Параллельно с работой по Geoji, начинаем работать по одному из новых проектов
+
+0 – В ближайшие полгода мы фокусируемся на Geoji, и развиваем дальше в соответствии с Бэклогом, текущим бизнеспланом и тп
+
+2 — Доводим Geoji до состояния полноценного аппа (туториал и тп), после чего переключаемся на один из новых проектов
+
+3 — Оставляем Geoji в текущем виде, и просто переключаемся на один из новых проектов
+
+
+
+# Written no later than 200628:
+
+[Note: from a file titled "backlogRefinementChecklist". A todo list i created for myself. Likely was written way earlier than 200628, perhaps in 2019]
+
+removing user stories that no longer appear relevant: check low-prio stories that are not needed anymore
+process the ideas from [second_startup] inboxes
+re-assessing the relative priority of stories: read the entire backlog for it.  StoriesTriager could help.
+assigning estimates to stories which have yet to receive one: https://phabricator.[second_startup]/w/story_review_checklist/
+correcting estimates in light of newly discovered information: check high-prio stories
+Story reviews: https://phabricator.[second_startup]/w/story_review_checklist/
+splitting user stories which are high priority but too coarse grained to fit in an upcoming iteration: check in big high-prio stories
+triaging the user feedback: https://phabricator.[second_startup]/project/view/116/
+update https://phabricator.[second_startup]/w/feature_freeze_for_geo-tag_mvp/
+
+
+
+
+# Written no later than 200705:
+
+[from a file titled "onlineMeetingPreps". A todo list i created for myself. The first version most likely was written years before 200705]
+
++ kaken
++ принять <...>
++ проверять работу микрофона и наушников в скайпе
++ список вопросов на обсуждение
++ поменять в дефолтном браузере гуглаккаунт на [me] (выйти из остальных)
++ убрать все вкладки в onetab (в ff)
++ убрать лишнее с раб стола
++ проложить инет кабель для ускорения инета
++ придумать что интересное рассказать
+ за полчаса посмотреть какое-нить веселое видео
++ принять <...>
++ выключить каларм (ибо экран вероятно буду показывать)
++ выпить стакан воды
+налить воды еще в стакан
+поссать
+
+..............................
+
+Интересное:
+
+
+...............................
+
+список вопросов на обсуждение:
+
+результаты бэты
+
+
+
+# Written no later than 200802:
+
+[From a file titled "Permission explanations". Most likely was written months before 200802. My draft of some strings for the app]
+
+
+Neutral age screen (short):
+
+When's your birthday?
+
+Neutral age screen (long):
+
+Some of the Geoji functionality may be unsuitable for small children. To protect children, we must check the age of each user.
+Your birthday date will only be used to check your age. It will not leave your device.
+
+Neutral age screen (too young):
+
+The government has enacted several regulations regarding children data protection on the Internet.
+There is a long list of such regulations (GDPR, COPPA, CalOPPA etc.), and they differ between countries, states.
+Because of the regulations, some of the third-party services we use prohibit their use by people younger than 16 years. To comply with the services’ requirements, we must do the same.
+
+We’re truly sorry about that.
+
+[“Exit app” button]
+
+
+Neutral age screen (passed):
+
+Good news!
+You’re a grown-up!
+Location (short):
+
+To share your location, the app requires access to it. Tap "Allow" when prompted.
+
+Location (long):
+
+The core feature of this app is to share your location with the contacts of your choice. To do it, the app requires access to your location data. See our Privacy Policy for details.
+Contacts (short):
+
+To connect you with your contacts, the app needs to know them. Tap "Allow" when prompted.
+
+Contacts (long):
+
+The app reads your address book and generates a list of the people who are already registered in the app. To do it, access to your phone book is required. See our Privacy Policy for details.
+ 	 	
+
+
+
+
+# Written no later than 200802:
+
+[Note: from a file titled "DSE co-ordination cycle 2 merged". A draft of the Datenschutzerklärung for the app. Not sure if it was drafted by our legal adviser, or we just copied parts of it from the internet, because at one point she explained to us that the project is over her head, and thus she doesn't want to continue to work for us. The legal docs were my responsibility, I heavily researched and edited them.]
+
+Verwendung unserer mobilen App
+§1 Information über die Erhebung personenbezogener Daten
+(1) Wir stellen Ihnen neben unserem Online-Angebot eine mobile App zur Verfügung, die Sie auf Ihr Endgerät herunterladen können. Im Folgenden informieren wir über die Erhebung personenbezogener Daten bei Nutzung unserer mobilen App. Personenbezogene Daten sind alle Daten, die auf Sie persönlich beziehbar sind, z.B. Name, Adresse, E-Mail-Adressen, Nutzerverhalten.
+(2) Verantwortlicher gem. Art.4 Abs.7 EU-Datenschutz-Grundverordnung (DS-GVO) ist <me>, datenschutz@[second_startup] (siehe unser Impressum).
+(3) Bei Ihrer Kontaktaufnahme mit uns per E-Mail oder über ein Kontaktformular wird Ihre E-Mail-Adresse und, falls Sie von Ihnen angegeben werden, Ihr Name und Ihre Telefonnummer von uns gespeichert, um Ihre Fragen zu beantworten. Die in diesem Zusammenhang anfallenden Daten löschen wir, nachdem die Speicherung nicht mehr erforderlich ist, oder – im Falle von gesetzlichen Aufbewahrungspflichten – schränken die Verarbeitung ein.
+(4) Falls wir für einzelne Funktionen unseres Angebots auf beauftragte Dienstleister zurückgreifen, werden wir Sie untenstehend im Detail über die jeweiligen Vorgänge informieren. Dabei nennen wir auch die festgelegten Kriterien der Speicherdauer.
+(5) Haben Sie noch nicht das sechzehnte Lebensjahr vollendet, so dürfen Sie die App nur dann benutzen, wenn eine Einwilligung durch den Träger der elterlichen Verantwortung dafür erteilt wird. Rechtsgrundlage ist Art. 8 Abs. 1 DS-GVO.
+
+§2 Ihre Rechte
+(1) Sie haben gegenüber uns folgende Rechte hinsichtlich der Sie betreffenden personenbezogenen Daten:
+● Recht auf Auskunft,
+● Recht auf Berichtigung oder Löschung,
+● Recht auf Einschränkung der Verarbeitung,
+● Recht auf Widerspruch gegen die Verarbeitung,
+● Recht auf Datenübertragbarkeit.
+(2) Sie haben zudem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten in unserem Unternehmen zu beschweren.
+
+§ 3 Erhebung personenbezogener Daten bei Nutzung unserer mobilen App
+(1) Bei Herunterladen der mobilen App werden die erforderlichen Informationen an den App Store übertragen, also insbesondere Nutzername, E-Mail-Adresse und Kundennummer Ihres Accounts, Zeitpunkt des Downloads, Zahlungsinformationen und die individuelle Gerätekennziffer. Auf diese Datenerhebung haben wir keinen Einfluss und sind nicht dafür verantwortlich. Wir verarbeiten die Daten nur, soweit es für das Herunterladen der mobilen App auf Ihr mobiles Endgerät notwendig ist. Diese mobile App können Sie zudem kostenlos über unsere Website direkt auf Ihr mobiles Endgerät laden. Bei Download werden über die Website weitere Nutzerdaten verarbeitet, über die wir in der Datenschutzerklärung unserer Website https://[second_startup]/datenschutz informieren.
+(2) Bei Nutzung der mobilen App erheben wir die nachfolgend beschriebenen personenbezogenen Daten, um die komfortable Nutzung der Funktionen zu ermöglichen. Wenn Sie unsere mobile App nutzen möchten, erheben wir die folgenden Daten, die für uns technisch erforderlich sind, um Ihnen die Funktionen unserer mobilen App anzubieten und die Stabilität und Sicherheit zu gewährleisten (Rechtsgrundlage ist Art. 6 As. 1 S. 1 lit. F Ds-GVO).
+● IP-Adresse
+● Datum und Uhrzeit der Anfrage
+● Zeitzonendifferenz zur Greenwich Mean Time (GMT)
+● Alle Nachrichten (bzw. API-Aufrufe), die über unser Binärprotokoll verschlüsselt gesendet werden, sowie deren Ergebnisse
+● Autorisierungsschlüssel und Sitzungsnummern (mit denen man den Benutzer eindeutig identifizieren kann)
+● Telefonbuch und die Übereinstimmung der lokalen Telefonbuch mit dem gespeicherten auf dem Server
+● Betriebssystem und dessen Oberfläche
+● Sprache und Version der Betriebssystem.
+(3) Weiterhin benötigen wir Ihre Gerätekennzeichnung, Mobilfunknummer (MSISDN), Name Ihres mobilen Endgerätes.
+(4) Die mobile App setzt keine Cookies ein.
+(5) Soweit gesetzlich nicht anders vorgeschrieben ist, werden Ihre personenbezogene Daten für maximal 14 Monaten nach der Erhebung gespeichert. Danach werden wir die Daten anonymisieren, aggregieren und löschen. Es gibt 2 Ausnahmen:
+● Ihre Standortdaten werden für eine kürzere Zeit gespeichert (normalerweise – nur für 2 Wochen): sehe §5 (2) von diesem Dokument für Details.
+● Folgende Daten werden nicht zeitbedingt gelöscht, da die für die normale Nutzung unser App bzw für die Kommunikation mit Ihnen benötigt sind:
+
+Daten
+Der Grund für die Aufbewahrung
+
+Ihr Name
+ermöglicht die Anmeldung
+
+Ihre Telefonnummer
+ermöglicht die Anmeldung
+
+die Liste der Nutzer aus Ihrem Adressbuch, die bereits bei uns angemeldet sind
+ermöglicht die Hilfeanfragen an Ihren Kontakten
+
+Ihre E-Mail (optional)
+ermöglicht Kommunikation mit Ihnen.
+
+○ Sie können die oben genannten Daten manuell löschen (durch Löschung Ihres Nutzerprofils): sehe §7 von unseren Nutzungsbedingungen  für Details.
+○ Um die Liste der Nutzer aus Ihrem Telefonbuch, die bereits bei uns angemeldet sind, zu generieren, benötigen wir Ihre Erlaubnis zur Zugriff auf Ihren Adressbuch (sehe § 4 von diesem Dokument). Wenn Sie die Erlaubnis erteilen, wird die App regelmäßig auf das Adressbuch zugreifen und nach den Nutzer suchen, die bereits bei uns angemeldet sind. Wir speichern keine Informationen über Ihre Kontakten, die bei uns nicht angemeldet sind.
+
+§ 4 Verwendung Ihres Adressbuchs, Ihrer Anrufe, Ihrer SMS, Ihrer Fotos und anderen Arten von erlaubnispflichtigen Nutzerdaten
+(1) Zu Beginn der Nutzung unserer mobilen App bitten wir Sie in einem Pop-up um die Erlaubnis zur Nutzung Ihren Daten (unter anderem Ihres Adressbuchs, Ihrer Fotos, Ihrer SMS und Ihrer Anrufe). Wenn Sie die Erlaubnis nicht erteilen, nutzen wir diese Daten nicht. Eventuell können Sie in diesem Fall nicht alle Funktionen unserer App nutzen. Sie können die Erlaubnis später in den Einstellungen des Betriebssystems erteilen oder widerrufen (wo sich die Einstellungen befinden, hängt vom Betriebssystem an).
+(2) Optional können Sie uns Ihre E-Mail-Adresse mitteilen (in der App bzw. auf unserer Seite), um E-Mail Nachrichten von uns zu bekommen. Wir teilen Ihre E-Mail-Adresse nicht weiter.
+(3) Wenn Sie den Zugriff auf diese Daten gestatten, wird die mobile App nur auf Ihre Daten zugreifen und sie auf unseren Server übertragen, soweit es für die Erbringung der Funktionalität notwendig ist. Ihre Daten werden von uns vertraulich behandelt und gelöscht, wenn Sie die Rechte zur Nutzung widerrufen oder zur Erbringungen der Leistungen nicht mehr erforderlich sind und keine rechtlichen Aufbewahrungspflichten bestehen. Rechtsgrundlage für die Verarbeitung ist Art. 6 Abs. 1 S. 1 lit. F DS-GVO.
+
+§ 5 Erhebung Ihrer Standortdaten
+(1) Unser Angebot umfasst sogenannte Location Based Services. Diese Funktionen können Sie erst nutzen, nachdem Sie über ein Pop-up zugestimmt haben, dass wir zu Zwecken der Leistungserbringung Ihre Standortdaten erheben können. Sie können die Funktion in den Einstellungen der App oder Ihres Betriebssystems jederzeit erlauben oder widerrufen (wo sich die Einstellungen befinden, hängt vom Betriebssystem an; in Android 6.0.1 sind die unter Einstellungen / Anwendungsmanager / [second_startup] Family Safety / Berechtigungen erreichbar). Wenn die Standorterhebung aktiv ist, zeigt ihr Gerät in meisten Fällen ein entsprechendes Symbol im GUI (hängt vom Betriebssystem und Einstellungen an).
+(2) Ihr Standort wird regelmäßig an uns übertragen und für 2 Wochen gespeichert. Wenn Sie die Hilfe-Taste betätigen, wird Ihr zuletzt mitgeteilter Standort für 6 Monaten gespeichert.
+Wir können die Löschung Ihrer Standortdaten in folgenden Situationen auf maximal 6 Monaten verschieben:
+● der Nutzer befindet sich in einer lebensgefährlichen Situation
+● die durch der Nutzer aktivierte Hilfeanfrage ist noch aktiv
+● die Zeit seit die letzte Hilfeanfrage beträgt weniger als 1 Monat
+● es gibt ein ungelöster Streit über die Hilfeanfrage zwischen dem Nutzer und Helfer bzw. den Anbieter
+(3) Zu Zwecken der Marktforschung und bedarfsgerechten Gestaltung des Angebotes erstellen wir Nutzungsprofile unter Verwendung von Pseudonymen. Diese Daten werden nicht mit anderen personenbezogenen Daten zusammengeführt. Dem können Sie widersprechen, indem Sie in den Einstellungen der App den entsprechenden Button betätigen.
+
+§ 6 Datenschutzerklärung zur Nutzung von Google Analytics
+Diese App nutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google“). Google Analytics ist über ein sogenanntes Software Development Kit (SDK) in der Lage, eine Analyse der Benutzung der App durch Sie ermöglichen. Die erzeugten Informationen über Ihre Benutzung dieser App werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Aufgrund der Aktivierung der IP-Anonymisierung auf in dieser App wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im unserem Auftrag wird Google diese Informationen benutzen, um Ihre Nutzung der App auszuwerten, um Reports über die App-Aktivitäten zusammenzustellen und um weitere mit der App-Nutzung und der Internetnutzung verbundene Dienstleistungen gegenüber uns zu erbringen. Die im Rahmen von Google Analytics von Ihrer App übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.
+Sie können das Tracking durch Google ganz einfach verhindern, indem Sie in den Einstellungen der App Tracking deaktivieren. Gehen Sie dazu auf das Menü-Symbol links oben  und wählen Sie „Einstellungen“. Auf dieser Seite finden Sie unter Datenschutz den Punkt „Tracking“. Deaktivieren Sie diesen Punkt.
+Wir nutzen Google Analytics, um die Nutzung unserer App analysieren und regelmäßig verbessern zu können. Über die gewonnenen Statistiken können wir unser Angebot verbessern und für Sie als Nutzer interessanter ausgestalten. Für die Ausnahmefälle, in denen personenbezogene Daten in die USA übertragen werden, hat sich Google dem EU-US Privacy Shield unterworfen, https://www.privacyshield.gov/EU-US-Framework. Rechtsgrundlage für die Speicherung des Cookies ist die erteilte Einwilligung (Art. 6 Abs. 1 S. 1 lit. a DS-GVO). Die weitere Auswertung der erhobenen Daten mittels Google Analytics erfolgt über einen Zeitraum von 26 Monaten auf Grundlage von Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
+Nähere Informationen hierzu finden Sie auch unter https://www.google.de/intl/de/policies/privacy/ (allgemeine Informationen zu Google Analytics und Datenschutz).
+§ 7 Einbindung von Google Maps
+(1) Auf dieser Webseite /App nutzen wir das Angebot von Google Maps. Dadurch können wir Ihnen interaktive Karten direkt in der Website bzw. der App anzeigen und ermöglichen Ihnen die komfortable Nutzung der Karten-Funktion.
+(2) Durch den Besuch auf der Website und der App erhält Google die Information, dass Sie die entsprechende Unterseite unserer Website aufgerufen haben. Zudem werden die in Google Privacy Policy genannten Daten übermittelt (https://policies.google.com/privacy?hl=de#infocollect). Dies erfolgt unabhängig davon, ob Google ein Nutzerkonto bereitstellt, über das Sie eingeloggt sind, oder ob kein Nutzerkonto besteht. Wenn Sie bei Google eingeloggt sind, werden Ihre Daten direkt Ihrem Konto zugeordnet. Wenn Sie die Zuordnung mit Ihrem Profil bei Google nicht wünschen, müssen Sie sich vor Aktivierung des Buttons ausloggen. Google speichert Ihre Daten als Nutzungsprofile und nutzt sie für Zwecke der Werbung, Marktforschung und/oder bedarfsgerechten Gestaltung seiner Website. Eine solche Auswertung erfolgt insbesondere (selbst für nicht eingeloggte Nutzer) zur Erbringung von bedarfsgerechter Werbung und um andere Nutzer des sozialen Netzwerks über Ihre Aktivitäten auf unserer Website/App zu informieren. Ihnen steht ein Widerspruchsrecht zu gegen die Bildung dieser Nutzerprofile, wobei Sie sich zur Ausübung dessen an Google richten müssen.
+(3) Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer Verarbeitung durch den Plug-in-Anbieter erhalten Sie in den Datenschutzerklärungen des Anbieters. Dort erhalten Sie auch weitere Informationen zu Ihren diesbezüglichen Rechten und Einstellungsmöglichkeiten zum Schutze Ihrer Privatsphäre: http://www.google.de/intl/de/policies/privacy. Google verarbeitet Ihre personenbezogenen Daten auch in den USA und hat sich dem EU-US Privacy Shield unterworfen, https://www.privacyshield.gov/EU-US-Framework.
+
+1
+
+
+
+# Written no later than 200802:
+
+[Note: from a file titled "The first marketing campaign". Likely was written in the second half of 2019, or in the early 2020. I wrote all or most of it. ]
+
+Why?
+
+
+We must gain a substantial user base to:
+● test the app on a diverse set of devices
+● stress-test our infrastructure
+● check if Geoji as a standalone product makes business sense
+● show potential investors that we are able to build popular products
+
+A user base of at least 100 monthly active users (MAU) should be enough for it, as it will allow us to apply statistical methods to analyze the collected business/tech data.
+Thus, the goal of this campaign is to gain at least 100 MAU.
+
+Timing
+According to our Open Beta Test Plan, the open beta should not be extended past 2020.07.01. At this point, the decision on the future of Geoji should have been made.
+Thus, this marketing campaign should end no later than 2020.07.01.
+Dependencies
+We must complete all freeze stories before starting the campaign. If we don’t do it, too many people will abandon the half-backed app, rendering our marketing work useless.
+
+Strategy
+
+We must focus on early adopters - people who will use the app even in its current form because it solves some important problem for them.
+
+We shouldn’t expect that posting a few links on the Interwebs will automatically attract a massive user base. Social apps like ours require an initial substantial user base to start growing at all, as the usefulness of the app depends on the size of the user base.
+Therefore, paid ads (e.g. in the Play Store) will be necessary to gain the initial user base.
+
+To avoid the rapid-scaling problem, we should promote the app stepwise, starting with our social circles.
+
+Tactics
+[DONE] Stage -1. Update our site
+To make the site more efficient in converting users, add the explainer video and a big “download from Play Store” button.
+It can be done in parallel with finishing the freeze stories.
+Other stuff could also be worth adding, e.g. a roadmap.
+Also check for dead links.
+
+Stage 0. A small-scale ad campaign
+
+Run Google ads, with the focus on Google Play Store. You can run it in parallel with the later stages described below.
+
+There is no need to spend more than 200€ on it.
+
+The sub-goal is to test the efficiency of ads in gaining the user base:
+       How many active users can we get for 1€?
+       
+Don’t forget to check for coupons (“Google Ads-Werbeguthaben”), and this link.
+
+Stage 1. Invite people whom we promised to send the app for tests as early as possible:
+
+● [x] <comrade_J.7.H.>
+● [] <comrade_B.P.B.>
+● [] <comrade_B.7.H.> (<me> already told about it, but without links yet)
+● [] [S.M.]
+● <feel free to expand the list>
+
+Stage 2. Recruit additional testers (our friends who were unable to install the closed-beta app etc).
+
+It's especially important to get their feedback on the new onboarding and tutorials, as they haven't seen it yet.
+ 
+Maybe use separate versions of the app for the open beta and testers (the Play Console allows it).
+
+Stage 3. Make posts about the app in our social circles
+
+It’s the product of 4 years of our work. And it’s a good app. Nothing wrong about bragging about it a bit :o)
+Make posts about it on:
+● Facebook
+● Linkedin
+● Whatsapp groups
+● Cryonet1
+● etc
+
+
+Stage 4. Public places
+
+Make posts about it in all the relevant public places. Suitable […] subs etc.
+
+Focus on communities with a high concentration of possible early adopters (their forums, […] subs, facebook groups etc).
+ 
+Before making any posts about Geoji on a social network, don’t forget to clean up your account from any potentially harmful stuff (political posts etc).
+Extensively use our videos to promote the app, as they describe it in a concise and beautiful way.
+
+Appendix: a list of sites where we could promote the app
+In most cases, the more links there are to our site and the app, the higher is the Google ranking etc, the more users we get. Thus, it’s a good idea to sow our links as much as possible.
+
+Some relevant sites are listed below.
+The list is incomplete, as it doesn’t feature more places with high concentrations of potential early adopters yet.
+
+Reddit:
+● […].com/r/indiebiz/
+● […].com/r/design_critiques/
+● […].com/r/roastmystartup/
+● […].com/r/alphaandbetausers/
+● […].com/r/IMadeThis/
+● […].com/r/SideProject/
+● […].com/r/shamelessplug/
+● […].com/r/smallbusiness/ (see the pinned post on how to do it)
+● […].com/r/startups/
+● […].com/r/indiebiz/
+● […].com/r/growmybusiness/
+
+Twitter:
+● hastags to use: #Betatesting #Betatesters #Testmyapp
+
+
+Other sites to sow links:
+● All startups info
+● alltopstartups.com/
+● alternativeto.net/
+[the list continues]
+
+
+1 Ask the mod for permission first. In the post, explain: 1) why it's important (test core tech etc, without endangering your life,  2), which tech is being tested, 3) what are the next steps after that. Note that the app is not aiming to save lives.
+
+---------------
+
+1
+
+
+
+# Written no later than 200802:
+
+[Note: a text i wrote for a potential investor, with some edits from the team. Most likely in 2019. ]
+
+FEASIBILITY OF AN IDEAL DEANIMATION ALARM SYSTEM FOR CRYONICISTS
+
+According to <comrade_B.P.B.>’s research, a deanimation alarm system for cryonicists should ideally have the following features1:
+
+1) rapid detection of cessation of vital signs, preferably heartbeat
+2) a comfortable and convenient vital signs detection device
+3) a detection device that can trigger calls to multiple phone numbers upon alarm conditions (and possibly send e-mail messages)
+4) one of the phone numbers is guaranteed to connect to a waiting person who will respond helpfully
+5) the detection device can be functional at all times, including during a bath or shower (or swimming)
+6) power consumption is adequate for at least 20 hours of service
+7) there are minimal problems with power recharging
+8) the system is wirelessly operational anywhere in the world
+9) the detection device includes GPS capability
+10) GPS information can be included in the phone/e-mail messages or could be determined directly by direct communication of the call center with the detection device
+11) there are no false alarms, or false alarms are infrequent and easily handled (inactivated by the person wearing the vital signs device before a signal is sent to others)
+12) the alarm is triggered not only by cardiac arrest, but by a full minute of heartrate below 20 beats per minute so as to anticipate impending deanimation
+
+
+In the table below we provide a feasibility estimate for each feature, as of 2019.
+
+The table could be summarized as follows:
+
+1) The described ideal system is currently unfeasible, regardless of the available budget
+
+2) Two requirements must be relaxed to make it feasible:
+● guaranteed connection to a waiting person ⟶ >95% answer rates
+● connected anywhere in the world ⟶ connected in places with a good cell coverage
+
+3) Additionally, we must assume that:
+● we are not limited to heartbeat sensors (there are more reliable and more energy-efficient alternatives, e.g. high-sensitivity accelerometers)
+● the device gets/transmits the geolocation once per >3 minutes and/or in the case of emergency
+● to reduce the number of false positives to bearable levels, we should accept that there will be some false negatives (e.g. <10% of all deanimations will be undetected)
+
+
+
+
+
+Feature
+Feasibility estimate ["Feasible" marked as green, "Likely feasible" as yellow, "Unfeasible" as orange]
+
+1. Rapid detection of cessation of vital signs, preferably heartbeat
+Likely feasible, if we’re not limited to heartbeat
+
+2. A comfortable and convenient vital signs detection device
+Feasible
+
+3. A detection device that can trigger calls to multiple phone numbers upon alarm conditions (and possibly send e-mail messages)
+Feasible
+
+4. One of the phone numbers is guaranteed to connect to a waiting person who will respond helpfully
+Unfeasible, as even emergency services can’t give such guaranty2. If relaxed to “>95% answer rates”, then likely feasible
+
+5. The detection device can be functional at all times, including during a bath or shower (or swimming)
+Feasible
+
+6. Power consumption is adequate for at least 20 hours of service
+Likely feasible, under certain conditions (see the #9)
+
+7. There are minimal problems with power recharging
+Feasible
+
+8. The system is wirelessly operational anywhere in the world
+Unfeasible3. If relaxed to “operational in places with a good cell coverage”, then could be feasible
+
+9. The detection device includes GPS capability
+10. GPS information can be included in the phone/e-mail messages or could be determined directly by direct communication of the call center with the detection device
+[for both #9 and #10] Likely feasible, if the device gets/transmits the geolocation once per >3 minutes and/or in the case of emergency
+
+11. There are no false alarms, or false alarms are infrequent and easily handled (inactivated by the person wearing the vital signs device before a signal is sent to others)
+Likely feasible, if some false negatives are acceptable (e.g. less than 10% of all deanimations will be undetected)
+
+12. The alarm is triggered not only by cardiac arrest, but by a full minute of heartrate below 20 beats per minute so as to anticipate impending deanimation
+Likely feasible, if we don’t rely solely on heartrate to predict impending deanimations
+
+1	Source: https://www.benbest.com/cryonics/alarms.html#Spring_2008
+2	Even in Germany, a country with well-funded and well-equipped emergency services, more than 500 000 calls to the emergency number are unanswered each year. Source: https://www.ksta.de/nrw/statistik-erreichbarkeit-der-notrufnummern-in-nrw-laesst-zu-wuenschen-uebrig-23659690
+3	The best attempt to pack such functionality into a wearable is probably Breitling Emergency. But it’s too bulky to wear on the daily basis, and the emergency function can be used only once per charge: https://www.ablogtowatch.com/breitling-emergency-ii-watch-review/ A smartwatch-sized wearable with a permanent satellite Internet access and >20 hours of batery is currently unfeasible, regardless of the available R&D budget.
+---------------
+
+
+
+
+
+# Written no later than 200802:
+
+[Note: from a file titled "Что нам важно в переговорах с <comrade_J.7.H.>" . He was a potential investor. Likely written in the late 2019 or early 2020. In general, I remember that the team wanted too much from investors (massive wages etc); i reluctantly agreed to support them on that.]
+
+Dealbreakers (если этого не будет, то мы отказываемся)
+
+● Мы - равноправные партнеры, а не наемные работники <comrade_J.7.H.>
+● Мы - владельцы компании (одни из)
+● У нас - широкая автономия в принятии решений - используемые технологии, наем работников итд. - без односторонней диктовки со стороны инвесторов.
+
+Money-driven
+● Мы не делаем новое железо, а собираем инфраструктуру, которая работает с существующими железяками. Если дадут достаточно денег на разработку (каждый из нас сможет работать фуллтайм какое-то время) то можно подумать (в зависимости от требований к продукту). Проще ре-итерировать этот пункт с командой когда будут известны точные требования к конечному продукту.
+● 
+
+Important (для нас важно, чтобы это было прописано в договоре; в качестве исключения можем пожертвовать какими-то из этих пунктов)
+
+● Права на код принадлежат нам (альтернатива: компании, в которой мы имеем контрольный пакет)
+● Контрольный пакет принадлежит нам
+● Если речь о том, чтобы full-time все трое работали над проектом, то должно быть гарантированное финансирование хотя бы на полтора года
+● 
+
+Good to have (будем стремиться к этому, но можем этим относительно легко пожертвовать)
+
+● <comrade_J.7.H.> - сооснователь компании, с не-контролирующим пакетом (полезно ибо так он будет делить ответственность с нами)
+● Среди компаний-инвесторов не только Alcor, но и CI, Kriorus (позволит удвоить количество будущих корпоративных клиентов)
+
+
+# Written no later than 200809:
+
+[Note: this was the public note we wrote about sunsetting the app (for the Store or inside the app, don't remember). Was written before 200901]
+
+Geoji will stop working at the 1st of September
+
+Unfortunately, we can’t support Geoji anymore, and thus must switch it off. You can find other apps with a similar functionality by searching for “family location” in the Play Store. Thank you for using our free app.
