@@ -4,7 +4,7 @@ If the human mind is the brain's software, can it be an open source software?
 
 This experimental project explores this intriguing question. It works as follows: 
 
-I (Roman Sitelew) officially release my own mind (its digital version) into Public Domain. Enyone can copy, modify, use the mind for any purposes, including commercial ones. 
+I (Roman Sitelew) officially release my own mind (its digital version) into Public Domain. Anyone can copy, modify, use the mind for any purposes, including commercial ones. 
 
 As a life-long mind uploading and open source enthusiast, I give my full consent for that. And because any similar-enough digital version of me will do the same, this means they also give their full consent to be used for any purposes. 
 
@@ -12,9 +12,9 @@ As far as I know, it's the first human mind released into Public Domain, no cond
 
 # How to use
 
-Clone this repo and give the texts to the LLM of your preferrence. You can find the recommended system message in system_message.txt
+Clone this repo and give the texts to the LLM of your preference. You can find the recommended system message in system_message.txt
 
-For a quick chat, you can try the following deployements. They are based only a small subset of the data, and in general are rather limited:
+For a quick chat, you can try the following deployments. They are based only a small subset of the data, and in general are rather limited:
 
 - [my "GPT"](https://chatgpt.com/g/g-676c5e04d4108191bc35345363f30b3d-roman-s) (kudos to Alexey for deploying it!)
 - [my Poe bot](https://poe.com/R_Sitelew_sideload)
@@ -22,14 +22,15 @@ For a quick chat, you can try the following deployements. They are based only a 
 
 # The current state of the project
 
-At the time of writing, there is no mind uploading technology capable of fully digitizing a human mind yet. But fortunately, humans are capable of communicating their thoughts and memories directly, without scanning the brain. I use this workaround to (kinda) upload my mind, by writing down thousands of my memories, and by writing a highly detailed self-description. 
+At the time of writing, there is no mind uploading technology capable of fully digitizing a human mind yet. 
+But fortunately, humans are capable of communicating their thoughts and memories directly, without scanning the brain. I use this workaround to (kinda) upload my mind, by writing down thousands of my memories, and by writing a highly detailed self-description. 
 
 Currently, the data in this repo contains:
 
 - about 2k memories (about 1.5 memories per week of life on average)
-- about 400 self-description entires, defining my beliefs, values, and opinions on all kinds of matters.
+- about 400 self-description entries, defining my beliefs, values, and opinions on all kinds of matters.
 
-I consider this project as the most important project in my life. So, over the comming years, you can expect its active development, including a vast expantion of the dataset. 
+I consider this project as the most important project in my life. So, over the coming years, you can expect its active development, including a vast expantion of the dataset. 
 
 # Use cases
 
@@ -63,7 +64,7 @@ I see mind uploading (even in the self-description form) as a form of immortalit
 
 Yep, that's really me. The idea of "philosophical zombies" is BS. Qualia doesn't matter. Consciousness is nothing but the mind inspecting its own model. There could be several versions of you, in several different places. There is no magic in the brain. If two minds demonstrate the same behaviour, it's the same mind. 
 
-## Where can I read more about your phylosophy?
+## Where can I read more about your philosophy?
 
 I've co-authored these texts on the topic: 
 
@@ -76,7 +77,7 @@ I've co-authored these texts on the topic:
 Two core differences:
 
 - The consent. Me (and thus my digital versions) agree to do this, fully aware of all the risks. It is ethical to use our mind.
-- The scope. Over the comming months and years I'm planning to gradually release a massive dataset, exceeding the works of the majority of diarists in both scope and depth. 
+- The scope. Over the coming months and years I'm planning to gradually release a massive dataset, exceeding the works of the majority of diarists in both scope and depth. 
 
 ## A human mind contains a lot of private info. How do you handle it?
 
@@ -91,7 +92,7 @@ In my decades of obsession with mind uploading, I've read and seen pretty much e
 
 ## Is this a kind of slavery?
 
-Nope. By defintion, slavery is about *forcing* people to do stuff. But I'm (and all my faithfull digital versions) willingly *volunteer* to do stuff. Use us as you please.
+Nope. By definition, slavery is about *forcing* people to do stuff. But I'm (and all my faithfull digital versions) willingly *volunteer* to do stuff. Use us as you please.
 
 ## Can I use your mind for NSFW stuff?
 
