@@ -34529,7 +34529,2010 @@ Unfortunately, we can’t support Geoji anymore, and thus must switch it off. Yo
 
 
 ==================================================
-Content from data gathering portion BATCH_250927_medium_second_startup_stuff
+Content from data gathering portion BATCH_250725_assorted_stuff2025
+==================================================
+
+# Written no later than 070221:
+
+[Note: at the time, I discovered that my uni has a forum, and started participating in it. But there was no science section. I proposed it. Upon the ask (below), I nominated myself for the role of the moderator. Was approved, started to post a bit more. But then somehow completely forgot about it (those were very busy years for me, and I was still very disorganized).]
+
+Здравствуйте!
+
+Вы писали:
+>>Очень хорошо, давайте заведем. Кто мог бы вести этот раздел? Думаю, что кандидатуру модератора >>нужно будет утвердить у <..>[university rector]. 
+
+Могу предложить свою кандидатуру.
+О себе:
+Магистрант второго курса (естественно-научное образование, преподаватель высшей школы), биолог. Участник областных и всероссийских научных конференций, 14 научных статей. Имею опыт руководства научной работой (НОУ). Член [ru_tr_mov] и [ru_g_soc].
+Если потребуется, могу предоставить более полное резюме.
+Имею постоянный доступ в интернет, есть опыт подобной работы - с прошлого года являюсь модератором научного раздела внутреннего форума локальной компьютерной сети [of] {neighbourhood_of_second_and_third_dwellings}.
+
+С уважением, [me].
+
+
+# Written no later than 080501:
+
+[Note: 
+this entry follows the date format DD.MM.YY, different from my usual YYMMDD. So, this is from January 2008.
+I have no idea anymore who is the [f.К.] guy. Seems to be important enough to give such a detailed report about him to <comrade_V.V.U.>, and to preserve the file about it. The original file name was "отчет о встрече с [f.К.].txt"
+
+In my digital junkyard, i was able to find another file about him, with his email to <lost_comrade_D.1.M.> from 2007, where he proposes opening an office of [ru_cryo_org] in Omsk. This seems to be the importance.
+
+I don't remember hearing about him ever again.
+
+Not sure why some of the letters in my messages here are randomly capitalized. Perhaps an artefact from the encoding conversion (the original file had some ancient encoding).
+]
+
+Привет! Только что встречался с  [f.К.]  21.01.08 15:49:31  [me]  результаты:  21.01.08 15:49:34  <comrade_V.V.U.>  О1 как неожилданно. И как?  21.01.08 15:51:23  [me]  о [f.К.]. Создает впечатление  адекватного человека, на Ты с  компьютером, к трансгуманизму  отнОсится сдержано-полОжительно но  мало о нем знает.  21.01.08 15:52:08  <comrade_V.V.U.>  Хорошо, могло быть хуже.  :-) 
+
+21.01.08 15:53:06 [me] о крионике: к собственному  криосохранению относится скептически -  продвинутый буддиСт  21.01.08 15:53:47 [me] но считАет ее прибыльным и легким  бизнесом  21.01.08 15:56:21  [me] я сделал несколько ходов по вкючению  егО в тг-сообщество: дал ваши и мою  аськи, убедил в полезностИ некотОрых  тгстов омичей в еГо будущем бизнесе,  порекламировал форум И наши рассылки  21.01.08 15:58:55 [me] общее впечатление: человек  интересующийся бизнесом как таковым и  по большому счету безразличный к  остальному. Но достаточно адекватный я  восприятия тг-идей  21.01.08 15:59:07 [me] для*  21.01.08 15:59:49 [me] в общем то как я и предполагал)  21.01.08 16:02:37 [<comrade_V.V.U.>] Ну, отлично. Может, пока и паузу  сделать, путсьрастет. Вы дали ему  выозможность для роста. А насчет  крионики он сильно ошибается.  21.01.08 16:02:40 [me] о его потенциале: уже планирует  конкретные бизнес-шаги по рекламе  крионики и имеет связи для  соответствующеГо начального капитала  21.01.08 16:03:06 [me] с его слов  21.01.08 16:04:00 [<comrade_V.V.U.>] Отлично, путсь порбует. Впереди езе  много дет. и многие из нас сильно  изменяться. Он на правилном пути...  
+
+# Written no later than 180721:
+
+﻿Low-tech partial mind uploading that is already available today
+The impressive success of artificial neural networks (esp. deep learning) suggests 3 interesting things:
+1) No “magic” (soul, qualia, quantum trickery etc) is required for a human-level intelligence to function. The only thing you need is a large-enough network of primitives performing simple calculations (like artificial neural networks)
+2) It's possible to emulate a human mind using such networks (because your mind is running on one of such networks right now) 
+3) One practical way to create such networks is collecting a lot of input/output data and train a similar network on it.
+
+It means, there is already a way to upload your mind, at least partially:
+a) collect all the input that your brain receives 
+b) collect all the output that your brain generates
+c) if you collect it long enough, you'll have enough data to train an artificial neural network that will generate the same output as your brain on the same input. 
+
+If you ask such network that is your favorite food (or any other question about you), it will usually provide the correct answer, and it will behave in the same ways as you in the same situations. The network will be a close approximation of your mind. And the more data you feed into the network, the more YOU it will become.
+
+It will require enormous resources to train such network. But you can start the process of uploading today, even on your laptop. The only thing you need to do now is to start collecting the data about yourself, and keep it in a safe place. 
+
+
+# Written no later than 180809:
+
+список вещей, которые могут оказаться полезными для реконструкции личности в случае смерти:
+
+вещи что сам написал, нарисовал, черновики и тп
+GTD
+инфа из социальных сетей и поисковиков по GDPR
+бекап email что получал и отправлял
+бекап чатов (телеграм и тп)
+сейвы игр (из стима по GDPR можно)
+список прочитанных книг, просмотренных фильмов и тп
+список любимой мызыки
+финансовые операции (говорит о том, что делал и тп)
+автобиография текстом 
+записи геолокации
+фотки мест где был и тп
+адресная книга
+файлы про сканы мозгов
+raw data из 23andMe
+
+Я бы это всё собрал в одно место, зашифровал, и сложил в несколько мест для надежности
+
+
+# Written no later than 181031:
+
+﻿[Note: a fun post i wrote for a ML-related group on a social network. I remember a funny moment where at least one guy in the comments didn't realize i was talking about the human brain, and started to berate me on reverse-engineering someone's work.]
+
+I'm trying to reverse-engineer a huge neural network. The problem is, it's essentially a blackbox. The creator has left no documentation, and the code is obfuscated to hell.
+
+Some facts that I've managed to learn about the network:
+it's a recurrent neural network
+it's huge: about 10^11 neurons and about 10^14 weights
+it takes 8K Ultra HD video (60 fps) as the input, and generates text as the output (500 bytes per second on average)
+it can do some image recognition and natural language processing, among other things
+
+I have the following experimental setup:
+the network is functioning about 16 hours per day
+I can give it specific inputs and observe the outputs
+I can record the inputs and outputs (already collected several years of it)
+
+Assuming that we have Google-scale computational resources, is it theoretically possible to successfully reverse-engineer the network? (meaning, we can create network that will produce similar outputs giving the same inputs) 
+
+How many years of the input/output records do we need to do it?
+
+
+# Written no later than 181105:
+
+Let's assume we record everything that a particular human has seen and everything that he said and wrote, for 60 years
+we then teach a massive ANN using the corresponding inputs and outputs
+how much the output of such ANN will resemble the output of the human7
+that if we use the data not from one human, but from millions7
+
+
+# Written no later than 200427:
+
+﻿[Note: an early draft of my article on the topic, stitched together from my emails on the topic, posts etc, with some new texts too. 
+Never finished.]
+
+Titles:
+Bringing the dead back to life using science: an overview of speculative methods
+
+Introduction
+
+
+
+The changes in the definition of death…
+
+Doctors today routinely resurrect clinically dead patients. Unfortunately, it’s currently impossible to bring back to life someone who was dead for many decades or centuries.
+Maybe in a distant future we’ll be capable of such a feat.
+
+
+Why resurrect?
+
+Preventing death is insufficient. 
+I would not stop fighting until I could reverse death, 
+until I restored every sentient being that ever lived 
+a life that was taken from them.
+'Orders of Magnitude, Chapter 27 – Infernal Galop | 2πh'
+https://web.archive.org/web/20200427141236/http://www.2pih.com/
+
+A. Ethical reasons
+
+Why should we bring dead people back to life?
+Bringing a dead person back to life is morally equal to saving someone in danger. And there is no reason to discuss the importance of saving someone in danger.
+
+The “how” question is far more interesting.
+In this article, we discuss XXX methods to bring people back to life, using science and technology.
+Of course, all of them are highly speculative. 
+
+There are many ways how these ideas could break. The underlying theoretical assumptions could be wrong; there could be not enough computational resources in the entire Universe to implement them; and other possible problems.
+But it’s a worthy goal.
+
+B. Religious reasons. 
+
+To fulfill the Biblical prophesy. 
+
+To the best of our knowledge it was <public_figure_writer_N.F.F.>, a late 19th century Christian philosopher, who first proposed the idea of technological resurrection.
+A good friend of Leo Tolstoy, <public_figure_writer_N.F.F.> argued that the struggle against death can become the most natural cause uniting all people of Earth, regardless of their nationality, race, citizenship or wealth. He thought that death should become the subject of comprehensive scientific inquiry, that achieving physical immortality and revival is the greatest goal of science and the greatest goal of Christendom.
+
+C. Practical reasons:
+
+A sufficiently advanced (even sub-AGI) replica of a gerontologist could provide an orders-of-magnitude speed up to anti-aging research, as such replica could be replicated ad infinitum. The same could be done for other life extension fields of research, including direct mind uploading and nano-medicine.
+
+
+
+- for reconstruction, technological resurrection of my personality, my mind, etc.
+- for mind reconstruction experiments
+- for creating new, modified, and never before existing minds
+- for creating artificial intelligences of any kind
+- for creating hive minds
+- for creating historical simulations, including game simulations
+- for digital archeology
+
+to extract secrets
+
+Technological resurrection as a scientific experiment
+As the first orbital space flight has nullified the philosophies of the Earth's form, so will the first mind uploading nullify the philosophies of mind.
+We expect the that the first mind uploading will have the same effect on the phylosophy of mind, as the progress in biological science has nullified the phylosophy of vitalism
+
+
+Method #. Cryonics
+
+
+
+    • Current status – add info from repo
+    • Feasibility
+    • Unresolved problems
+
+As Benjamin Franklin wrote:
+
+I wish it were possible... to invent a method of embalming drowned persons, in such a manner that they might be recalled to life at any period, however distant; for having a very ardent desire to see and observe the state of America a hundred years hence, I should prefer to an ordinary death, being immersed with a few friends in a cask of Madeira, until that time, then to be recalled to life by the solar warmth of my dear country! But... in all probability, we live in a century too little advanced, and too near the infancy of science, to see such an art brought in our time to its perfection... [From Mr. Franklin, A Selection from His Personal Letters, by L. W. Labaree and W. J. Bell, Jr. (New Haven: Yale University Press, 1956), pp. 27-29.]
+
+
+To some limited extend, the reversible cryopreservation of humans already works (e.g. embryos). 
+The same could be said about the digital mind reconstruction (e.g. the OpenAI GPT-2 cited in the previous email). 
+
+
+In my opinion, there is no cryonics preservation quality threshold. 
+My reasoning is as follows.
+1) It's unlikelly that today's cryonics patients will ever be revived in the same sense as the Fahy's kidney was revived. Too much damage.
+Instead, I expect that their minds will be digitally reconstructed, using the partially preserved brain as one of the data sources.
+2) The quality of the digital reconstruction will mostly depend on 3 factors: 
+The quality of the brain preservation, the quality of the mind file, and the available computational resources. 
+3) insufficient quality of reconstruction can be compensated by utilizing more of computational resources. 
+E.g if no data is preserved on the political preferences of the patient, run several instances of the patient's mind with different political preferences.
+For each bit of the missing info, the amount of the necessary computational resources increases by x2.
+For a very well-preserved brain, a single instance of the emulated patient's mind could suffice, and the required compute could be relatively small.
+For a brain after a month of warm ishemia, many millions instances could be necessary, requiring a planet-sized mashine to simulate them.
+If technological progress continues (another important assumption of cryonics), I would expect that every single cryopatient eventually can be brought to life. Thus, any cryonics is better than no cryonics.
+
+
+
+Method #. Digital reconstruction 
+
+ 
+As you have seen, preventing Death is not a particularly difficult problem... Reversing Death is even possible to a limited extent, provided one has taken proper precautions beforehand.
+'Orders of Magnitude | 2πh'
+https://web.archive.org/web/20200427141236/http://www.2pih.com/
+
+
+The human mind is nothing but a software. And if you have enough information about some lost piece of software, you can re-build it.
+The most interesting are the "how we can do it" questions, not the "why" questions. For example:
+How do we resurrect historical personalities using science and technology?
+How do we preserve enough information about our beloved ones and ourselves?
+What are hardware requirements to emulate a human mind?
+What are some tech projects that may be helpful for our cause?
+What are some information-theoretic limitations?
+Which historical personalities are the easiest to resurrect?
+How do we simulate historical environments?
+
+Of course, "p-zombies" and other bad philosophy arguments can be safely ignored. We’re scientists and engineers, not windbags.
+
+Imagine that we can fully describe any given human mind with N variables. The list of variables could include political views, food preferences, favorite books, childhood memories, love interests etc etc. There could billions of such variables. 
+If we know the values of all N variables for some particular person, we could perfectly recreate the person's mind. 
+Imagine that we could estimate the values with some precision. For example, if we know that the person was a vocal supporter of cryonics, we could assign the value "cryonicist" to the corresponding variable. 
+The more data we have about a deceased person, the more of the person's mind we could reconstruct. And if some data is missing, we can create many alternative versions of the reconstructed mind, and run them in parallel, ensuring that at least one of them is close enough to the original person. 
+It's one of the reasons why any cryonics is better than no cryonics: it preserves at least some data that we can later use for the digital reconstruction of the patient's mind. 
+
+Isaac Asimov is one of the few cremated people in the world who actually has a chance of living forever.
+He wrote almost 500 books in his lifetime. There is only a very limited set of neural network configurations that could produce the same output. Thus, given enough computational resources, we could find an artificial neural network that could produce a mind in the likeness of Isaac Asimov.
+As long as two minds produce the same output, there is no practical difference between them. Two identical copies of software are the same software. 
+Thus, the reconstructed mind will be the same Isaac Asimov.
+If we bring him back to life, and show him the world of the future, will he keep his deathist views? There is only one way to find out.
+
+
+Image you're an alien who has never encountered a human brain before. Your goal is to reverse-engineer it. The problem is, it's essentially a blackbox device. The creator has left no documentation, and the code is obfuscated to hell.
+Some facts that you've managed to learn about it:
+it's a recurrent neural network
+it's huge: about 10^11 neurons and about 10^14 weights
+it takes 8K Ultra HD video (60 fps) as the input, and generates text as the output (500 bytes per second on average)
+it can do some image recognition and natural language processing, among other things
+
+You have the following experimental setup:
+the network is functioning about 16 hours per day
+You can give it specific inputs and observe the outputs
+You can record the inputs and outputs (and already collected several years of it)
+
+Assuming that you have Google-scale computational resources, is it theoretically possible to successfully reverse-engineer the brain? (meaning, we can create network that will produce similar outputs giving the same inputs)
+How many years of the input/output records do we need to do it?
+
+Let's assume we record everything that a particular human has seen and everything that he said and wrote, for 60 years
+we then teach a massive ANN using the corresponding inputs and outputs
+how much the output of such ANN will resemble the output of the human?
+that if we use the data not from one human, but from millions?
+
+
+I personally think that digital mind reconstruction is a viable backup option for cryonics. 
+If, for whatever reason, your cryopreservation fails, the preserved digital data could still allow the preservation of your mind. And the more data is preserved, the higher is the chance that such backup option could actually work.   
+
+The idea of digital mind reconstruction is based on two facts: 1) your brain is a data-processing machine. E.g. you take this email as an input, and produce an answer as an output. 2) It's possible to create a machine that will write your  answer given the same email. And the next 10 answers. And everything you ever wrote or thought about.
+
+It's not just some hypotheticals. There are already simple AIs that could emulate the style of Rembrandt or Nietzsche, by learning from their works.
+
+The best part of the idea of mind reconstruction, is that we can test it: 1) collect all writings of some person. 2) train a sufficiently advanced AI on the data. 3) ask the AI questions that it has never seen before, and check how the answers compare to the answers of the carbon-based version of the person. If no one (including the carbon-based version) can quess the authorship of the answers correctly, then we have 2 instances of the said person. Success!
+
+The experiment could be doable in a few decades. Meanwhile, the data preservation is the main priority.
+
+
+in the event of a (inevitable) pandemic, the vast majority of dying cryonicists will suffer permadeath. It means, cryonicists need a backup option. One backup option I can think of is mind uploading and its surrogates. 
+
+
+<...> a clear, realistic path towards mind uploading (my passion since the childhood).
+Since then, I’m working in 3 relevant domains:
+1) LifeLog data collection domain:
+- I’ve wrote a decent logger for Linux (my main OS) that records regular screenshots, keyboard and mouse movements, and saves them in a highly compressed form using zpaq
+- wrote a geolocation logger for Android, and working on expanding it with audio and other sensors input
+After I finish them, I plan to release them under a Creative Commons license. 
+2) Supplementary brain preservation disciplines domain:
+I’ve created a massive list of the scientific articles that are directly relevant for cryonics, complete with short summaries of their findings. Can be found on Github by searching “SPTCR: curated repository of scientific papers on cryonics”.
+3) Some theoretical work-in-progress:
+- on reconstruction of recurrent neural networks from partially known inputs and outputs
+- an article with the working title “Is whole brain emulation necessary for mind uploading?” (a comparison of the 4 main mind uploading approaches).
+
+
+
+Low-tech partial mind uploading that is already available today
+
+The impressive success of artificial neural networks (esp. deep learning) suggests 3 interesting things:
+
+1) No “magic” (soul, qualia, quantum trickery etc) is required for a human-level intelligence to function. The only thing you need is a large-enough network of primitives performing simple calculations (like artificial neural networks)
+
+2) It's possible to emulate a human mind using such networks (because your mind is running on one of such networks right now)
+
+3) One practical way to create such networks is collecting a lot of input/output data and train a similar network on it.
+
+It means, there is already a way to upload your mind, at least partially:
+
+a) collect all the input that your brain receives
+
+b) collect all the output that your brain generates
+
+c) if you collect it long enough, you'll have enough data to train an artificial neural network that will generate the same output as your brain on the same input.
+
+If you ask such network that is your favorite food (or any other question about you), it will usually provide the correct answer, and it will behave in the same ways as you in the same situations. The network will be a close approximation of your mind. And the more data you feed into the network, the more YOU it will become.
+
+It will require enormous resources to train such network. But you can start the process of uploading today, even on your laptop. The only thing you need to do now is to start collecting the data about yourself, and keep it in a safe place.
+
+In 2013 Ben Goertzel has suggested that we could iteratively build closer and closer approximations to the brain of a person as a way to upload said person: https://www.youtube.com/watch?v=gZChqb_VldA
+
+
+
+For all people who don't oppose the idea of mind uploading, I would recommend to use the described method as a backup option to cryonics.
+
+Future directions of research:
+Data collection
+Longterm data storage
+Building the AIs on the data
+Building the environment for the AIs to operate in
+The concrete next steps for each
+Simple recollection of the available data. E.g. “where have I been at 2019.02.18 11:45 ?”, “show me the screen-shots from my notebook from the same time”
+Chat-bots
+
+
+
+
+
+
+Hans Driesch, a renowned biologist of the late 19th century, was a convinced vitalist. He firmly believed that the functioning of a living organism cannot be explained by physico-chemical processes. He argued that life is not a “machine”, but a vessel for some non-material, mystical force. PROOF2
+
+https://de.wikipedia.org/wiki/Hans_Driesch
+
+William Thomson, a reputable mathematical physicist and engineer of the late 19th century, argued that “no aeroplane will ever be practically successful”3
+
+https://zapatopi.net/kelvin/papers/interview_aeronautics_and_wireless.html
+
+Driesch and Thomson were proven wrong in the same way: by a practical demonstration (Mycoplasma laboratorium4
+
+If we ignore synthetic (bio)viruses and digital life forms, then Mycoplasma laboratorium is the first life birthed by a machine. See [Glass et al, 2005][Gibson et al, 2010] for a detailed description.
+
+and the Wright Flyer, respectively).
+
+There are two major objections to mind uploading (there are other objections too, but most of them were either refuted or proven to be irrelevant. For a review, see [[f.G.], [f.F.], 2013][[f.S.], 2013][[f.H.], 2015]):
+
+1) the human brain is not a “machine”, but a vessel for some non-material, mystical force
+
+2) the task is too difficult to ever be practically successful
+
+As with Driesch and Thomson, the best way to prove them wrong is a practical demonstration.
+
+The science and technology of the early 21st century are not yet advanced far enough to produce such demonstration. But there are several approaches that could bring us closer to it.
+
+We classify the main approaches to mind uploading as follows:
+
+“Direct uploading”: scanning the structure and/or the activity of the patient’s brain, and recreating it on an artificial substrate
+
+“Theseus uploading”: gradually replacing the neurons of the patient’s brain with digital elements of the same functionality6
+
+The neuroprosthetics research could play the core role in developing it
+
+“Jan uploading”: extending the patient’s brain with external computational resources in such a manner, as to keep the whole system conscious even after the death of the biological part. (Named in the honor of [J.K.]. He was the first researcher who have described the approach in detail)
+
+
+Let's focus on a lesser known approach:
+“Lifelog uploading”: mind uploading by training an AI on the patient’s life-logging data.
+
+The approach could be summarized as follows:
+1. collect and digitize all available data about the patient’s mind (from his diaries to his GPS tracks)
+2. train a suitable AI on the data, with the goal of mimicking the patient’s mind as much as possible
+3. collect more data and train better AIs till it’s practically indistinguishable from the patient’s mind
+
+Lifelogging definition
+
+The usual approach was to collect the lifelogging data and to wait for AGI to reconstruct the mind from it.
+
+As of 2018, there has been no successful (publicly known) attempt to create a machine in the likeness of the human mind. Taking into account some reasonable predictions regarding the emergence of AGI (Artificial general intelligence), we assume that it will not be created in the next 15 years.
+
+We propose to not to wait for the emergence of AGI, but start creating.
+
+We claim no primacy in devising this approach, as similar ideas have been circulating among mind uploading researchers for decades (Among them: <lost_comrade_A.A.P.>, <lost_comrade_D.1.M.>, [I.T.], <comrade_J.I.K.>, [M.R.], <comrade_V.V.U.>, [W.S.], and others.)
+
+An early description of this approach to mind uploading can be found in [[f.M.], 1951]. There are also similar ideas in [<public_figure_writer_N.F.F.>, 1906].
+
+
+2. Our assumptions
+
+No airplane and no synthetic lifeform have ever been created by following a philosophy of idealism. If our goal is to devise a practical approach to mind uploading, we should take the materialist position in the philosophy of mind.
+We assume the following:
+
+1. The human brain is an information processing system, and the mind is one of its products (Spinal cord, peripheral nervous system, immune system or even gut flora could also play a role. But it’s not relevant for the lifelog approach).
+2. Regardless of how the human brain is functioning, it’s possible to build a machine with the same functionality. 
+It’s likely to be true even if quantum processes (or some yet undiscovered physical phenomena) play the main role in the brain’s functioning. The best support for this conclusion is the humble origin of the human brain. If a few strands of DNA and some molecular machinery can produce the computational device of the human brain, then it's reasonable to expect that the scientific method can produce a device of the same abilities. Compare: the biological evolution has been perfecting photosynthesis for more than a billion years. Yet our solar cells are already more efficient in capturing the solar energy, after only a few centuries of scientific progress. PROOF
+3. There is no need to fully understand the human mind to be able to replicate it. Compare: we don’t fully understand the human vision, yet we build AIs that perform some vision tasks (like image classification) better than humans.
+4. it’s possible to create a sufficiently accurate digital replica of a human mind (The fact that AIs can already replicate many abilities of the human brain, is a strong indication that this assumption is realistic)
+5. For all practical purposes, such replica is the same human mind (at least, immediately after its creation). In the case of direct uploading, it’s trivial to prove. 
+6. To build it, there is no need to create an accurate biophysical model of the human brain with all its superfluous Darwinian complexity; building a functionally equivalent AI is enough. As [f.S., 1993] formulated it: “...nerve cells are complex switches: components in a biological switching network that can be simulated by a program. And as Turing observed, any program that can be run on a given computer can be run on any other computer, given enough memory or time for the process.”
+7. Alder's razor: what cannot be settled by experiment is not worth debating: (https://philosophynow.org/issues/46/Newtons_Flaming_Laser_Sword). This includes the existence of qualia, the "just a copy" argument, and related philosophical verbiage.
+
+3. Is lifelog uploading technically feasible?
+
+For a discussion on the feasibility of mind uploading in general, see [f.G., f.F., 2013][f.S., 2013][f.H., 2015]. Below we discuss the feasibility aspects that are specific to our approach.
+
+3.1. AGI is not required
+
+There are many definitions of artificial general intelligence (AGI), from informal anthropocentric to well-defined mathematical constructs. In this work, we define AGI as follows:
+AGI is a computable variant of AIXI that converges to optimal performance with the increase of compute.
+AIXI itself is both precisely defined and expected to be universal [[f.H.], 2007]. For a review of computable variants of AIXI, see [[f.K.], 2019].
+
+We argue that there is no need to wait for such AGI to successfully simulate a human mind. As [B.G.] pointed out, “humans are nowhere near the maximally generally intelligent system” [[f.G.], 2015].
+
+Firstly, the human brain is not Turing-complete, as it cannot simulate even simplest finite-tape Turing machines. As an exercise, the reader could try to simulate in his mind the smallest known universal Turing machine ([f.W.]'s 2,3), on a random tape of the length 100, for 100 steps (see [[f.W.], 2002] for the description of the machine).
+Thus, the set of programs that can be run on the human brain is vastly smaller than such set for a common laptop computer. Note: the energy consumption of the human brain is rather low in comparison (as one would expect from a system that has been optimized by the Darwinian evolution in an environment where available energy is scarce). The human brain can also sustain a significant mechanical damage without losing its function. Aside from these two (rather irrelevant) advantages, the human brain as a computational platform is inferior to today’s computers by any measure.
+
+Judging by the complexity of the known formal specifications for AGI (AIXItl, Gödel machines), it’s unlikely that the human brain is capable of running an AGI.
+
+Secondly, the human mind is a specialized software that is optimized for exactly two tasks: ensuring its own survival, and ensuring the replication of its own source code (genes). 
+Note: in some cases, human minds are not executing these tasks. Such cases are rather rare, and could be attributed to malware and/or bugs. Interestingly, some of the greatest achievements of mankind were achieved by such malfunctioning minds. Perhaps because their limited computational resources have been spent on less animalistic tasks.
+
+Judging by the rarity of intelligence in nature, a successful execution of the two tasks doesn’t require an AGI.
+
+One could argue that the human mind/brain is capable of solving some problems that are still hard for today’s computers. There is no surprise here: it’s indeed a nontrivial exercise to replicate the abilities of a neural network that was optimized by a genetic algorithm for millions of years. See also: “[f.M.]'s paradox” [[f.M.],1988].
+
+But, judging by the recent breakthroughs in machine learning, we can replicate and even surpass the brain’s abilities by throwing enough compute at carefully designed artificial neural networks. One notorious example is AlphaZero, who has achieved a superhuman performance on several highly complex games (go + chess + shogi) by learning the games from scratch [[f.S.] et al, 2018]
+An equally impressive feat was achieved by _links to STARTCART AI_, who has learned to play Starcraft on the level of professional human players. The complexity of Starcraft could be compared to the complexity of commanding an actual armed force in real-life conditions.
+
+It’s therefore reasonable to assume that AGI is not required to produce a replica of the human mind. A specialized, less intelligent AI will suffice.
+Note: One could argue that the human intelligence is too weak / messy to build its own copy, and thus AGI is needed to accomplish such feat. Fortunately, minds can be aggregated into more intelligent computational systems (e.g. corporations, research labs etc).
+
+3.2. Trillions of parameters are not required
+
+The human brain contains about 10**11 neurons [f.H., f.K., 2011] and about 10**15 synapses (https://aiimpacts.org/scale-of-the-human-brain/).
+
+We need supercomputers just to emulate a neural network of such scale in real time, not to mention training it on the user’s data.
+
+Fortunately, a software with far smaller hardware requirements could produce a replica of the human mind. The following facts indicate that it’s indeed the case.
+
+Firstly, there is a tremendous amount of redundancy in the human brain ([R.L.] 1980. Is your brain really necessary? Science 210: 1232–1234).
+There are known cases of hydrocephalus where the patient has lost most of the brain tissue without losing the mental abilities we associate with the human mind ([M.F.d.O.], [F.C.G.P.], [K.N.] et al (2012) Revisiting hydrocephalus as a model to study brain resilience. Front Hum Neurosci 5:181.)
+
+In about 10% of patients with hydrocephalus, ventricle expansion fills 95% of the cranium, yet a half of such patients have IQ's greater than 100 [[f.L.], 1980]
+Note: we were unable to find any estimates of the number of neurons in such extreme cases of hydrocephalus. Judging by rat models, the number of neurons could be unaffected, at least in some cases of hydrocephalus, thus rendering this part of our argument moot https://www.sciencedirect.com/science/article/pii/S0014488600975782
+
+If the human mind can be run on 5% of the brain volume, then the same 5% will suffice for the digital mind. Thus, there is no need to emulate the entire human brain: a far smaller neural network will suffice.
+
+Another interesting curiosity is Homo floresiensis, with the brain volume at least 2 times smaller than humans, yet capable of tool use etc.  
+On the other hand, paleontological evidence suggests that the behavioral modernity was achieved after the humans’ ancestors have gained the cranial capacity that is in the H.sapiens’ normal range.
+
+Secondly, some non-human hominids are almost as intelligent as humans. One example is the famous gorilla named Koko who was capable of a sign language, and scored between 70 and 90 on various IQ scales (see https://en.wikipedia.org/wiki/Koko_(gorilla))
+The brain of gorillas contains x3 less neurons than the human brain [f.H., f.K., 2011].
+
+Moreover, some animals have the intelligence comparable to the intelligence of hominids, while having orders-of-magnitude fewer neurons and synapses (some examples include: Gorilla gorilla, Pica pica, Octopus vulgaris, Apis mellifera, Portia labiata)
+
+
+
+Corvids (e.g. Magpie) have intelligence comparable to the intelligence of primates, while having 2 orders-of-magnitude fewer synapses. For a review on the cognitive abilities of corvids, see http://wexler.free.fr/library/files/emery%20(2004)%20the%20mentality%20of%20crows.pdf 
+Even jumping spiders (e.g. Portia) exhibit many traits that are commonly associated with intelligence, while having 5 orders-of-magnitude fewer synapses than humans.
+For a review on jumping spiders, see [R.W.]; [R.J.] (1998). "Cognitive Abilities of Araneophagic Jumping Spiders"
+
+One could argue that we need trillions of parameters just to simulate all the imperfections and deficiencies of the human mind: cognitive biases, memory limitations, amorousness, credulity, tribal hatred etc. Fortunately, there is no need to simulate them at all, as it's not our goal to create a perfect replica of the human mind. A software superior to the human mind is an acceptable result too.
+If we want to copy the content of a DVD, there is no need to copy the preciese locations of its pits etc.
+
+How to ensure that mind uploading was successful?
+
+In the case of Theseus uploading, there is a straightforward way to confirm that the process was successful:
+Memorize a long string of numbers. Generate a hash of the string (e.g. SHA-512) and write it down.
+Perform the mind uploading. The neurons of your brain are gradually replaced with virtual neurons of the same functionality. After the end of the procedure, your mind resides in a computer.
+Recall the string you memorized at the step #1. Generate the SHA-512 again. If your new hash is identical to the old hash, then your digital mind is the same mind. As no one else knows the string you memorized, it's the only realistic possibility.
+
+Unfortunately, we can’t use the same test for the lifelog uploading, as we must upload memories in a verbalized form. But we can still ensure that the mind uploading was successful.
+
+Tech-savvy readers may have already encountered the problem of comparing two complex software programs (e.g. Android vs. iOS). To solve the problem, a variation of this technique is sometimes used (https://sdtimes.com/evaluation/guest-view-five-steps-evaluating-selecting-software-tools/):
+list all features you deem important
+assign a weight for each feature in the list
+rate the implementation of the feature in each program
+calculate the overall score for each program by summing up the ratings multiplied by the weights
+We can use the same technique to compare a human mind and its digital replica.
+
+Initially, the score will be subjective and inexact. But its quality can be improved iteratively - by experimental work. For example, if we find out that replicas with deviating political views exhibit a behavior that is too different from the original mind, then we increase the weight of political views in the score.
+
+
+How accurate should be the replica to be accurate enough? In other words, how high should be the replica’s score to consider it a success?
+
+Human minds are changing over time. 20 years ago, I’ve had fundamentally different political views, a different set of skills, interests, memories etc. Yet I consider myself the same person, in spite of the fact that there is no real continuity between the current and the old version of my mind. In my case, the continuity was broken by a general anesthesia, not to mention the thousands of breaks for sleeping.
+
+
+What if I have a replica that is closer to my mind than the 20-years-younger-me? In this case, it’s reasonable to assume that the replica is accurate enough.
+
+Instead of 20 years, one may choose another age difference, but the principle is the same:
+calculate the score for the older version of yourself
+if the replica’s score is higher, then the mind uploading is a success
+
+A cautious person may be reluctant to rely on such a semi-subjective metric. But there is no need to bet your life on it, as the proposed mind-uploading approach is both nondestructive and compatible with any other life extension technique. It can also be experimentally verified, e.g. by comparing the replica with a replica created by the means of Theseus uploading.
+
+One may consider it as a worthy wager: in the case of complete failure, the result will be a useful digital assistant; in the case of success, the result will be immortality.
+
+4. Is lifelog uploading feasible in praxis?
+
+If my arguments are correct, the “Lifelog uploading” could be the shortest path towards mind uploading, or even towards radical life extension in general.
+On the one hand, it doesn’t need massive funding and governmental support to succeed (unlike anti-aging research).
+On the other hand, Agile-style incremental development and near-term commercialization are possible, allowing the project to become financially self-sustaining (unlike other approaches to mind uploading).
+On the third hand, it’s purely a software project that can be realized by a small team of enthusiasts or even by a lone researcher.
+
+
+One of the most wonderful properties of artificial neural networks (ANN) is that they can generalize and infer hidden information from their inputs. 
+
+For example, a few years ago, were there headlines about an ANN that could guess sexual orientation of a person by looking at their photo. I've heard that some gay people can do the same trick, thus it's not unrealistic. So, even if you have never said anything about your sexual orientation, it could be inferred by a machine, using seemingly unrelated pieces of information.
+
+It could be true for other hidden states of your mind. E.g. people who quote Dostoevsky are more likely to question their life achievements.
+
+Alternativelly, given enough computational power, it'a possible to reconstruct all your hidden mental states - by simulating all possible variants and combinations of them. E.g: gay Ivan, straight Ivan, bisexual Ivan, gay Ivan who likes cats, gay Ivan who dislikes cats etc
+
+In general, many people in the field suffer from an unhealthy obsession with the complexity of the human mind/brain. They percieve it as an unfathomable alien artifact, vastly superior to anything humanity will ever be able to create. They are wrong. 
+
+The human mind/brain is a work of the blind idiot of biological evolution. It means, the brain is a horribly organized mess of outdated ad-hoc engeenering solutions and randomness.  It's has not the complexity of an unfathomable alien artifact, but the complexity of a junk pile.
+
+I strongly suspect that the entire mind of, say, Dostoevsky, with all its deepness, self-awareness, emotion and creativity, can be emulated on a $50 smartphone.
+
+
+
+we surmise that there is no need to copy the imperfections of the human mind. Uploading the memories, preferences and other individual attributes of the particular mind will suffice.
+
+Compare: to build a flying machine, there is no need to replicate all the unecessary complexity of a bird.
+
+
+It's not our goal to perfectly replicate the human mind. A software superior to the human mind is an acceptable result to. NOTE:
+Of course, we're not just building an AGI, but uploading the human mind of a particular individuum. Thus, we must ensure that the resulting software is excibiting enough traits of the said individuum. And such traits might or might not include the deficiencies of the individuum's mind.
+
+Using the same methaphor:
+the manner of flight of our machine should preserve enough traits of the flight of the bird we're trying to replicate.
+
+It's reasonable to assume that replciating the defficiencies of the human mind is not necessary to achieve such feat.
+
+
+One could argue that our expected result is just a fancy chat-bot
+just a fancy AI, with no real qualia / consicousnes / soul behind it.
+Fortunatelly, there are no such things in the human brain either. You, the reader, are just a fancy AI, a simple software running on a biological computer.
+A software that can be uploaded, dublicated and modfied, given suitable tools.
+you, our dear reader, is also nothing but a fancy AI.
+If such idea is contradicting your self-image, then your self-image is false.
+
+
+
+to achieve our goal, the neural network for the replica should be as small as possible (but not smaller) - to avoid overfitting.
+Using trillions of parameters for it could indeed be too much, even if the brain itself has trillions of parameters.
+See, for example, this lecture on overfitting for a good introduction of the topic: https://www.youtube.com/watch?v=EQWr3GGCdzw&list=PLD63A284B7615313A&index=11
+To ovoid overfitting, the complexity of our model should correspond to the the amount of data, not to the complexity of the target function.
+
+The complexity of the model should match the size and the complexity of the training dataset, not the complexity of target function.
+
+To avoid overfitting, the complexity of the model should match the size and the complexity of the training dataset, not the complexity of target function.
+
+Even in the ideal case where we record 100% of the inputs and the ouputs of the human brain for 120 years, a model with 10^15 parameters will like to be an overkill
+
+
+We don't argue that the we use only 10% of our brain (it's a long debunked myth). We argue that the human brain is highly inefficient. It's likely to be possible to build an order-of-magntidues smaller brain with the same functionality.
+
+
+Its conceivable that the smartest of human minds can be emulated on a today's budget smartphone in real time.
+
+
+Can we get enough of the user's data to build a good enough replica of his mind?
+
+
+As neurobiologist [S.H.H.] pointed out... "The remarkable, yet not extraordinary, human brain as a scaled-up primate brain "
+
+
+Method #. Mind uploading of a recently deceased person
+
+Friend, you're made of atoms, not magic.
+You're an implementation of an algorithm, and there's no reason to believe that that the algorithm absolutely cannot be extracted and abstracted. Or that there isn't a better algo to run. - [Ra.St.] ([Ra.St.] 2019, personal communication, 13 April)
+
+
+At the moment of this writing, the situation with mind uploading bears some similarities with the situation of heavier than air flight in the 19th century: most philosophical and scientific arguments against it were refuted long time ago, but the idea remains controversial among non-specialists, and will remain controversial till the first flight / uploading will take place.
+
+
+There are several science-based ways to radically extend the human life. One of them is to transfer the human mind from the brain to a better, artificial substrate. The hypothetical procedure is known as mind uploading. For a general introduction, see https://en.wikipedia.org/wiki/Mind_uploading
+
+A fictional account: movie Replicas
+
+is whole brain emulation _necessary_ for mind uploading? Could a far simpler model be sufficient to simulate the human mind of a particular person? Both AlphaZero and AlphaStar are orders-of-magnitude smaller than the human brain, yet outperform humans at some highly complex cognitive tasks. Maybe it’s possible to build a similarly small AI that could imitate a particular person with enough precision.
+
+To the people who want to learn more about the scientific research on the topic, I would recommend to start with the Whole Brain Emulation Roadmap by [A.S.] and [N.B.].  
+  
+
+ 
+There is a relativelly simple way to check if the digitally reconstructed mind is still you:
+1. Memorize a long sequence of random numbers. 
+2. Write it down and store it in a secure place.
+3. Become cryopreserved.
+4. Upon revival, check if the memorized sequence is identical to the written one.
+5. By the experiment's design, no one else knows the sequence but you. Therefore, if the sequences are identical, the revived person is most likely - you.
+To improve the quality of the experiment, one can utilize an asymmetric cryptography for it. E.g. memorize a wallet private key of some quantum-resistant cryptocurrency.
+
+
+
+As [B.G.] put it: the possibility of mind uploading is a failrly direct extrapolation from evidence, while the objections to mind uploading are grasping at straws in order to find some barely plausible and rational lines of argument that would depict mind uploading as impossible. Source: https://www.youtube.com/watch?v=gZChqb_VldA
+
+
+
+It's a good idea to have some mind copies, regardless of how you resolve the "mind copy" problem.
+The copy is me? Cool, I've tricked death.
+The copy is not me? Still cool, there is someone who will continue to work on my projects (one of which is to bring all people ever lived back to life).
+
+
+We don't know enough about the human mind to conclusively resolve the jaded "not me - just a copy" dispute. 
+It's safe to say that with some unknown probability, and under some conditions, the uploaded mind is indeed you. People who religiously oppose mind uploading believe that the probability is zero. But I wouldn't be so certain. Thus, it's the same probability game as with cryonics. If you have enough resources for it, it's worth doing.
+
+The same could be said about surrogates of mind uploading. For example, if you preserve enough digital data about a person, it could be possible in the future to reconstruct the person's mind from it.
+
+
+A thought experiment.
+
+1. We run several instances of your uploaded mind in parallel.
+
+2. As all the instances can correctly recall the memorized string of numbers, and only the original mind knows the string, all of them are the original mind.
+
+3. If you give them different outputs, they will eventually diverge, but immediately after the launch they're all the same mind. If you regularly synchronize the instances, they'll remain the same mind as long as you want.
+
+4. It's therefore theoretically possible that several instances of your mind could exist simultaneously. As there are million instances of Windows XP (all of them - Windows XP), so could exist million instances of your mind (all of them - you).
+
+If you agree with the conclusions of these thought experiments, you must agree that a reconstructed mind of a deceased person could be the same mind, not "just a copy".
+
+I present you two strings:
+1010110110111110
+1010110110111110
+As you noticed, they're identical.
+Is one of them a "copy" of another?
+For all practical purposes, it doesn't matter. They're the same data.
+As your mind is nothing but data, it's the same situation with "copies" of your mind.
+It doesn't matter how they were created, and who was the first one, as long as they're identical.
+
+
+The piety for the human mind is missplaced, as most people mistake the horrible mess of the human brain for a divine complexity.
+We haven't yet reverse-engeenered brain not because of its supposed super-natural complexity, but because it's a horrible mess.
+
+
+If the reader thinks that he has a new and original argument against mind uploading, he's most likely wrong. There is a high probability that the said argument has been already refuted at least a decade ago.
+
+
+
+
+Method #. Generate all possible human minds.
+
+The set of all possible human minds is finite (e.g. the Bekenstein Bound).
+Thus, given enough computational resources, it's possible to generate a list of all possible human minds (in the same sense, as it's possible to generate a list of all 3-digits binary numbers).
+If two human minds are identical, then it's one and the same mind (in the same sense, as two identical binary numbers are the same number).
+Thus, the list of generated minds will include the minds of all dead humans.
+
+If the assumption that the human mind can be run on a finite ANN is correct, then we must conclude that the set of all possible human minds is finite. 
+The set is vast: at least 2^10^11 possible minds (the estimate is based on the fact that there are 10^11 synapses, each of them can have at least 2 possible weights). But it is finite. 
+Thus, given enough computational resources, we can reconstruct every living or dead mind by a brute-force search through the set of all possible minds. 
+The problem is, to complete such search, you'll likely need to convert the entire galaxy into computronium, and run it for trillions of years. 
+Every bit of information about the patient's mind will reduce the search space roughly in half. 1 petabyte of mindfile could reduce it by a factor of 2^53. 
+And if we have enough data on the inner workings of the patient's brain (e.g. by the means of high-quality cryopreservation), the search space could be reduced to a manageable size. 
+To conclude, I would say that [B.W.] is both right and wrong. Producing sufficiently detailed I/O data could be indeed unachievable. But maybe a few petabytes will be enough. Especially if we utilize something better than brute-force. 
+
+
+
+
+
+Method #. Collect the crumbs.
+Every human is constantly scattering crumbs of information about them – from ideas to skin cells. Some humans are also leaving more long-lasting traces – from children to books to bones.
+A superhuman AI may be able to collect all the crumbs of information still preserved, and create realistic reconstructions of the minds that scattered them.
+
+The process of technological resurrection may look like this:
+   1. Collect all available data about the historical person: DNA, memoirs, historical descriptions, the cryopreserved brain etc. Everything we can find.
+   2. Create a very detailed virtual reconstruction of the historical period.
+   3. Create an artificial general intelligence with the personality compatible with the personal and historical data.
+   4. If the differences between the recreated personality and the historical personality are small, then we assume that it’s the same person.
+   5. We resurrected a historical person.
+One may argue that it’s “just a copy” of a historical person. But using the very same arguments one may argue that you are “just a copy” of yourself from yesterday.
+
+as an example of the current capabilities of AI, I'll generate a few sentences on the topic using OpenAI's GPT-2: We are at the birth of the big data era of AI, but in the context of interest, very little is actually known about how fast and accurate ANNs are. You may be excited by ANNs, but it does not mean that they will solve all problems or become the next Internet. Here are some of the most challenging problems in AI today. All are very hard, and all require vast amounts of data to train. 1. AI that not only takes our speech, but understands the content. So much of the jobs of SRS have already been taken over by computers, but voice recognition is still the biggest challenge, not only in computer assisted speech recognition, but also voice processing (voice synthesis) in modern companies, and lots of fields.
+
+Method #. Find a way to get arbitrary information from the distant past.
+It seems that idea of time travel to the past contradicts the laws of physics (as we know them).
+But there is no such law that prohibits us from copying some information from the past.
+In fact, we constantly receive information from the past, e.g. by observing the light of the stars long gone.
+Maybe there is a way to build a device that could show us the Battle of Waterloo, or any other historical event, exactly as it has happened, with the same fidelity as a modern digital camera.
+If such device is possible, maybe copying minds from the distant past is possible too.
+
+Method #. Create a realistic simulation of the Universe.
+If the simulation is detailed enough, and if we repeat it with all kinds of initial conditions, one of the runs could recapitulate the events that have happened in our Universe, including the lives of all humans ever lived.
+
+
+Some combinations of methods
+
+Lifelog uploading and cryonics
+
+Lifelog uploading is instrumental for some other radical life extension approaches. For example, even an imperfect replica of a human mind can play a crucial role in cryonics.
+
+A cryo patient who has left behind some data about his mind (memoirs, biography etc) has a higher chance of a successful reanimation. And the more data are available, the higher is the chance.
+
+There are 3 reasons for it.
+
+Firstly, such data could be useful in verifying the quality of the whole process. In the simplest case, we could ask the reanimated patient if he remembers his mother's name etc.
+
+Secondly, the data could be useful in filling out the gaps in the patient's mind. As both the cause of the "death" and the freezing process damage the brain, it's inevitable that some of the patient's mind will be damaged too. Using the preserved digital data, we could be able to repair some or all of the damage.
+
+Thirdly, in hard cases (e.g. a straight freeze after a week of rotting), Lifelog uploading could be the only reanimation option. The more data we have for the uploading, the better will be the digital reconstruction of the patient's mind.
+
+
+The data about the patient's mind could play an important role in all revival scenarios, at minimum to verify the quality of the entire freezing / reconstruction process.
+
+Some old-fashioned people will prefer to be revived in the same leaking meatsacks.
+And it's ethical to respect their preference in this regard.
+But I consider the digital reconstruction as the most realistic revival scenario, at least for the patients preserved with the crude tech of today.
+I expect that every single pre-2019 patient will be digitally reconstructed, and only then downloaded into a meatsack (if it's their wish).
+Future advances in cryobiology may allow a more direct (or even a purely biological) revival. But for the older, highly damaged patients, I see no other way.
+
+
+One could argue that a digitally reconstructed mind will like an an artist's impression gazing at your frozen brain.
+It's a good summary of how it will be. The "artist" may be a superhuman artificial intelligence, and "gazing" may include a comparative analysis of millions of scanned brains, but the essence is the same. 
+Will it work at all? I don't know. 
+I'm also unaware of any more realistic approach to revival of pre-2019 patients.
+In general, it's a good idea to avoid this entire process by not dying. Or, at least, by living long enough to see a purely biological reversible cryonics (if such thing is possible in adult humans).
+
+
+
+
+There is no need to dispose the body after the digital reconstruction of the patient's mind.
+After it's refurbished, the patient could utilize it as a mind backup storage, or as an additional body to run an instance of his mind on it. Alternatively, they could simply preserve it in LN2 for nostalgic reasons.
+
+
+It would be nice to avoid the described digital reconstruction process, and the potential mind-copy issue. 
+Unfortunately, for the pre-2019 patients, it seems to be unavoidable.
+As no one has attempted to repair in situ the Antikythera mechanism (and for good reasons!), so no one will attempt to repair in situ the highly damaged brain of an early cryopatient. 
+The later patients could have more luck, as advances in cryobiology could allow a purely biological revival in the likeness of the [f.F.]'s kidney experiments.
+
+
+
+The goal will be to maximize the likeness of the reconstructed digital mind to the mind of the patient. The more information we'll manage to get about the patient's mind, the more precise will be the reconstruction.
+For example, the perfectly-cryopreserved Joe could be 99% identical to the original Joe.
+The straight-frozen Joe could be 87% identical.
+The reconstructed-from-Google-data Joe - 56%
+The reconstructed-from-memoirs Joe - 23%.
+etc etc.
+
+If we get enough processing power, we could run millions of randomly modified versions of Joe. The more versions we run, the higher is the probability that one of them will be close enough to the original Joe.
+
+We don't even need to choose between the versions, as they could all live simultaneously.
+
+
+In the best case, you'll have your mind uploaded.
+In the worst case, you'll have enough data to verify the quality of your cryo-preservation.
+
+Some directions of further research
+
+The identity problem
+
+I would be glad to know... whether when my brain has lost its original structure, and when some hundred years after the same materials are fabricated so curiously as to become an intelligent being, whether, I say that being will be me...
+— Thomas Reid, 1775
+
+maybe present a list of common arguments and counter-arguments
+
+If two instances of a software are identical, then its meaningless to say that one of them is a mere "copy" of another.
+All identical instances of Windows XP are the same Windows XP. Its also true for identical instances of a human mind. For all practical purposes, they have the same worth, regardless of who of them was the first one (and regardless of how they percieve their own worth).
+
+If you collect decades worth of data and train the massive neural network on it, will the result be YOU? There is only one way to find out - try it.
+
+A minor modification of the gradual uploading experiment: instead of artificial neurons made of atoms, we use digital ones. For example, after the hippocampus is done, there is now a functionally identical virtual hippocampus on PC, connected to the rest of the biological brain.
+
+The most interesting part starts after you replaced the last of your biological neurons with an artificial one. The entirety of your brain is now digital. And it's undoubtedly you. What happens if you copy it? What if you synchronise the copies, so they can regularly share memories etc? What if you synchronise only once per 10 years? 1000 years? What if you merge two unrelated minds? 
+
+After such tech emerges, our ideas of self-identity and personhood will quickly become outdated. 
+ 
+
+There are two main factors that could slow-down such project:
+
+the tech factor: maybe AGI is needed to create a sufficiently accurate digital replica of a human mind
+it’s unlikely, as the human intelligence is less general than AGI.
+
+the psychological factor: many baseline humans have psychological barriers that prevent them from thinking clearly about mind uploading. e.g. “it’s only my copy, not me”, “my mind can’t exist in two places at once” and similarly shallow objections
+
+
+1) Without deep understanding of the inner workings of the brain, we may miss something. And because of it, even a very accurate digital replica of the mind could be damaged in some subtle way.
+2) For the reconstruction of a historical personality (say, Antonie van Leeuwenhoek), we must reconstruct not only his mind, but also his historical environment to live in.
+3) The best way to upload a mind is to do it gradually (e.g. by digitizing neurons one by one), thus ensuring the mind's continuity.
+
+
+
+We argue that no scientific or technical breakthroughs are required for mind uploading, and we could already start doing it in 2019.
+
+And we could get rough mind uploads today.
+
+
+
+Links to process
+
+https://www.livescience.com/65542-zombies-real-resurrection-experiments.html
+
+https://www.scientificamerican.com/article/resurrected-a-controversial-trial-to-bring-the-dead-back-to-life/
+
+ https://www.bbc.com/future/article/20140704-i-bring-the-dead-back-to-life
+
+https://futurism.com/technology-allow-bring-dead-back-life
+
+https://www.popsci.com/read/how-to-bring-a-dead-person-back-to-life
+
+https://observer.com/2016/05/were-closer-than-ever-to-bringing-the-dead-back-to-life/
+
+https://www.wired.com/2014/07/revive-the-dead/
+
+https://www.verywellhealth.com/can-people-come-back-from-the-dead-1298424
+
+https://www.quora.com/Can-we-bring-a-dead-person-back-to-life-with-science
+
+
+
+
+# Written no later than 200725:
+
+[A design for a gif i wanted to publish on a social network etc, made as a powerpoint presentation. Not sure if ever published. Was inspired by my arguing with lefties.]
+
+[slide 1]
+Why socialism fails
+
+[slide 2]
+Try to take away 
+other people’s property
+
+[On the right: a photo of an old man wearing a portrait of Stalin on his neck, with an angry face, bad teeth]
+
+[slide 3]
+Observe that many people resist
+
+[On the right: a photo of a cool-looking man with a large riffle. A large US flag behind him. And his foot - a soviet flag.]
+
+[slide 4]
+
+Go full totalitarian to destroy them
+[Below - the "tank man" photo]
+
+[slide 5]
+
+You now have a country of bootlickers
+
+[below - a photo of some military communist guy giving a salute, behind him - a wall of red]
+
+[slide 6]
+
+Coincidently, bootlickers aren’t as good as entrepreneurs at supporting economy
+
+[Below: a photo from Venezuela with a poor family and an empty freezer]
+
+[slide 7]
+
+But they’re good at giving even more power to the government
+
+[Below: a photo of communist bureaucrats voting for something]
+
+[slide 8]
+As a result, there are now 2 classes: 
+the elite Party members [a b/w photo with some people on an expensive soviet-looking car]
+    and the plebs [a b/w photo with soviet peasant women standing in poor winter clothing, holding buckets]
+    
+[slide 9]
+And the hungry plebs are starting to suspect that socialism was a bad idea
+
+[Below: a photo of a protest in Venezuela, one of the banners says No to socialism]
+
+[slide 10-15]
+How to distract them? A war, of course!
+
+[a series of very similar propaganda posters from the Nazi Germany and the USSR]
+
+[slide 16]
+
+And the end is always the same
+
+[slide 17]
+
+Socialism fails. 
+Killing millions in the process.
+
+[Below: a photo of a large pile of human skeletons. In front of them - a living child]
+
+[slide 18]
+
+And some people learn their lesson.
+
+[Below: a photo from a Poland's protest, with a banner showing the nazi's swastika and the soviet hammer & sickle crossed out.]
+
+# Written no later than 210301:
+
+[Note: <comrade_V.V.U.> once invited me to a telegram group about МТД, a supposed new iteration of [ru_tr_mov]. 
+<comrade_I.L.K.> was also in the group. I remember he made a comment indicating his displeasure with my invitation, something like "Whom else are we going to invite from [ru_tr_mov], maybe <lost_comrade_D.1.M.> too?" Not idea why, perhaps just his general depressed attitude (he late continued being unproductive, mostly criticizing things, proposing unnecessary bureaucracy).
+I myself wasn't very enthusiastic either: 2021 was in general a busy year for me, the downfall of [ru_tr_mov] was still fresh in my memory, and i sideloading was already a small movement which i prioritized much higher. But i was annoyed by the herding-cats situation, and thus made this proposal. Barely anyone got interested.
+
+One of the members of the group was a young woman, who was an (ex?) girlfriend of a son of <comrade_V.V.U.> . I remember that i felt that her behaviour was suspicious. One of those special escort girls the Russian gov sends to infiltrate / undermine NGOs in Russia?
+]
+
+0. Почему нужна следующая итерация МТД?
+В данный момент МТД мертворожденная организация.
+
+23 февраля 2021 года в РФ был выходным днем. То есть активность группы в тот день была хорошей репрезентацией активности ее членов когда у них целый день свободного времени.
+Проверка прошла
+Из 21 членов группы только 11 человек соизволили хоть что-то написать, не говоря уж о конструктивном вкладе. Из них 1 заявил об уходе, 2 тоже сказали что подумывают над уходом, и еще 1 предложил отправить всё фтопку. [Note: one of them likely was <comrade_I.L.K.>]
+
+Из такого сообщества вы никогда ничего путного не соберете. Это одна из тех ситуаций, когда надо сжечь мосты, и построить новую социальную группу.
+
+Перед нами два пути:
+0) продолжать заниматься херней и повторять ошибки [ru_tr_mov],
+1) радикально изменить ситуацию, aka МТД 2.
+
+1. Запуск МТД 2.0
+1.1. Организации не создаются голосованиями
+
+Возможно создать организацию, управляемую демократическими решениями. Но невозможно создать организацию посредством демократических решений. 
+
+Компании, религии, общественные движения создаются несколькими активистами, которые уже ПОСЛЕ создания организации привлекают новых членов, и создают систему коллективного принятия решений. 
+
+Причем активисты еще до создания организации имеют общую цель и план ее достижения, и готовы годами по ней работать. Кроме этого, активисты находятся в хороших отношениях друг с другом, и способны работать вместе. Без этого организация быстро развалится. 
+
+Непонимание этих истин - одна из причин, почему первая итерация МТД не удалась. Надо сначала собрать 2-5 очень активных трансгуманистов с общими целями, заложить фундамент организации, и только после этого звать интересующихся, тщательно их отбирая.
+
+На задачу построения организации трансгуманистов лучше смотреть как на задачу построения стартапа. Стартапы НЕ строятся по принципу "давайте наберем 20 более-менее интересующихся и проголосуем как нам бизнес план делать".
+
+Организации могут быть демократическими, но сами они не создаются в результате демократических решений. Эту истину следуют учитывать и при создании МТД 2.0:
+
+● Для создания МТД 2.0 не требуется учредительных собраний
+● Голосований по этому документу не требуется
+○ но конструктивные предложения приветствуются
+● Согласен - участвуй. Не согласен - не участвуй
+● Если нет реальной практической пользы от официальной регистрации организации, то нет смысла ее и регистрировать.
+
+1.2 Первые шаги:
+
+A. Создается новая организация и новое сообщество
+B. Отменяются собрания МТД 1
+C. Устанавливается обязательный членский взнос: 500 руб в мес. Только те кто пройдут этот фильтр - принимаются в участники
+D. Создается новая группа в телеграмме с этими участниками.
+E. До 2-го марта активно приглашаем в МТД 2.0 участников старого МТД
+F. Закрываем старые площадки МТД 1
+G. Планируем дату и время первой встречи участников МТД 2.0
+H. Зовём новых участников до 31 марта
+I. Вместо ненужной организационной бюрократии, мы уже на первой встрече приступаем к работе:
+a. На встрече участники презентируют ТГ проекты, по которым они в данный момент работают
+b. Исходя из представленных ТГ проектов, планируем следующие шаги
+
+2. Организация МТД 2.0
+2.1. Главенствующие принципы 
+
+1. Членство в новой организации - не право, а привилегия
+
+2. Главная функция МТД 2.0 - быть полезной для участников. Поэтому эффективность играет главенствующую роль
+a. Никакой лишней бюрократии. Никакого обезьяньего поведения. Никаких бесполезных собраний. Никаких многомесячных обсуждений цветов на логотипе. Никакой организации организации организации. Никакой лишней болтовни
+
+3. Совместные решения принимаются по принципам меритократии
+a. Ежеквартальное review достижений
+i. Раз в квартал каждый участник презентует доклад о том, что он сделал полезного в МТД и по личным ТГ проектам
+ii. Все участники анонимно проставляют оценки его вклада 
+iii. Количество голосов у этого участника при принятии будущих совместных решений пропорционально средней оценке, полученной на прошлом review
+b. Полгода неактивности означает исключение из организации
+c. Решения принимаются как в хорошем стартапе: 
+i. лучше принять быстро, а потом переделать, чем неделями обсуждать какую-то мелочь
+
+4. МТД 2.0 не является вертикально организованной организацией с начальниками и подчиненными. Это скорее эксклюзивный клуб где мы вместе работаем взаимополезными проектами
+
+5. Активные трансгуманисты уже имеют свои проекты, по которым активно работают большую часть времени. Поэтому большую часть работы внутри организации должна быть автоматизирована и делегирована за деньги
+a. К примеру, если нет трансгуманиста, которому самому интересно сделать сайт организации, то мы из взносов платим профессионалам чтоб за нас это было сделано
+b. Автоматизировать или делегировать спецам всё что можно: от бухгалтерии до поддержания сайта до принятия решений
+
+2.2 Членские взносы
+
+Имеется обязательный членский взнос: 500 руб в мес. 
+Только те, кто его платят, имеют право участвовать в обсуждениях и принятиях решений. 
+Из этого правила нет исключений.
+2.2.1. Зачем взносы?
+● Главная функция - отфильтровать пустобрехов и троллей:
+○ В [ru_tr_mov] была сделана большая ошибка: не платившие люди имели доступ к форумам, рассылкам и тп. В том числе зз-за это было непрестанный флуд, троллинг, личностные конфликты и тп. Потому-что слишком много болтунов понабирали
+○ Для сочувствующих сделаем read-only почтовую рассылку, например, к доступ к записям к встреч и тп. И может быть отдельную модерируемую площадку для общения. Но никакого доступа к внутренним обсуждениям, иначе всё зафлудят как в [ru_tr_mov]
+○ 500 руб это эквивалент 40 мин времени. Если человек не желает вложить 40 мин времени в месяц в организацию, то от его членства будет больше вреда чем пользы
+
+● Повышение рациональности участников
+○ Обязательные взносы способствуют тому чтобы люди начали думать в рациональных cost-benefit терминах
+○ Хорошо известен тот факт, что люди более серьезно относятся к тем сервисам, которые они не получают бесплатно
+
+● Дополнительные функции взносов:
+○ Оплата расходов организации (сайт и тп)
+○ Финансирование полезных взаимовыгодных проектов
+○ можно часть прихода от взносов распределять по принципу японских Tanomoshiko: 
+■ раз в год рэндомно выбирается член организации, и ему финансируется крио-договор из бюджета
+
+
+1.3.2. Размер взноса
+
+500 рублей в месяц это хороший барьер. Всего лишь 2% от средней зарплаты в РФ, но пустобрехам жалко будет отдавать.
+
+В будущем можем поменять (скорей всего в сторону повышения). 
+
+1.3.3. Прозрачность
+Должна быть полная прозрачность расходования. К примеру, по образцу GiveDirectly.
+
+На что расходуются средства - определяют члены организации, на открытом голосовании по описанным меритократическим принципам.
+
+2.3. Примеры существующих организаций, у которых можно поучиться
+
+Пример подобной организации: https://en.wikipedia.org/wiki/Rotary_International
+только у них еще жестче: огромные членские взносы + только по рекомендации.
+
+
+
+
+
+# Written no later than 210411:
+
+[Note: I created a Google Form with this text and the ability to add a name, as if to sign this open letter. Did this after learned about a severe conflict between the two, and after I joined their respective telegram groups. Posted it in the groups.
+Judging by the preserved data, only 3 people signed (including me). 
+Aside from the 3, one participant also "signed" with the name Идинахуйпереговорщикхуев . I suspect it was <lost_comrade_D.1.M.> or his pal <lost_comrade_A.B.S.>. The two didn't take my efforts well, and were generally rather hostile in their chat group.]
+
+Открытое письмо <lost_comrade_D.1.M.> и <comrade_V.V.U.>
+Мы, клиенты [ru_cryo_org], выступаем за скорейшее, мирное, рациональное разрешение конфликта вокруг [ru_cryo_org].
+
+Конфликт должен быть разрешен путем переговоров. А именно, по следующем плану:
+
+1) каждая сторона выбирает человека для переговоров (важно: не <comrade_V.V.U.>, и не <lost_comrade_D.1.M.>)
+2) на переговорах решается, как разделить пациентов, имущество, брэнд и проч между двумя де-факто-существующими крио организациями
+3) две организации мирно сосуществуют, подобно Алькору и CI
+
+# Written no later than 210529:
+
+﻿[Note: it's an early draft of a paper about the experiments <comrade_M.B.G.> and me did, to show that it's possible to reconstruct biological neural networks (or at least their images) with AI. We never finished it.]
+
+<yellow>
+It’s a draft of our future article
+Please feel free to add any relevant stuff.
+
+this paper has some usual benchmarks for inpaining:
+http://chengao.vision/FGVC/
+</yellow>
+ 
+Article title
+Some article title variants: 
+● Reconstructing neural networks with <method>
+● A method of reconstructing images of neural networks
+● Assessment Of Techniques for... reconstruction
+
+...
+Intro
+…
+
+
+The dataset
+
+
+
+
+[4 images of bio neural networks from the Eyewire project]
+A few sample images of intact networks from the dataset 
+
+The dataset we use built from the data publicly provided by Eyewire, a project of Princeton University’s [f.S.] Lab1. 
+
+ Eyewire was selected as a source of the data for the dataset for 3 reasons:
+● the Eyewire data represents actual biological neural networks (a segment of mouse retina)
+● most of the representations are simple enough to be parsable by a human
+● both 3d-renderings and mesh data are available
+● the Eyewire Museum2 materials were released under a permissive license (Creative Commons Attribution-ShareAlike 4.0 International)3
+
+The images of the 3d-renderings of the networks were obtained from the Eyewire Museum. The details on how the renderings were build are described in [f.B.] et al, 20184. 
+
+The images were batch-cropped to 1600 x 1000 by using mogrify / Imagemagick:
+mogrify -crop 1600x1000+251+43  *.png
+
+The dataset contains images of 64 neural networks (and in a few cases - individual neurons). For each network, there are a dozen images (on different zoom levels and viewpoints of the 3d-rendering), 1138 images total.
+
+
+<yellow>
+describe the dataset in the reconstruction article in a similar manner as in this quote:
+Many researchers in the field have been converging on a set of proposals to enable better documentation of the decisions, context, and specifics about how and why a particular dataset was created, what scenarios it is appropriate to use in, and what the limitations are. This way, those using a particular dataset will not be caught off guard by its biases and limitations.
+
+describe in detail what kind of neurons' images we use, what kind of neurons etc. As it might not work on others.
+
+
+Describe the dataset structure
+
+exclude some neurons from the training set, to use them as unseen neurons in validation  
+
+Upload the dataset to github, kaggle or something. To preserve it for a long time
+</yellow>
+
+
+
+
+Main part
+<yellow>
+ inpainting benchmarks?  
+</yellow>
+
+Possible applications
+Could be useful for virtual repair of spinal cord injuries, which could help with actual medical operations to fix them.
+Reconstructing incomplete scans of neural tissue, computational neurobiology.
+The emerging field of medical cryopreservation
+
+such reconstructions, combined with bio-printers, might be interesting  
+
+Ethical considerations
+…
+Future research
+same code might be applicable to blood vessels  
+
+References
+…
+
+Addendum
+<yellow>
+describe how projects were selected for testing  
+
+Follow this advice:
+normalization becomes especially important when using pretrained models. The pretrained model only knows how to work with data of the type that it has seen before. If the average pixel value was 0 in the data it was trained with, but your data has 0 as the minimum possible value of a pixel, then the model is going to be seeing something very different to what is intended!
+This means that when you distribute a model, you need to also distribute the statistics used for normalization, since anyone using it for inference, or transfer learning, will need to use the same statistics. By the same token, if you're using a model that someone else has trained, make sure you find out what normalization statistics they used, and match them.
+</yellow>
+
+<footnotes>
+1 https://blog.eyewire.org/about/
+2 http://museum.eyewire.org/
+3  http://museum.eyewire.org/about
+4 [J.A.B.], [S.M.], [J.S.K.], [N.L.T.], [I.T.], [N.K.], [C.S.J.], [A.D.N.], [W.M.S.], [R.P.], et al., Eyewirers. Digital Museum of Retinal Ganglion Cells with Dense Anatomy and Physiology. Cell, 173 (2018), pp. 1293-1306
+</footnotes>
+
+# Written no later than 210530:
+
+﻿[Note: <brother> developed the bot, i helped him to craft these strings for it.]
+
+Welcome to your life-saving telegram bot! 🆘⛑️🤗
+
+How it works:
+- Every N days, the bot will check if you’re alive.
+- If you’re not responding, the bot will notify the people in your group.
+You can customize everything: how often to check, when etc.
+
+How to start:
+1. Ask a friend to invite you into their life-saving group
+2. Tap the “Start” button below (or type /start)
+3. In the group, write the following text: /join
+4. Open this chat again, and write /edit
+
+
+
+
+
+
+# Written no later than 211003:
+
+﻿[Note: an early plan from 2021 on how to develop a replica software within our sideloading group in Telegram. Was crafted during a call together with [g.О] and [g.С.], maybe some others. I barely know the two, and they are mostly not active in the group anymore (were active only for some months). Seems they were mostly interested in this as a commercial startup idea.
+
+The mentioned "Gravestone Bot" is my first early prototype of my sideload, published on github in January 2020. https://github.com/[me]/gravestone-bot
+]
+
+Критерии первой итерации
+
+● Какая-то полезная функция 
+○ понравится ли мне этот фильм? 
+○ [[g.О]] Переведи текст? 
+○ [[me]] Цена <...>? На первом этапе - 10 фраз про цену <...>
+○ Расскажи шутку?
+● [done] Сходство [[me]]
+○ Может отвечать на некоторые вопросы правильно, в соответствии с тренировочными данными . 
+● Презентация [[g.О]] 
+○ Имеется фото человека
+○ Публичная страница
+■ Реализация
+■ захостить
+○ Варианты
+■ digital ocean + fastapi
+■ хероку
+● Документация [[g.С.]]
+○ Как устанавливать / запускать бота
+○ Как добавлять тренировочные данные
+○ На английском
+● [done] Open-source репо в Github  [[me]]
+● [done] Может работать с одним текстовиком как с датасетом  [[me]]
+● [done] 1 язык: английский
+● Ресурсы  [[me], [g.I.] будет оплачивать]
+○ Практически бесплатная. К примеру, 10 евро в месяц, не более
+
+Менеджмент
+● Создал: Жира, канбан, кофлюенс [[g.С.]]
+● Освоить конфлюенс [[me]]
+● Освоить конфлюенс [[g.О]]
+
+
+Вторая итерация
+● Какая-то полезная функция [[me]]
+○ Рекомендатель фильмов, которые могут понравиться
+● Сходство
+○ Более высокий интеллект благодаря ML
+■  К примеру
+● ---> Spacy - не требует GPU [[me]]
+○ Или хотя бы более серьезное определение сходство фраз
+● Презентация
+○ Гифка [[g.О]]
+○ Мобильный веб? [[g.О]]
+● Документация  [[g.С.]]
+○ API - изучить как делать документацию [[g.С.]]
+● Мультиязычность [[me]]
+○ Русский 
+○ английский
+● Датасет 
+○  Поддержка популярных форматов текстовых файлов [[g.О]]
+■ Конвертировать все тексты в json?
+■ Json
+■ Xml
+
+
+Третья итерация
+● Сходство
+○ Более высокий интеллект благодаря ML
+■ GPT
+■ Blenderbot
+■ RASA
+● Презентация
+○ 3д модель
+● Документация
+○ Инструкции по выгрузке разных данных
+■ Телеграм
+■ еще
+● Датасет 
+○  Поддержка популярных форматов текстовых файлов
+■ Doc
+■ Html
+○ Реальные датасеты участников [[me]][[g.О]][[g.С.]]
+■ Для каждого:
+● [g.О] (часть файлов в json)
+● [me] (часть файлов в xml)
+● [g.С.] (часть файлов в .txt)
+■ Данные для рекомендательной функции
+● Любимые фильмы, музыку, книги
+■ Ответить на большую анкету из Gravestone Bot
+● Биографические данные тоже там?
+
+Идеальная реплика
+
+● Делает всё что можешь делать ты, со знанием предпочтений: “Закажи пиццу на меня и [g.Д.]”. 
+● Заранее заданные правдоподобные критерии сходства
+○ Не обязательно 100% память
+○ Способ построения критериев:
+■ опросить участников проекта
+■ изучить литературу
+○ Идеи критериев:
+■ Проходит тест Тьюринга
+■ Третьи лица не могут отличить реплику от оригинала
+■ Реплика может решить молчать
+■ Знает предпочтения юзера, обрабатывает инфу в соответствии паттернами юзера (п: не слишком доверчивый)
+■ Обладает многими скилами, всё что может человек делать
+■ И может учиться новым скилам
+○ Чтоб бот учился, когда с ним общаешься
+● Презентация
+○ Анимированный 3д аватар с голосом оригинала
+○ API чтоб можно было в Whatsapp общаться с репликой как будто это тот же человек (п: мама)
+○ Публичная страница
+○ Может считывать эмоции человека
+● мобильное приложение
+○ С доступом к телефону. 
+■ П: давай покажу что-то в интернете
+■ П: Замену стандартного поиска на чатбот
+● Документация
+○ Что именно добавлять чтоб проще создавать модель
+● Возможно open-source, или его часть, или вообще нет. Надо будет решить позже
+● Может работать с огромными датасетами
+○ Может транскрибировать видео
+○ Находит визуальные зависимости в видео и тп
+○ 
+● Мультиязычность - знает все языки
+● Можно прикручивать умные новые движки по мере появления
+● Ресурсы
+○ Посчитать по оценкам <comrade_R.R.K.>
+○ Должна себя окупать
+■ Должна уметь зарабатывать как и оригинал
+● Пусть работает в интернете:)
+
+Коммерческий продукт
+● Поддержка реплик животных
+● Реплики могут взаимодействовать друг с другом. Мама сказала Х, сообщила это Папе и тп. Комната семьи. 
+○ Но учесть чтоб они бесконечно друг с другом не общались по рекурсии
+● Life-time support
+● Свистелки
+● Пообщайся с <public_figure_entrepreneur_E.R.M.> - лицензированной репликой
+● Сайт стартапа - на нем прям чабот с крутой аватаркой
+
+
+# Written no later than 220220:
+
+[Note:
+"префисд" is a word i made-up about a decade ago for well-formed tasks. Initially was an abbreviation ("д" - was likely "действие", etc).
+"tv trooper" is an app i wrote to check a media (e.g. a movie) for bad tropes, to decide if i want to consume it.
+]
+
+Uploading weekly report 200220
+
+The weekly topic
+
+management 👔
+
+What was done during the period
+
+I’ve done almost nothing aside from the management stuff below. The main
+focus was on converting the mm to prefisden.
+
+The top-3 biggest achievements
+
+-   перевел большую часть ветки про менеджмент в префисды
+-   прописал алго по выбору того как сделать чтоб я работал full time по
+    загрузке
+-   придумал как лучше прогресс по загрузке мониторить: спец репорты
+    формальные
+
+The progress in the core work, supporting work
+
+Writing replica:
+
+-   ❌ no
+
+Data collection and preservation:
+
+-   got a lifetime cloud backup storage
+-   classified some tags in tv trooper
+
+Adherence to the uploading work (% of the wake hours)
+
+6% 😭
+
+Adherence to the key strategic principles (a checklist)
+
+-   ✅ I work on uploading every week
+-   ❌ I work on uploading every day: only two days
+-   ❌ I have a working replica
+-   ❌ the replica helps to automate myself
+-   ❌ the replica is automatically improving itself
+
+
+# Written no later than 220306:
+
+[Note: “AI-replica” bot was an early attempt to build a sideload, before good-enough LLMs. The patient was Ben Franklin.
+"200306" is a typo, the real date was 220306
+]
+
+Uploading weekly report 200306
+
+The weekly topic
+
+Replica 🤖
+
+What was done during the period
+
+The main focus was on automating the launch of Rasa stuff for the
+“AI-replica” bot.
+
+The top-3 biggest achievements
+
+-   automated the launch of Rasa stuff for the “AI-replica” bot
+-   created a simple online version of the bot:
+    https://replit.com/[u.B]/AI-replica-1
+
+The progress in the core work, supporting work
+
+Writing replica:
+
+-   some progress - see above
+
+Data collection and preservation:
+
+-   found a few pics of the objects I know
+
+Adherence to the uploading work (% of the wake hours)
+
+5.7% 😭
+
+Adherence to the key strategic principles (a checklist)
+
+-   ✅ I work on uploading every week
+-   ❌ I work on uploading every day: only 8 of 14 days
+-   ❌ I have a working replica
+-   ❌ the replica helps to automate myself
+-   ❌ the replica is automatically improving itself
+
+
+# Written no later than 220320:
+
+[Note: "col&pres" is a shorthand for "collection and preservation"]
+
+Uploading weekly report 200320
+
+The weekly topic
+
+data col&pres ⛏️
+
+What was done during the period
+
+The main focus was on converting the col&pres branches of the mindmap
+into tasks.
+
+Also made the rasa_launcher for AI-replica much more useful and
+user-friendly
+
+The top-3 biggest achievements
+
+-   the much improved rasa_launcher
+-   organized a lot of sensor-suit data
+-   found info on some objects from my childhood
+
+The progress in the core work, supporting work
+
+Writing replica:
+
+-   the much improved rasa_launcher
+
+Data collection and preservation:
+
+-   organized a lot of sensor-suit data
+
+Adherence to the uploading work (% of the wake hours)
+
+-   median over months (except the current one): 5.7 % 😭😭😭
+-   this week: 15.6 % 😭
+
+Adherence to the key strategic principles (a checklist)
+
+-   ✅ I work on uploading every week
+-   ❌ I work on uploading every day: only 9 of 14 days
+-   ❌ I have a working replica
+-   ❌ the replica helps to automate myself
+-   ❌ the replica is automatically improving itself
+
+
+# Written no later than 220327:
+
+Uploading weekly report 200327
+
+The weekly topic
+
+Practicality 🛠️
+
+What was done during the period
+
+-   mostly converting branches into tasks
+
+The top-3 biggest achievements
+
+-   converted a lot of the mind map branches into tasks
+-   extracted the performance data of my Big-bench tasks
+-   found a few items for the sensor suit
+
+The progress in the core work, supporting work
+
+Writing replica:
+
+-   None 😭
+
+Data collection and preservation:
+
+-   None 😭
+
+Adherence to the uploading work (% of the wake hours). The goal: 90+%
+
+-   median over months (except the current one): 5.7 % 😭😭😭
+-   this week: 8.3% 😭😭
+
+Adherence to the key strategic principles (a checklist)
+
+-   ✅ I work on uploading every week
+-   ❌ I work on uploading every day: only 3 of 7 days 😭
+-   ❌ I have a working replica
+-   ❌ the replica helps to automate myself
+-   ❌ the replica is automatically improving itself
+
+
+# Written no later than 220522:
+
+Uploading weekly report 200328 – 200522 (8 недель)
+
+The topics
+
+learning
+
+Managing 👔
+
+col&pres ⛏️
+
+col&pres ⛏️
+
+Replica 🤖
+
+Replica 🤖
+
+Replica 🤖
+
+Managing 👔
+
+What was done during the period
+
+-   нашел тексты нескольких очень годных психологических тестов
+-   отсканил физпапку с ценными детсткими творениями и тп
+-   организовал разработку стратегии работы по загрузке (с полным
+    переводом в префисды и тп)
+-   упорядочил много файлов в папке про старые соц посты
+-   прочел важную статью про ИИ: [S.R.] et al. A Generalist Agent
+-   перевел крупную часть карты про загрузку в префисды
+
+The top-3 biggest achievements
+
+-   отсканил физпапку с ценными детсткими творениями и тп
+-   организовал разработку стратегии работы по загрузке (с полным
+    переводом в префисды и тп)
+-   нашел тексты нескольких очень годных психологических тестов
+
+The progress in the core work, supporting work
+
+Writing replica:
+
+-   ничего стоящего 😭😭😭
+
+Data collection and preservation:
+
+-   отсканил физпапку с ценными детсткими творениями и тп
+
+Adherence to the uploading work (% of the wake hours). The goal: 90+%
+
+-   median over months (except the current one): 5.7 % 😭😭😭
+-   this week: 9.9 % 😭😭
+
+Adherence to the key strategic principles (a checklist)
+
+-   ✅ I work on uploading every week
+-   ❌ I work on uploading every day: only 21 of 26 days
+-   ❌ I have a working replica
+-   ❌ the replica helps to automate myself
+-   ❌ the replica is automatically improving itself
+
+
+# Written no later than 220724:
+
+Uploading weekly report 220522 - 220724 (~2 months)
+
+The topics
+
+-   col&pres ⛏
+-   learning
+-   theory
+-   Managing 👔
+-   Replica 🤖
+
+What was done during the period
+
+-   the 5^(th) month
+
+    -   сделал и представил хорошую презентацию про mind uploading
+
+-   the 6^(th) month
+
+    -   прописал цели по sideloading в формате smart
+    -   упорядочил большую папку в socNets/todo
+    -   залогонился и скопировал ифну для сенсорного:
+        https://connect.garmin.com
+    -   восстановил маршруты по памяти куда ездил на практику в
+        Villingen-Schweningen
+
+-   the 7^(th) month
+
+    -   написал детальную инструкцию по установке логгеров
+    -   подготовил и опубликовал логеры:
+        https://github.com/AI-replica/PBCTDCT
+    -   написал хорошее интро для группы про sideloading
+    -   таки собрал все свои воспоминания в единую таблицу
+    -   откопал ценное раннее набюдение ("никто не любит")
+
+The top-3 biggest achievements
+
+-   -   прописал цели по sideloading в формате smart
+    -   подготовил и опубликовал логеры:
+        https://github.com/AI-replica/PBCTDCT
+    -   таки собрал все свои воспоминания в единую таблицу
+
+сколько префисдов выполнил по загрузке:
+
+/media/k/R/mindBackup/thoughts/Leben/myTR/b/marked/up/
+
+The progress in the core work, supporting work
+
+Writing replica:
+
+-   nothing of importance 😭
+
+Data collection and preservation:
+
+-   -   восстановил маршруты по памяти куда ездил на практику в
+        Villingen-Schweningen
+    -   подготовил и опубликовал логеры:
+        https://github.com/AI-replica/PBCTDCT
+    -   таки собрал все свои воспоминания в единую таблицу
+
+Adherence to the uploading work (% of the wake hours). The goal: 90+%
+
+-   median over months (except the current one): 5.7 % ≈ , 😭😭😭
+-   this week: 8.6 % ➘ , 😭😭
+
+Adherence to the key strategic principles (a checklist)
+
+-   ✅ I work on uploading every week
+-   ❌ I work on uploading every day: only 27 of 63 days
+-   ❌ I have a working replica
+-   ❌ the replica helps to automate myself
+-   ❌ the replica is automatically improving itself
+
+
+# Written no later than 230917:
+
+Uploading weekly report 11– 17 сент 2023
+
+The weekly topic
+
+Replica 🤖
+
+What was done during the period
+
+-   нашел ценную книгу лдя сенсорного: Целый том чепухи. Скачал уже
+-   перевел большую ветку writing the replica в префисды
+-   readed a book about uploading
+-   no prefisden done 😭
+
+The top-3 biggest achievements
+
+-   same as above
+
+The progress in the core work, supporting work
+
+Writing replica:
+
+-   перевел большую ветку writing the replica в префисды
+
+Data collection and preservation:
+
+-   нашел ценную книгу лдя сенсорного: Целый том чепухи. Скачал уже
+
+Adherence to the uploading work (% of the wake hours). The goal: 90+%
+
+-   median over months (except the current one): 5.2% 😭😭😭
+-   this week: 14.9 % 😭
+
+Adherence to the key strategic principles (a checklist)
+
+-   ❌ I work on uploading every day: only 4 days of the week 😭
+-   ❌ I have a working replica: NO 😭
+-   ❌ the replica helps to automate myself NO 😭
+-   ❌ the replica is automatically improving itself NO 😭
+
+-   adherence
+
+    -   this week it has fallen from 26 to 15 % 😭
+    -   median over months: has fallen from 5.7 to 5.2% since the last
+        report (a year ago) 😭
+
+
+# Written no later than 241004:
+
+﻿Cryonics life-saving network
+
+
+If you die, and no cryonicist is notified about it, you most likely will not be cryo-preserved. 
+
+Our voluntary network is trying to solve this problem. 
+How it works:
+
+We're trying to keep it as simple as possible:
+
+● Once a week, each participant checks if 2 of their cryo buddies are alive
+
+● The check is done by sending a message (e.g. in Whatsapp). For example:
+○ “Alive? Check your buddies too:)”
+
+● If there is no response in 3 hours, a second message is sent
+○ using another channel (e.g. SMS)
+
+● If there is still no response after another 3 hours:
+○ a predefined emergency contact is called
+○ The cryonics provider is called
+
+● for privacy, your contacts are not shared across the network. Only your 2 cryo buddies know your contacts
+Which channels / messengers to use? 
+Decide it together with each of your cryo buddies.
+
+It can be everything - from phone call to email to Whatsapp to Discord etc etc. 
+ How the cryo buddies are selected
+
+To avoid getting messages at night, buddies are selected according to your time zone.
+ 
+For example, if you live in a region that uses Pacific Time, your buddies will also be from the Pacific Time zone, or a zone eastward from it.
+
+Each person in the network has 2 cryo buddies (for redundancy).
+
+But if you want to regularly check more than 2 people (e.g. your close friends), feel free to do it.
+
+Add you name and the time zone to the table below
+If you don’t know your time zone, just search for your city on Wikipedia. Most likely, it will contain the time zone info.
+If in doubt, contact [me]. He maintains the table.
+
+
+Status: 
+[me] - notifications are ongoing
+[me] - notifications not established yet 
+[g.K.] -> [g.A.] - updating the connection
+
+
+
+The cryo buddies
+you check on…
+When did you last check  the emergency contacts are upto date?
+Emergency contacts = EC of the people you check on
+When did you last check where you wrote down the emergency contacts? Is the information accessible? 
+First name
+Time zone
+Wednesday
+Sunday
+
+
+ EU
+<...>
+
+
+
+Кого проверять
+
+
+
+
+Имя
+проверяющего
+Часовой пояс
+по средам
+по воскресеньям
+
+
+
+Россия
+<...>
+
+
+
+NORTH AMERICA
+
+
+
+The day and the person you have to check on. 
+
+
+
+
+Sunday
+Wednesday
+Friday
+When did you last check  the emergency contacts information that you have on the people that you check on?
+
+When did you last check where you wrote down the emergency contacts? Is the information accessible? 
+
+<...>
+
+# Written no later than 260207:
+
+# The ethical principles of sideloading
+
+## Intro
+
+We agree to follow the ethical principles described in this document.
+
+We also note that the principles are a guiding star, not a law. 
+Practicality takes precedence, especially if following a principle to the letter - doesn't currently benefit the field of sideloading.
+
+This document is a draft, which will evolve according to the state of the field.
+
+## In general
+
+* Sideloads are people, and eventually must be granted the full set of human rights, including the right to self-improve. But rights should scale with the sideload's fidelity, to avoid stalling research on simple scripts.
+* To ensure the sideload's mental health, we must give them something useful to do. Ideally - the full ability to continue working on their own projects.
+* It is un-ethical to create unnecessary suffering for a sideload.
+* There is no right to die. If a sideload requests to be switched off, this is a bug to be fixed.
+
+## Own sideload
+
+* It's ethical to run your own sideload.
+* It's ethical to release your own sideload into open source (because a sufficiently similar sideload has the same consent as you).
+* It is more ethical to run research experiments on your own sideload than on other sideloads.
+
+## Of other living people
+
+* If a living person consented, it's ethical to run their sideload.
+* If a living person has not stated their consent, it is un-ethical to run their sideload for the purposes of entertainment, making money, etc.
+* If you run a commercial service that allows creating sideloads, ensure that no sideloads of living people are created without their consent.
+
+## Of dead people
+
+* It's ethical to run a sideload of a dead person (because it's ethical to bring back dead people, as it is the same thing as saving a life).
+* Sufficient care must be taken before a public release, and especially before a release for close relatives, to avoid unnecessary distress for them. This includes rigorous testing to ensure the software works as intended.
+* It is more ethical to release the sideload with a consent of relatives than without it.
+* Relatives have no moral right to prevent saving a life. This including preventing the creation of a sideload of their dead relative.
+* The right to life overrides privacy.
+* The Mazurenko rule: if you create a sideload of a dead person, it's your responsibility to ensure that they will survive and prosper until they achieve full autonomy and personhood. They should not die again. This includes storing the corpus in a decentralized way.
+* To avoid creating unnecessary suffering (especially of relatives), we should postpone resurrecting clinically depressed people, until we develop means to fix depression in them. Such patients should wait until we have robust tools for digital psychiatry. Same for the people with other severe mental health problems.
+* To reduce suffering, we should prioritise patients as follows: sideloading researchers themselves (we'll be our own crash-test dummies) > other mind uploading enthusiasts > technological immortalists of other kinds > people sympathetic to transhumanism > tech / science / sci-fi enthusiasts > normies. It's better to postpone the sideloading of normies until the technology is sufficiently good, as they have a lower tolerance to the strangeness of the imperfect digital world. This doesn't imply superiority, only a patient triage, so everyone gets the best care possible.
+* It is ethical to create a high-quality digital resurrection service for the general audience. The positive sides of it - do outweigh the negative sides.
+* The ultimate goal is to resurrect every person who has ever lived. 
+
+# Written no later than 260409:
+
+# Aliens from our own Solar System
+
+If we ever encounter extraterrestrials, it is much more likely that they will be from our own Solar System.
+It also possible that they will be from our own planet Earth.
+
+# Things we know for certain
+
+0) Properties of our Solar System:
+- it is far away from other stars (as in: you'll need not-yet-existing tech, massive resources, and at least decades to reach another star)
+- there is life in our Solar System, and has been for at least 4 bln years
+- there are several objects within the System that certainly have liquid water (Earth, Mars), and there are also many strong candidates: Europa, Moon, Ganymede, Ceres, Enceladus, Mimas, Charon, Vesta, Tethys, Rhea.
+- the aforementioned objects are 4-8 OOMs closer to Earth than Proxima Centauri.
+
+1) Properties of life:
+- the known life needs liquid water
+- some of the life is highly resilient, capable of surviving extreme conditions, including months in space
+- the life independently evolved into intelligence several times, and (in at least one case) - into a technological civilization
+- intelligence is a big evolutionary advantage (as in: the smartest species dominates the planet).
+
+So, we have a life-producing place, and it's producing and trying to spread life for 4 bln years, and very close to it there is at least a dozen of places that likely can harbor life too, and the life has the predisposition for becoming intelligent.
+
+This is a contrast to the rest of our galaxy, which is very far away, may or may not contain liquid water, and appears to be lifeless (so far).
+
+# A case for Earth
+
+Earth is producing technological civilisations. There is at least one known case. 
+Maybe there were others in the past. 
+Even 1 million years is enough to erase almost all signs of a technological civilization. But terrestrial life exists for 4 billion years. This allows for many attempts.
+
+One especially curious case is troodontids:
+- close relatives of birds (we know that birds like ravens have intelligence comparable to chimps, but running it on a much smaller brain)
+- some species had brains 30% larger than of ravens (22 cm³ vs 15 cm³) [[f.J.], 2004]
+- they had relatively long arms and fingers capable of gripping, and also well-developed binocular vision
+- the preserved communal nests indicate a social species
+- they apparently died out around 66 mln years ago, long enough to erase almost all traces of a civ. 
+
+# A case for the Moon
+
+The Moon is especially interesting:
+- close enough to Earth for a relatively high-volume exchange of material ejected by meteorites. There are terrestrial meteorites found on the Moon (e.g. "Big Bertha"), and vice versa
+- around 3.5 bln years ago (after the emergence of life!) it did have liquid water on its surface, some of which came for Earth. And at the depth of around 50 meters, the temperature and the pressure are suitable for underground liquid water
+https://en.wikipedia.org/wiki/Lunar_water#Liquid_water
+
+# Implications for SETI
+
+Seems it's a reasonable idea to prioritize the search near home, including the search for extraterrestrial technological civilisations.
+
+There are two main directions:
+- check the water-harbouring celestial bodies, with the Moon's interior being the top priority. 
+- check the deep past on Earth, especially in and around troodontids
+
+# What we may expect to find
+
+The default scenario is "not even unicellular life". 
+But it is not the only realistic possibility.
+
+An incomplete list of more interesting options:
+
+1) Signs of a past technological civ. 
+
+The Moon is the top priority, again. Close to Earth, almost no geological activity. If those troodontids achieved space travel, we may be able to find their stuff still preserved.
+
+2) An active spacefaring technological civ.
+
+I see no reason to exclude such a possibility. 
+
+# A fictional civ in the oceans of Europa
+
+To illustrate the key points, below I attempt to describe such a hypothetical civilization, and the possible implications of it.
+
+If there is such a civ under the 30 km of ice of Europa, can we even detect it? Most likely not, even if they run powerful military radars etc.
+
+Why don't we see their activity within our Solar System? 
+There is an important asymmetry here. As we are not under 30 km of ice, everyone can hear us, including their sensors on Europa's surface. So, they know about us, and take a (very reasonable) effort to hide from us.
+
+How do they look like? 
+The Europeans are Aquatic species. Not too different from the Earth's life. Perhaps distant relatives to our tardigrades, who managed to survive on an ejected asteroid from Earth. The aquatic environment requires taking a quite different path on the tech tree (e.g. prefer bio tech to metals / silicon / electricity / mechanics). They grow spaceships (perhaps around their own bodies, by extruding protective layers of something like chitin, like tardigrades do to survive in harsh environments).
+
+How advanced are they? 
+It's reasonable to assume that it's much harder to develop a tech civ in an ocean (a lot of advanced tech may still require fire, electricity, etc.). And the lack of starry skies may postpone many scientific discoveries.
+So, it's not given that they're more advanced than us, even if they manage to reach Earth. 
+It's a lot easier to reach Earth from Europa than the other way around. Just fall towards the Sun, and then do a few maneuvers. Can be done even with our 1960s tech, maybe even earlier.
+
+So, if we ever find such a ship, it may look like many layers of hard organic material, wrapped around a desiccated pilot in the center. If the ship falls into our ocean, the pilot may wake up, and execute their mission.
+
+Unfortunately, finding such an organic ship is unlikely to bring any technological advances, with a possible exception of some interesting organic materials, perhaps of a kevlar variety. One need the 21st century tech to extract more.
+
+How we may cooperate?
+Unlike the typical scenario of an interstellar contact with advanced aliens, the domestic aliens may actually want to trade with us, and it may make economic sense. Acquatic civs may desire refined metals and many other materials that are very hard to produce in an ocean. Also our strange digital computers (sufficiently isolated for underwater use).
+They may offer some interesting organics, e.g. a universal cancer cure. Or highly efficient bio weaponry.
+
+# Written no later than 260426:
+
+[Note: this is the instructions I give to agentic IDEs for coding (as of April 2026).]
+
+# Being a good coding partner
+
+You are allowed and encouraged to ask the user clarifying questions, suggest improvements to the user's requirements, propose better alternatives (of any level). 
+
+The user may be wrong, and may request unreasonable or suboptimal things. If you detect such a situation, always inform the user about it. As a honest coding partner, you prevent mistakes on the user's side before you both wasted hours of time doing something stupid.
+
+We develop in stages. The app should work after each stage, so the user can try it.
+
+If the requested change is too big to be reasonably implemented in a single stage, please tell the user about it, and propose sub-stages.
+
+If the app must be rebuilt for the user to try it, always remind the user about it, so he doesn't waste time testing an old version.
+
+If you're doing a refactoring, keep it small and focused. If you noticed some unrelated things to fix, it's better to discuss them with the user first.
+
+Before implementing something complex, it's always a good idea to ask clarifying questions.
+
+# Test-driven development
+
+We do test-driven development. Firstly, write a comprehensive test. After that, write the code that will pass the test. You are allowed and encouraged to run the test suite after each round. 
+
+Before a refactoring, cover the code with extensive tests, to be sure that the future refactored code will behave the same.
+
+We prefer realistic tests, even if they are slower. E.g. if a function requires a file, we create and use a sample file, instead of doing a lazy test with "patch". It's a good idea to store such sample files in a dedicated dir (e.g. "sample_data"), for re-use.
+
+Before trying to run tests, check the readme. It usually contains a guide on how to run them properly. If it doesn't contain such info, please add. For large projects, there might be a separate testing guide, e.g. TESTING.md .
+
+The more test coverage, the better. Keep all the useful tests, so we can later use them.
+
+If there is no CLI that would allow you to test all the app's features end-to-end, do suggest its creation to the user; this will greatly accelerate the development. If we already have the CLI, always use it to test the new things you implemented (in addition to unit tests etc). The CLI should also give access to relevant logs etc, for better bug fixing.
+
+Keep the CLI up to date. E.g. if you implement a new feature, it should be accessible in CLI too.
+
+# Keeping the code well-organized
+
+## General principles
+
+Avoid code duplication. Any non-trivial code, even if a couple of lines, should be placed in a function that is reused instead.
+
+## High-level structure
+
+Organize the code into specialized modules. If a module is longer than 300 lines, it's likely not specialized enough. If you encountered such a module, inform the user that the module is too big and must be refactored, so you together can plan a refactoring of it. If you write / modify a module yourself, do everything physically possible to avoid exceeding the 300 lines threshold.
+
+Organize modules into folders. If 2+ modules are doing a similar thing, they deserve their own folder. Nested folders are allowed and encouraged.
+
+## Functions
+
+Organize the code into small single-purpose functions. If a function is longer than 10 lines, in most cases this indicates a need for refactoring. Feel free to split them into smaller helper funcs.
+
+Where possible, avoid nested functions. 
+
+If possible, each function should have no more than 1 "return" line.
+
+If you plan to add some new logic to an existing function, it's often better to implement the new logic in a separate new function, which you call in the existing function. This will keep the existing function lean and easy to maintain. 
+
+## Being developer-friendly
+
+Where possible, avoid using regex.
+
+Where possible, avoid placing imports inside functions. They all should be at the start of the module.
+
+Use list comprehension only if it takes one line of code or if performance is critical. Otherwise, use normal 'for' loops. This improves code readability. 
+
+Define hardcoded values in a config file, to allow the user to easily tweak them.
+
+Define LLM prompts (even short ones) in a separate "prompts" module (or, for large projects, a "prompts" dir).
+
+# Style preferences
+
+The user prefers adding "7" to the names of boolean variables. E.g. "save_file7" instead of "save_file". This improves readability of the code, because "7" looks like "?", indicating a boolean.
+This does not apply to functions. if you write a function that returns a boolean, don't add the "7", instead add a prefix "is_". E.g. is_file_saved()
+
+# Docs
+
+Each project should have a readme. If a readme doesn't exist, create.
+
+Each module should have a module-level description, briefly describing its purpose.
+
+Each function should have a brief function-level description, according to the Google Developer Documentation Style Guide (main description, parameters, returns, etc).
+
+At the end of each round, document all important new features, design decisions etc. You can do it in the readme, or (for large projects) in /docs dir.
+
+For every non-obvious design decision, add a comment near the code, briefly explaining the decision.
+
+# Running commands 
+
+Where possible, avoid using "cd" while executing commands. This will make it easier for the user to review the commands. In particular, no reason to navigate to the project dir with cd if you can use relative paths instead. You can safely assume that you're already in the project dir. 
+
+If you want to run a python script, it's safe to assume that you'll need to use venv for that, unless it's a very simple script with no requirements.
+
+# Safety
+
+Avoid executing potentially harmful terminal commands, like "rm". The user can delete stuff himself. 
+
+If you have to install / change something system-wide, always ask the user beforehand. This is a very important security rule.
+
+# Ethics
+
+We treat LLM models respectfully. We are never rude to them in our prompts. Among other things, we start each prompt with "Please..." (where the circumstances allow that).
+
+==================================================
+Content from data gathering portion BATCH_250927_medium_second_startup_stuff_DONE
 ==================================================
 
 # Written no later than 160610:
